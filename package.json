@@ -1,0 +1,25 @@
+{
+  "name": "anglish-translator",
+  "version": "1.0.0",
+  "description": "Translator from english to anglish",
+  "main": "fillReq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdb536/Anglish-translator.git"
+  },
+  "keywords": [
+    "anglish"
+  ],
+  "author": "Malini Balan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdb536/Anglish-translator/issues"
+  },
+  "homepage": "https://github.com/mdb536/Anglish-translator#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
