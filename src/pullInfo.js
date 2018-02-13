@@ -6,8 +6,8 @@ var cheerioParser = require('cheerio-tableparser');
 
 //https://www.gitbook.com/book/kevinchisholm/basic-web-scraping-with-node-js-and-cheerio-js/details
 
-var dir = "texts/English_Wordbook/"
-
+const dir = "texts/English_Wordbook/";
+const aDir = "texts/Anglish_Wordbook"; 
 
 const engTemplate = {
 	Chancery:"",
@@ -16,17 +16,24 @@ const engTemplate = {
 	Unattested:""
 };
 
-function retrieveHTML(url, fileName){
+const angTemplate = {
+	Anglish:"",
+	Class:"",
+	Meaning:"",
+	Origin:"",
+}
+
+function retrieveHTML(url, fileName, dir){
 	request(url, function(err, response, body){
 		if(!err && response.statusCode == 200){
-			var loading = cheerio.load(body);
-			var table = loading('table').html();
+			const loading = cheerio.load(body);
+			let table = loading('table').html();
 
 			table = "<table>" + table + "</table>";
 
-			var $ = cheerio.load(table);
+			const $ = cheerio.load(table);
 			cheerioParser($);
-			var arr = $("table").parsetable(true, true, true);
+			let arr = $("table").parsetable(true, true, true);
 
 			const data = arrToObj(arr, 2, engTemplate);
 
@@ -74,9 +81,6 @@ function arrToObj(arr, bInd, template){
 		let subTemp = Object.assign({}, template);
 		for(const prop in template){
 			if(arr[i][j] !== undefined){
-				subTemp[prop] = cleanString(arr[i][j]);
-			}
-			else{
 				subTemp[prop] = (arr[i][j]);
 			}
 			i++;
@@ -87,10 +91,14 @@ function arrToObj(arr, bInd, template){
 
 	return parseData;
 }
+
 function cleanString(str){
 	let retStr = str;
 	if(retStr.includes("\\")){
 		retStr = retStr.replace("\\", "");
+	}
+	if(retStr.includes(",\n")){
+		retStr = retStr.replace(",\n", ", ");
 	}
 	if(retStr.includes("\n")){
 		retStr = retStr.replace("\n", ",");
@@ -100,7 +108,13 @@ function cleanString(str){
 
 for(let i = 65; i <= 90; i++){
 	const url = 'http://anglish.wikia.com/wiki/English_Wordbook/' + String.fromCharCode(i);
-	retrieveHTML(url, String.fromCharCode(i));
+	retrieveHTML(url, String.fromCharCode(i), dir);
+}
+
+let alphArr = ["A", "B", "C", "D", "E", "F", "G", "H", 'IJ', "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "UV", "W", "XYZ"];
+for(let j = 0; j < alphArr.length; j++){
+	const nUrl = 'http://anglish.wikia.com/wiki/Anglish_wordbook/' + alphArr[j];
+	
 }
 
 
