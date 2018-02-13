@@ -1,0 +1,725 @@
+{"Chancery":"cabaret","Class":"n","Attested":"club, nightspot,roadhouse, nightclub","Unattested":"-"}
+{"Chancery":"cabbage","Class":"n","Attested":"kole","Unattested":"-"}
+{"Chancery":"cabinet","Class":"n","Attested":"hutch, sideboard, locker","Unattested":"mugboard, hoardingoffice: ambight, redeship"}
+{"Chancery":"cable","Class":"n","Attested":"wire, rope, lead","Unattested":"ropewire"}
+{"Chancery":"caboose","Class":"n","Attested":"-","Unattested":"ward wagon, aftwagon"}
+{"Chancery":"cacao","Class":"n","Attested":"-","Unattested":"brownbean"}
+{"Chancery":"cache","Class":"n","Attested":"hoard","Unattested":"putstow, bike"}
+{"Chancery":"cacophony","Class":"n","Attested":"rattle, roar, din","Unattested":""}
+{"Chancery":"cactus","Class":"n","Attested":"-","Unattested":"fatthistle"}
+{"Chancery":"cadaver","Class":"n","Attested":"shell, framework,slang:  stiff,body,dead body","Unattested":"boneshaft"}
+{"Chancery":"cadaverous","Class":"adj","Attested":"deathly, wan, bloodless,ashen, hollow-eyed","Unattested":"-"}
+{"Chancery":"cadet","Class":"n","Attested":"","Unattested":"forefighter"}
+{"Chancery":"cadmium","Class":"n","Attested":"","Unattested":"Wodan"}
+{"Chancery":"cæcum","Class":"n","Attested":"blinde gut","Unattested":"blindtharm, blindgut"}
+{"Chancery":"Cæsar","Class":"n","Attested":"overlord,high-king, kaiser","Unattested":"-"}
+{"Chancery":"cæsium","Class":"n","Attested":"-","Unattested":"silverwhite,lightbrick mote"}
+{"Chancery":"café","Class":"n","Attested":"tearoom(<note: Non-English),roadhouse; taproom,watering hole","Unattested":"-"}
+{"Chancery":"cafeteria","Class":"n","Attested":"lunchroom, lunch house,luncheonhouse,food hall,eating hall","Unattested":"-"}
+{"Chancery":"cajole","Class":"vb","Attested":"soft-soap,sweet-talk, wheedle","Unattested":""}
+{"Chancery":"calamari","Class":"n","Attested":"cuttlefish","Unattested":""}
+{"Chancery":"calcaneüs","Class":"n","Attested":"heelbone","Unattested":""}
+{"Chancery":"calcium","Class":"n","Attested":"-","Unattested":"limemote(W.Fris. koalsoere kalk)"}
+{"Chancery":"calcium carbonate","Class":"n","Attested":"-","Unattested":"coalsour lime"}
+{"Chancery":"calculate","Class":"vb","Attested":"reckon, work out","Unattested":"-"}
+{"Chancery":"calculation","Class":"n","Attested":"tale, reckoning","Unattested":"-"}
+{"Chancery":"calculator","Class":"n","Attested":"-","Unattested":"handreckoner, rimereckoner, scorer"}
+{"Chancery":"calculus","Class":"n","Attested":"reckoning","Unattested":"flowreckoning, riming,telgrinding(<OE rim, tal 'number')"}
+{"Chancery":"calendar","Class":"n","Attested":"daybook","Unattested":"timetale"}
+{"Chancery":"calisthenics","Class":"n","Attested":"drills","Unattested":""}
+{"Chancery":"calligraphy","Class":"n","Attested":"longhand","Unattested":"pretty writing, litwriting"}
+{"Chancery":"calligraphy pen","Class":"n","Attested":"-","Unattested":"longhandwritingise/-iron(longhand + OEwrītungīsen, \"style pen\"),wlitwritingise/-iron(compound of \"wlitwriting\"+ OE wrītingīsen)"}
+{"Chancery":"callous","Class":"adj","Attested":"hardened, cold-hearted,flint-hearted, heartless,soulless, stony,stony-hearted, steely,thick-skinned, unfeeling","Unattested":"-"}
+{"Chancery":"calm","Class":"adj","Attested":"lown, flack","Unattested":"roolie (Eng.,Du. rolig,Ic. roleg,NHG ruhig)(see also roo')"}
+{"Chancery":"calm","Class":"vb","Attested":"lull, settle, soothe","Unattested":"beroolie(cf. NHG. beruhigen)"}
+{"Chancery":"caluminate","Class":"vb","Attested":"grime, sully, betell","Unattested":"forwray(<OE forwregan)"}
+{"Chancery":"calque","Class":"n","Attested":"loanword, borrowing","Unattested":"loan oversetting(<NHG Lehnübersetzung)"}
+{"Chancery":"calyx","Class":"n","Attested":"-","Unattested":"bloomleaf"}
+{"Chancery":"camel","Class":"n","Attested":"-","Unattested":"olvend (<OE olfend),twohump, drylander"}
+{"Chancery":"camera","Class":"n","Attested":"-","Unattested":"bildfanger, bildtaker"}
+{"Chancery":"camouflage","Class":"n","Attested":"dapple, (dappling,dappleshell, dapplehide,dappleclad, dappleteld)dazzle-painting","Unattested":"derning(<OE diernan,cf. NHG Tarnung)"}
+{"Chancery":"camomile","Class":"n","Attested":"-","Unattested":"maylix"}
+{"Chancery":"camp","Class":"n","Attested":"leaguer (from Dutch),lair, haltstead","Unattested":"-"}
+{"Chancery":"campaign","Class":"n","Attested":"bandwagon, drive","Unattested":"military:axfare (<OE æxfaru)fieldtought (<Du.),bandwain"}
+{"Chancery":"campaign","Class":"vb","Attested":"take the stump, barnstorm","Unattested":"-"}
+{"Chancery":"campus","Class":"n","Attested":"-","Unattested":"lorefield, lorerealm,bittel (<OE gebytlu)"}
+{"Chancery":"canal","Class":"n","Attested":"leat, waterway","Unattested":"-"}
+{"Chancery":"cancer","Class":"n","Attested":"growthzodiac: Crab","Unattested":"disease:Mireless Thrimfold ~ MTF(Unlimited TissueMultiplication),crabgrowth"}
+{"Chancery":"candelabrum","Class":"n","Attested":"-","Unattested":"glimtree"}
+{"Chancery":"candidate","Class":"n","Attested":"hopeful, runner","Unattested":"-"}
+{"Chancery":"candied","Class":"adj","Attested":"sweetened","Unattested":"-"}
+{"Chancery":"candy","Class":"n","Attested":"sweets","Unattested":"sweetiness"}
+{"Chancery":"canine","Class":"adj","Attested":"doggy, houndlike,doglike, doggish","Unattested":"-"}
+{"Chancery":"canine","Class":"n","Attested":"hound, dog","Unattested":"-"}
+{"Chancery":"cannon","Class":"n","Attested":"-","Unattested":"dunspar(contr. of dun and spear)Fallbuss (cf. Ic. Fallbyssa)"}
+{"Chancery":"cannibal","Class":"n","Attested":"maneater","Unattested":"selfeater(<OE selfæta)"}
+{"Chancery":"canoe","Class":"n","Attested":"dugout","Unattested":"-"}
+{"Chancery":"cantaloupe","Class":"n","Attested":"-","Unattested":"netrindberry,netshellberry,netbarkberry(calque of Finnish verkkomeloni)"}
+{"Chancery":"canvas","Class":"n","Attested":"-","Unattested":"hempcloth"}
+{"Chancery":"canyon","Class":"n","Attested":"gulch","Unattested":"-"}
+{"Chancery":"capacity","Class":"n","Attested":"room, berth, strength,gift, readiness","Unattested":"heldth"}
+{"Chancery":"cape","Class":"n","Attested":"sleeveless coatgeography: foreland,headland, ness","Unattested":"mantle (cf. Du. mantel)"}
+{"Chancery":"capital","Class":"n/adj","Attested":"wealth, means, wherewithal;sterling; foremost","Unattested":"letter (ABC):greatbookstave(cf.NHG großbuchstabe)"}
+{"Chancery":"capital city","Class":"n","Attested":"-","Unattested":"headburg, reevetown,kinesettle (<OE cynesetl),headstead"}
+{"Chancery":"capitalist","Class":"n","Attested":"silk stocking","Unattested":"-"}
+{"Chancery":"capitalization","Class":"n","Attested":"-","Unattested":"blockwrit, block writing"}
+{"Chancery":"capitate bone","Class":"n","Attested":"-","Unattested":"headbone. head wristbone"}
+{"Chancery":"capricious","Class":"adj","Attested":"fickle","Unattested":"nickfull (<Sw, cf. Du. nikkig)"}
+{"Chancery":"capsize","Class":"vb","Attested":"keel, upset, overwend","Unattested":"wemmel"}
+{"Chancery":"captain","Class":"n","Attested":"headman, leader","Unattested":"shipper (<M Du. scipperand Eng. skipper)"}
+{"Chancery":"caption","Class":"n","Attested":"-","Unattested":"underwrit (cf. Du. underschrift,NHG bildunterschrift)"}
+{"Chancery":"captivate","Class":"vb","Attested":"wile","Unattested":"witch"}
+{"Chancery":"captive","Class":"n/adj","Attested":"penned, locked up","Unattested":"n: haftling (<OE haftling),adj: hafted"}
+{"Chancery":"captivity","Class":"n","Attested":"-","Unattested":"haftedness (<OE gehæftednes)"}
+{"Chancery":"capture","Class":"vb","Attested":"nail, take, kidnap,steal, swipe, nab","Unattested":"latch"}
+{"Chancery":"car","Class":"n","Attested":"slang:  wheels, ride,hot rod, roadster","Unattested":"wain, wagon,horseless buggy (obsolete),buggy,selfbeweigher (calque of automobile)"}
+{"Chancery":"caravan","Class":"n","Attested":"tradewagon","Unattested":"kinwain,housewain (cf. Sw. husvagn),,kinwagon, housewagon"}
+{"Chancery":"carbon","Class":"n","Attested":"chark, soot","Unattested":"coalmote, lifemote"}
+{"Chancery":"carbon dioxide","Class":"n","Attested":"-","Unattested":"wortloft"}
+{"Chancery":"carburator","Class":"n","Attested":"-","Unattested":"forelofter"}
+{"Chancery":"carcass","Class":"n","Attested":"bones, stiff, lich","Unattested":"-"}
+{"Chancery":"card","Class":"n","Attested":"sheet, board","Unattested":"-"}
+{"Chancery":"cardboard","Class":"n","Attested":"headboard","Unattested":"boardsheet"}
+{"Chancery":"cardiac arrest","Class":"n","Attested":"heartstop","Unattested":"-"}
+{"Chancery":"cardinal","Class":"n","Attested":"bird: redbird","Unattested":"Church official:godsearl (cf. H Ic. guðsjarl);,Whule (cf. Sw. Hwul)"}
+{"Chancery":"career","Class":"n","Attested":"calling, game (inf.),walk of life","Unattested":"-"}
+{"Chancery":"caress","Class":"vb","Attested":"fondle, stroke","Unattested":"-"}
+{"Chancery":"cargo","Class":"n","Attested":"draft, freight,haul, loading, weight","Unattested":"fraught (for + aught, cf. Eng freight)"}
+{"Chancery":"cargo ship","Class":"n","Attested":"freighter","Unattested":"fraughter"}
+{"Chancery":"caribou","Class":"n","Attested":"reindeer","Unattested":"-"}
+{"Chancery":"carnal","Class":"adj","Attested":"fleshly","Unattested":"-"}
+{"Chancery":"carnation","Class":"n","Attested":"-","Unattested":"nailling, nailken (cf. NHG Nelke),nailbloom"}
+{"Chancery":"carnivore","Class":"n","Attested":"meateater, flesheater","Unattested":"-"}
+{"Chancery":"carouse","Class":"vb","Attested":"birl","Unattested":"-"}
+{"Chancery":"carousel","Class":"n","Attested":"-","Unattested":"merry-wend,merry-go-about (cf. Eng. merry-go-round)"}
+{"Chancery":"carpal bone","Class":"n","Attested":"-","Unattested":"wristbone"}
+{"Chancery":"carpenter","Class":"n","Attested":"woodworker","Unattested":"woodsmith, woodcraftsman,treewright (<OE trēowwyrhta)"}
+{"Chancery":"carpentry","Class":"n","Attested":"wödkraft, woodcraft,becraftliness, craftliness,","Unattested":"treewrighting"}
+{"Chancery":"carpet","Class":"n","Attested":"-","Unattested":"stepcloth, floorcloth, groundcloth"}
+{"Chancery":"carriage","Class":"n","Attested":"bearing","Unattested":"wain, wagon"}
+{"Chancery":"carrot","Class":"n","Attested":"more(<OE moru, cf. NHG Möhre)","Unattested":"-"}
+{"Chancery":"carry","Class":"vb","Attested":"bear, weigh, ferry, take","Unattested":"-"}
+{"Chancery":"cartilage","Class":"n","Attested":"grissel","Unattested":"crackbone (cf. Du. kraakbeen)"}
+{"Chancery":"cartilaginous fish","Class":"n","Attested":"-","Unattested":"grisselfish,crackbonefish (cf. Du. kraakbeenvis)"}
+{"Chancery":"cartouche","Class":"n","Attested":"-","Unattested":"deckwrit"}
+{"Chancery":"cartridge","Class":"n","Attested":"bag, load, holder","Unattested":"-"}
+{"Chancery":"case","Class":"n","Attested":"hull, husk, pod, sheath, shell; box,in case: lest, by fear of, if... should, befall","Unattested":"grammar: fall,in case: fall\ncase: fall"}
+{"Chancery":"cashew","Class":"n","Attested":"-","Unattested":"kidneyapple"}
+{"Chancery":"cashewnut","Class":"n","Attested":"-","Unattested":"kidneynut"}
+{"Chancery":"casing","Class":"n","Attested":"shell, brass","Unattested":"-"}
+{"Chancery":"casino","Class":"n","Attested":"-","Unattested":"bethall, bethouse, gaming house"}
+{"Chancery":"cast away","Class":"vb","Attested":"-","Unattested":"anbewarp (<OE anbeweorpan)"}
+{"Chancery":"castle","Class":"n","Attested":"burg, stronghold,innermost keep","Unattested":"stronghouse, fastenwork,(<OE \"fæsten\" + \"weorc\",cf German \"Festung\"),\nchestel (<Latinate OE \"ċeastel\")"}
+{"Chancery":"casual","Class":"adj","Attested":"breezy, blithe,light-hearted","Unattested":"-"}
+{"Chancery":"catch","Class":"vb","Attested":"snare, snarl, snag,latch, fang, nab","Unattested":"-"}
+{"Chancery":"catechism","Class":"n","Attested":"-","Unattested":"frodleering (cf. Ic. Trúfræðslurit)"}
+{"Chancery":"catechize","Class":"vb","Attested":"grill, sweat slang","Unattested":"frain"}
+{"Chancery":"categorize","Class":"vb","Attested":"-","Unattested":"fade (<OE fadian)"}
+{"Chancery":"caterpillar","Class":"n","Attested":"-","Unattested":"cawlworm (<OE cawelwyrm),leafworm(<OE leafwyrm)\nmealshave (<OE mælsceafa)"}
+{"Chancery":"cathedral","Class":"n","Attested":"headchurch,","Unattested":"-"}
+{"Chancery":"catheter","Class":"n","Attested":"-","Unattested":"leat"}
+{"Chancery":"cathode","Class":"n","Attested":"-","Unattested":"downway"}
+{"Chancery":"catholic","Class":"adj","Attested":"-","Unattested":"broadchurch"}
+{"Chancery":"catkin","Class":"n","Attested":"-","Unattested":"bloomtail"}
+{"Chancery":"cattle","Class":"n","Attested":"cows, livestock, kine, nowt, fee, neat","Unattested":"rother"}
+{"Chancery":"Caucasian (race)","Class":"n","Attested":"white","Unattested":"Caucasish, Caucaser"}
+{"Chancery":"cauldron","Class":"n","Attested":"kettle","Unattested":"-"}
+{"Chancery":"cauliflower","Class":"n","Attested":"-","Unattested":"bloomcole"}
+{"Chancery":"cause","Class":"n","Attested":"bring-about, let-on,wherefrom","Unattested":"frum (<OE fruma), onlet, orsake (calque from many Germanic languages)"}
+{"Chancery":"cause","Class":"vb","Attested":"beget, breed, drive,make, work, yield","Unattested":"fuse (<ME fusen), fororsake (calque of many Germanic languages)"}
+{"Chancery":"casue, without","Class":"adv","Attested":"-","Unattested":"hoolings (<OE holunga)"}
+{"Chancery":"caustic","Class":"adj","Attested":"burning","Unattested":"-"}
+{"Chancery":"cautery","Class":"n","Attested":"-","Unattested":"tharm tool"}
+{"Chancery":"caution","Class":"n","Attested":"wariness, forewit, care, reck, heeding","Unattested":"-"}
+{"Chancery":"cavalier","Class":"n","Attested":"horseman","Unattested":"kingfollower (Charles II)"}
+{"Chancery":"cavalry","Class":"n","Attested":"horsemen, riders","Unattested":"rideware (cf. NHG Reiterei)"}
+{"Chancery":"cave","Class":"n","Attested":"-","Unattested":"hidles (pl. hidleses), cleave (<OE cleofa), delve"}
+{"Chancery":"cave(wo)man","Class":"n","Attested":"-","Unattested":"hidles(wo)man, cleave(wo)man"}
+{"Chancery":"cavil","Class":"vb","Attested":"carp","Unattested":"-"}
+{"Chancery":"cavity","Class":"n","Attested":"dint, hollow, pit","Unattested":"-"}
+{"Chancery":"cease","Class":"vb","Attested":"stop, lay off, halt,give up, leave off, blin","Unattested":"-"}
+{"Chancery":"ceasefire","Class":"n","Attested":"truce","Unattested":"weaponsstandstill (cf. Du. wapenstilstand, NHG. Waffenstillstand)"}
+{"Chancery":"cecograph","Class":"n","Attested":"-","Unattested":"blindwriter"}
+{"Chancery":"cede","Class":"vb","Attested":"yield, hand over, give up,,overgive (Eng., NHG. übergeben, Du. overgeven, Dan. overgive)","Unattested":"orgive, oryeve"}
+{"Chancery":"cedilla","Class":"n","Attested":"-","Unattested":"zedling, zeeling"}
+{"Chancery":"ceiling","Class":"n","Attested":"firstroof, highroof, loftroof","Unattested":"-"}
+{"Chancery":"celebrate","Class":"vb","Attested":"-","Unattested":"frealse (<OE freolsian)"}
+{"Chancery":"celebration","Class":"n","Attested":"-","Unattested":"frealsing"}
+{"Chancery":"celery","Class":"n","Attested":"-","Unattested":"fenroot"}
+{"Chancery":"celestial","Class":"adj","Attested":"heavenly","Unattested":"skily (sky + -ly)"}
+{"Chancery":"celestial bow","Class":"n","Attested":"rainbow, heaven's bow","Unattested":"-"}
+{"Chancery":"celestial sphere","Class":"n","Attested":"-","Unattested":"rother (<OE rodor)"}
+{"Chancery":"cell","Class":"n","Attested":"hole, room","Unattested":"frum (cf. Ic. fruma), lifebrock"}
+{"Chancery":"cell division","Class":"n","Attested":"-","Unattested":"frumcleaving"}
+{"Chancery":"cellar","Class":"n","Attested":"-","Unattested":"clove (<OE cleofa)"}
+{"Chancery":"cellulose","Class":"n","Attested":"-","Unattested":"treestand, frumsweet (calque)"}
+{"Chancery":"cemetery","Class":"n","Attested":"graveyard, boneyard,burying-ground.Obsolete: lich-rest (in OED)","Unattested":"church-litten, still-hill (slang)"}
+{"Chancery":"censorship","Class":"n","Attested":"-","Unattested":"cleaning"}
+{"Chancery":"censure","Class":"vb","Attested":"upbraid","Unattested":"-"}
+{"Chancery":"census","Class":"n","Attested":"tale","Unattested":"marking (cf. OE tomearcodnes), folkscoring"}
+{"Chancery":"cent","Class":"n","Attested":"penny, hundredth","Unattested":"-"}
+{"Chancery":"centaur","Class":"n","Attested":"-","Unattested":"horsemennish (cf. Du. paardmens),manhorse, halfhorse"}
+{"Chancery":"centimeter","Class":"n","Attested":"-","Unattested":"hundredthmete"}
+{"Chancery":"centipede","Class":"n","Attested":"-","Unattested":"thousandfoot (cf. Du. duizendpoot; NHG Tausendfüße)"}
+{"Chancery":"centre/center","Class":"n/vb","Attested":"n: kernel, heart; middle, midst,vb: fix; spotlight","Unattested":"-"}
+{"Chancery":"central","Class":"adj","Attested":"location: middle, mean, midway, midmost, middle-of-the-road,importance: main, key, leading, ruling","Unattested":"midwise, midly"}
+{"Chancery":"centurion","Class":"n","Attested":"-","Unattested":"hundfrea (<OE hundfrēa)"}
+{"Chancery":"century","Class":"n","Attested":"yearhundred(<NHG. Jahrhundert)","Unattested":"year-fivescore/ yearfivescore (literally means a year and five twenties), hundredyear, fivescore (five twenties)"}
+{"Chancery":"cereal","Class":"n","Attested":"-","Unattested":"morningcorn (cf. Ic. morgunkorn)"}
+{"Chancery":"certain","Class":"adj","Attested":"wis","Unattested":"sicker (Eng., calque Ger. speeches),specific: bestevened (cf. NHG bestimmt) (see steven)"}
+{"Chancery":"certainly","Class":"adv","Attested":"wisly","Unattested":"sickerly, soothly, iwis"}
+{"Chancery":"certainty","Class":"n","Attested":"-","Unattested":"wishood (cf. NHG Gewissheit), soothness"}
+{"Chancery":"certificate","Class":"n","Attested":"","Unattested":"beshining (cf. NHG bescheinigung),witnessword\nsickering"}
+{"Chancery":"certify","Class":"v","Attested":"-","Unattested":"beshine (calque of Ger. speeches),confirm: besteady (calque of Ger. speeches)"}
+{"Chancery":"cerulean","Class":"adj","Attested":"-","Unattested":"swail blue"}
+{"Chancery":"cerumen","Class":"n","Attested":"earwax","Unattested":"-"}
+{"Chancery":"chain","Class":"n","Attested":"shackle, fetter","Unattested":"-"}
+{"Chancery":"chair","Class":"n","Attested":"seat, stool","Unattested":"settle"}
+{"Chancery":"chalice","Class":"n","Attested":"bowl","Unattested":"way(e) (<OE wæge)"}
+{"Chancery":"chalk","Class":"n","Attested":"limestone","Unattested":"limestonestick"}
+{"Chancery":"challenge","Class":"n/vb","Attested":"knot; dare; becall","Unattested":"-"}
+{"Chancery":"chamber","Class":"n","Attested":"room, bay (enclosed space)","Unattested":"-"}
+{"Chancery":"chameleon/chamaeleon","Class":"n","Attested":"-","Unattested":"fayingask (<OE fágian 'to change in color, vary, be variegated'),wristlehueask"}
+{"Chancery":"chance","Class":"n","Attested":"luck, opening","Unattested":"by chance: faringly (<OE færinga)"}
+{"Chancery":"change","Class":"vb/n","Attested":"shift, switch, makeoverdough (cash), warp","Unattested":"frother (for- + other; cf. Fr. feroaring, Du. veranderen, NHG. verändern),wend, char, wristle (<OE wrixlian)"}
+{"Chancery":"channel","Class":"n","Attested":"fairway, race, ford","Unattested":"sound (<OE sund 'long narrow inlet)"}
+{"Chancery":"chaos","Class":"n","Attested":"mess","Unattested":"dwolm (<OW dwolma)"}
+{"Chancery":"Charlemagne","Class":"n","Attested":"Carl/Charles the Great","Unattested":"-"}
+{"Chancery":"character","Class":"n","Attested":"clay, selfhood, self, shtick","Unattested":"in a story: hoad (<OE hād)feature: folklihood (cf. Du. persoonlijkheid)moral strength: wilstrength (will + strength) (cf. Du. viljestyrke)symbol: token (cf. NHG Zeichen, Dn. tegn)"}
+{"Chancery":"charge","Class":"n/vb","Attested":"fill, load, outlay; lading","Unattested":"military: angriff"}
+{"Chancery":"charged","Class":"adj","Attested":"owing, laden (electric)","Unattested":"-"}
+{"Chancery":"charitable","Class":"adj","Attested":"kind, freehanded, freehearted, unselfish,unsparing, unstinting","Unattested":"kisty (<OE cystig)"}
+{"Chancery":"charity","Class":"n","Attested":"help, gift, hand-out,goodness, goodwill,fellow feeling; alms,dole; ruth; brotherhood","Unattested":"kistiness"}
+{"Chancery":"charlatan","Class":"n","Attested":"swindler","Unattested":"-"}
+{"Chancery":"charming","Class":"adj","Attested":"friendly, lovely, winsome, comely","Unattested":"-"}
+{"Chancery":"charter","Class":"n","Attested":"-","Unattested":"rightsledging; booking (from OE book -- \"assignment of land by charter\")"}
+{"Chancery":"chase","Class":"vb","Attested":"hotfoot, put to flight","Unattested":"-"}
+{"Chancery":"chastise","Class":"vb","Attested":"chew out, chide, flay,hammer, jaw, keelhaul,ream out, tongue-lash, upbraid","Unattested":"threap"}
+{"Chancery":"cheat","Class":"n/vb","Attested":"shark, bilk, do in,nobble, rip off,rig, swindle;shark, dodger,swindler, lirt,belirt, threap","Unattested":"-"}
+{"Chancery":"check","Class":"vb","Attested":"-","Unattested":"oversoothe (cf. NHG überprüfen)"}
+{"Chancery":"checkers (game)","Class":"n","Attested":"draughts","Unattested":"-"}
+{"Chancery":"cheer","Class":"n","Attested":"glee, merriness, mirthfulness","Unattested":"-"}
+{"Chancery":"cheer","Class":"vb","Attested":"gladden, root, hearten,perk up, blithen","Unattested":"bemirth"}
+{"Chancery":"chef d'oeuvre","Class":"n","Attested":"masterwork","Unattested":"reevework,mastersteck (cf. Du. meesterstuk)"}
+{"Chancery":"chemistry","Class":"n","Attested":"-","Unattested":"blendlore"}
+{"Chancery":"cherish","Class":"vb","Attested":"hold dear, cleave to,care for, love,look after, shelter; harbor","Unattested":""}
+{"Chancery":"cherry","Class":"n","Attested":"-","Unattested":"chirsh (<OE ciris; cf. Du. kers; NHG Kirsche)"}
+{"Chancery":"chestplate (armour, see tunic)","Class":"n","Attested":"chesthelm, breasthelm","Unattested":"-"}
+{"Chancery":"chief","Class":"n","Attested":"ringleader","Unattested":"-"}
+{"Chancery":"chieftain","Class":"n","Attested":"-","Unattested":"heretough (<OE heretoha),headling (cf. NHG Häuptling)"}
+{"Chancery":"chikungunya","Class":"n","Attested":"-","Unattested":"upbend driff"}
+{"Chancery":"chili","Class":"n","Attested":"-","Unattested":"hotcride"}
+{"Chancery":"chimpanzee","Class":"n","Attested":"-","Unattested":"mockman (calque of a Bantu language ci-mpenzi)"}
+{"Chancery":"China","Class":"n","Attested":"-","Unattested":"Midric (cf. H. Ic. Miðríki)"}
+{"Chancery":"Chinese Characters","Class":"n","Attested":"-","Unattested":"midricrunes/-rouns ( calque), midricwrit (calque)"}
+{"Chancery":"chivalrous","Class":"n","Attested":"big, greathearted,high-minded, lofty, lordly","Unattested":"hovely"}
+{"Chancery":"chivalry","Class":"n","Attested":"knightliness","Unattested":"lordlihood, kindhood, riderliness (for sake of \"knight\" meaning servant, NHG \"Ritter\")"}
+{"Chancery":"chlorine","Class":"n","Attested":"-","Unattested":"yellowgreenmote"}
+{"Chancery":"chlorophyll","Class":"n","Attested":"leafgreen","Unattested":"-"}
+{"Chancery":"chocolate","Class":"adj/n","Attested":"-","Unattested":"muckeats/muckfood (cf. H. Ic. mógæti)"}
+{"Chancery":"chocolate milk","Class":"n","Attested":"-","Unattested":"muckeatsmilk, muckmilk"}
+{"Chancery":"choice","Class":"n","Attested":"choosing, picking, wale","Unattested":"kire (cf. ME kire)"}
+{"Chancery":"cholesterol","Class":"n","Attested":"-","Unattested":"gallvat"}
+{"Chancery":"chrestomathy","Class":"n","Attested":"-","Unattested":"nuttlecouthness (calque of Gk. compound, nuttle <OE nyttol 'useful' for 'chresto-' + couthness <OE cuþnes 'knowledge' for '-mathy')"}
+{"Chancery":"Christian","Class":"n","Attested":"-","Unattested":"Cristish, Cristly,n: Crister"}
+{"Chancery":"Christianity","Class":"n","Attested":"-","Unattested":"Cristendom"}
+{"Chancery":"Christmas","Class":"n","Attested":"Yule","Unattested":"-"}
+{"Chancery":"chromosome","Class":"n","Attested":"-","Unattested":"lifepith"}
+{"Chancery":"chromatid","Class":"n","Attested":"-","Unattested":"lifepithhalf"}
+{"Chancery":"chronicle","Class":"n","Attested":"ledger, tale, saga","Unattested":"saw"}
+{"Chancery":"chronology","Class":"n","Attested":"timeline","Unattested":"timeflow"}
+{"Chancery":"chrysanthemum","Class":"n","Attested":"-","Unattested":"goldbloom"}
+{"Chancery":"church (early Greek borrowing into PG)","Class":"n","Attested":"-","Unattested":"holihouse"}
+{"Chancery":"cider","Class":"n","Attested":"apple wine","Unattested":"-"}
+{"Chancery":"cigar","Class":"n","Attested":"smoke","Unattested":"smokelog, smokewrap, windle (calque of Icelandic vindill)"}
+{"Chancery":"cigarette","Class":"n","Attested":"smoke, fag, butt, stompie","Unattested":"windling"}
+{"Chancery":"cinema","Class":"n","Attested":"-","Unattested":"bilths, filmhouse"}
+{"Chancery":"cinquefoil","Class":"n","Attested":"-","Unattested":"fiffinger"}
+{"Chancery":"cipher","Class":"n","Attested":"-","Unattested":"homewrit (cf. Dutch geheimschrift)"}
+{"Chancery":"circa","Class":"prep","Attested":"about,","Unattested":"umb/umbe (Eng., <OE ymbe cf,. NHG um)"}
+{"Chancery":"circle","Class":"n","Attested":"ring, loop, wreath,trindle, trundle","Unattested":"trind"}
+{"Chancery":"circuit","Class":"n","Attested":"ringway","Unattested":"-"}
+{"Chancery":"circulate","Class":"vb","Attested":"flow; broadcast","Unattested":"umflow"}
+{"Chancery":"circulation","Class":"n","Attested":"flow","Unattested":"umfaring, forfaring,umflow"}
+{"Chancery":"circulatory system","Class":"n","Attested":"bloodstream","Unattested":"-"}
+{"Chancery":"circum-/ circul-","Class":"pfx","Attested":"-","Unattested":"um-/umb-"}
+{"Chancery":"circumcise","Class":"vb","Attested":"cut, unhood, unforeskin","Unattested":"rend, umcut, umsnithe (<OE ymbsniðan), besnithe (cf. NHG beschneiden)"}
+{"Chancery":"circumference","Class":"n","Attested":"rim, outring","Unattested":"rimlength, rimreach, rimspan,,umgang (Eng.)"}
+{"Chancery":"circumflex","Class":"n","Attested":"-","Unattested":"stavehat"}
+{"Chancery":"circumnavigate","Class":"vb","Attested":"-","Unattested":"umship (cf. NHG umschiffen)"}
+{"Chancery":"circumspect","Class":"adj","Attested":"careful, watchful","Unattested":"-"}
+{"Chancery":"circumstance","Class":"n","Attested":"doom, hap, luck","Unattested":"umstand (<OE ymbstandenness, cf. NHG. umstand),umstalling"}
+{"Chancery":"circumvent","Class":"vb","Attested":"shortcut, sidestep;girdle, ring","Unattested":"umwork"}
+{"Chancery":"circus","Class":"n","Attested":"big top","Unattested":"-"}
+{"Chancery":"cirrocumulus","Class":"n","Attested":"-","Unattested":"curlcloud"}
+{"Chancery":"citizen","Class":"n","Attested":"townsman, burgher","Unattested":"boroughman, burrow/oughlede (<OE burglēod), ethelman"}
+{"Chancery":"citizenship","Class":"n","Attested":"-","Unattested":"boroughership (Eng., cf. NHG bürgerschaft, Du. burgerschap), ethelmanship"}
+{"Chancery":"citroen","Class":"n","Attested":"sourapple","Unattested":"-"}
+{"Chancery":"city","Class":"n","Attested":"stead, borough, burgh, town","Unattested":"-"}
+{"Chancery":"civet cat","Class":"n","Attested":"-","Unattested":"slipcat"}
+{"Chancery":"civil","Class":"adj","Attested":"folk","Unattested":"-"}
+{"Chancery":"civil law","Class":"n","Attested":"-","Unattested":"folklaw"}
+{"Chancery":"civilian","Class":"n","Attested":"-","Unattested":"meanfolk, hovelman"}
+{"Chancery":"civility","Class":"n","Attested":"-","Unattested":"hoveliness"}
+{"Chancery":"clade","Class":"n","Attested":"-","Unattested":"bough (branch)"}
+{"Chancery":"cladogram","Class":"n","Attested":"-","Unattested":"boughbilth, boughwrit"}
+{"Chancery":"clairvoyance","Class":"n","Attested":"-","Unattested":"throughsight"}
+{"Chancery":"claim","Class":"n","Attested":"call, dibs, right; share, stake","Unattested":"forehold"}
+{"Chancery":"clamor","Class":"n","Attested":"din","Unattested":"greeding"}
+{"Chancery":"clan","Class":"n","Attested":"body, crowd, network,ring, set, blood, folks, house, kindred, line, set","Unattested":"-"}
+{"Chancery":"clarify","Class":"vb","Attested":"shed light on","Unattested":"swuttle (<ME swutel, <OE sweotol), sweetle"}
+{"Chancery":"classic","Class":"adj","Attested":"token","Unattested":"mean; highflack (flack <Du. vlak 'level')"}
+{"Chancery":"classical","Class":"adj","Attested":"-","Unattested":"tokenly,music: everswin"}
+{"Chancery":"classification","Class":"n","Attested":"tagging, branding","Unattested":"fading (<OE fadung)"}
+{"Chancery":"classify","Class":"vb","Attested":"tag, brand","Unattested":"fade (<OE fadian)"}
+{"Chancery":"claustrophobia","Class":"n","Attested":"-","Unattested":"narrowfear, tightnessfear"}
+{"Chancery":"clavicle","Class":"n","Attested":"-","Unattested":"keybone (cf. NHG Schlüsselbein)"}
+{"Chancery":"clear","Class":"adj/vb","Attested":"adj: sharp; lily-white,n: sharpen","Unattested":"sheer, swuttle (<OE sweotol, M. Eng. swutel),rithe/ruthe (<OE geryddan; cf. NHG roden; Ic. ryðja)"}
+{"Chancery":"clearing","Class":"n","Attested":"-","Unattested":"rithing/ruthing (<OE geryddan)"}
+{"Chancery":"clergy","Class":"n","Attested":"church, cloth","Unattested":"-"}
+{"Chancery":"clergyman","Class":"n","Attested":"churchman, father,shepherd, man of the cloth","Unattested":"-"}
+{"Chancery":"cliché","Class":"n/adj","Attested":"hackneyed, moth-eaten; n: groaner","Unattested":"-"}
+{"Chancery":"climate","Class":"n","Attested":"-","Unattested":"loftlay (cf. Ic. loftslag)"}
+{"Chancery":"cloaca","Class":"n","Attested":"cloäke","Unattested":"aldrain (all + drain)alclosethew (all + closethew (sphincter))"}
+{"Chancery":"clock","Class":"n","Attested":"timer","Unattested":"daymale, stounder, logger, daymeal"}
+{"Chancery":"clockwise","Class":"adj","Attested":"sunwise","Unattested":"-"}
+{"Chancery":"clone","Class":"n/vb","Attested":"twin","Unattested":"-"}
+{"Chancery":"close","Class":"vb","Attested":"shut, narrow","Unattested":"-"}
+{"Chancery":"close","Class":"adj","Attested":"near, narrow, nearby","Unattested":"-"}
+{"Chancery":"co-","Class":"pref","Attested":"fellow, by-, i-","Unattested":"-"}
+{"Chancery":"coagulate","Class":"vb","Attested":"clot","Unattested":"arun (cf. NHG gerinnen)"}
+{"Chancery":"coalition","Class":"n","Attested":"-","Unattested":"block (see Italian \"blocco\")"}
+{"Chancery":"coast","Class":"n","Attested":"shore, seashore, seaboard, strand; sail, drift","Unattested":"searim, warth"}
+{"Chancery":"coat of arms","Class":"n","Attested":"-","Unattested":"kinshield, wappen"}
+{"Chancery":"cocaine","Class":"n","Attested":"slangs: blow, snow, white, white lady, slim, snuff, girl","Unattested":"-"}
+{"Chancery":"coccyx","Class":"n","Attested":"tailbone","Unattested":"-"}
+{"Chancery":"cockroach","Class":"n","Attested":"-","Unattested":"shave (cf. NHG Schrabe)"}
+{"Chancery":"cocoa (bean)","Class":"n","Attested":"-","Unattested":"mucknut, muckbean, muckseed,bitternut, bitterbean, bitterseed"}
+{"Chancery":"cocoa (drink)","Class":"n","Attested":"-","Unattested":"muckbrew,bitterbrew"}
+{"Chancery":"coconut","Class":"n","Attested":"-","Unattested":"skulnut(skull + nut; coco comes fromSpan./Port. for skull)"}
+{"Chancery":"coeval","Class":"n/adj","Attested":"-","Unattested":"evenold"}
+{"Chancery":"coffee","Class":"n","Attested":"brew","Unattested":"-"}
+{"Chancery":"coffer","Class":"n","Attested":"-","Unattested":"hoardvat (<OE hordfæt)"}
+{"Chancery":"coffin","Class":"n","Attested":"-","Unattested":"through (<ME þruh, <OE) (rhymes with wow),deadchest (cf. Du. doodkist)"}
+{"Chancery":"cognate","Class":"n","Attested":"-","Unattested":"kinword"}
+{"Chancery":"cognizant","Class":"adj","Attested":"aware","Unattested":"rathe"}
+{"Chancery":"cohabit","Class":"vb","Attested":"live together","Unattested":"bylive"}
+{"Chancery":"coin","Class":"n","Attested":"-","Unattested":"mint (<OE mynet, cf. NHG Münze)"}
+{"Chancery":"coincidence","Class":"n","Attested":"happen-so (in OED, US regional colloq.)","Unattested":"likehappening, tofall (calqu of all Ger. speeches)"}
+{"Chancery":"coitus","Class":"n","Attested":"-","Unattested":"swiving, heamedlock (<OE hæmedlac), bysleep (<NHG Beischlaf)"}
+{"Chancery":"cojones","Class":"n","Attested":"balls, guts","Unattested":"-"}
+{"Chancery":"colic","Class":"n","Attested":"-","Unattested":"bellyharm"}
+{"Chancery":"collapse","Class":"n/vb","Attested":"downfall, infall, swooning","Unattested":"vb: cleave in"}
+{"Chancery":"colleague","Class":"vb","Attested":"workmate, fellow worker","Unattested":"-"}
+{"Chancery":"collect","Class":"vb","Attested":"gather","Unattested":"sam (<OE samnian)"}
+{"Chancery":"collection","Class":"n","Attested":"gathering, thingstock","Unattested":"samming (cf. NHG Sammlung)"}
+{"Chancery":"colonize","Class":"vb","Attested":"settle, take over,spread through(out)","Unattested":"-"}
+{"Chancery":"colony","Class":"n","Attested":"-","Unattested":"settling"}
+{"Chancery":"colo(u)r","Class":"n","Attested":"hue, cast, blee,light wavelength","Unattested":"farb (<OE færbu, cf. NHG Farbe), huecast"}
+{"Chancery":"colo(u)r","Class":"vb","Attested":"hue, dye, shade, blee","Unattested":"farb"}
+{"Chancery":"column","Class":"n","Attested":"upright","Unattested":"sile"}
+{"Chancery":"combat","Class":"n","Attested":"fight, hild","Unattested":"gouth"}
+{"Chancery":"combination","Class":"n","Attested":"binding, tying, knotting,fastening, gathering","Unattested":"forbinding (cf. NHG Verbindung)"}
+{"Chancery":"combine","Class":"vb","Attested":"bind, tie, knot, fasten, gather","Unattested":"gatherbind, withbind,,forbind (cf. NHG verbinden)"}
+{"Chancery":"combustible","Class":"n/adj","Attested":"adj: fieryn:  tinder","Unattested":"adj: fireworthy (may also mean non-combustible),n: tinderkin (<OE tyndercyn)"}
+{"Chancery":"comedian","Class":"n","Attested":"funnyman","Unattested":"funspeller, lustspeller, laughtersmith"}
+{"Chancery":"comedy","Class":"n","Attested":"-","Unattested":"funplay, lustplay (cf. NHG Lustspiel)"}
+{"Chancery":"comet","Class":"n","Attested":"shooting star","Unattested":"strealer,Faxed-star: resemblance to hair flowing in the breeze; tailstar"}
+{"Chancery":"comfort","Class":"n","Attested":"liss, frover","Unattested":"weem (<OE weman), soothfulness"}
+{"Chancery":"comfortable","Class":"adj","Attested":"soft, lithe, snug","Unattested":"queem (<Scots, cf. NHG bequem),frover -ly/-some"}
+{"Chancery":"comestible","Class":"adj","Attested":"eating","Unattested":"eatworthy"}
+{"Chancery":"comic","Class":"n","Attested":"strip, stripbook","Unattested":"-"}
+{"Chancery":"comic","Class":"adj","Attested":"funny","Unattested":"-"}
+{"Chancery":"command","Class":"n","Attested":"behest, bidding,military: headship","Unattested":""}
+{"Chancery":"command","Class":"vb","Attested":"bid, lead, behest; spearhead","Unattested":"sway, yebe"}
+{"Chancery":"commander","Class":"n","Attested":"head","Unattested":"campelder (<OE campealdor),bebeedend (<OE bebēodend)\nherreaswer (<OE heraræswa)\nhildwiser (<OE hildewīsa)\nhertow (<OE heratoga)"}
+{"Chancery":"commandment","Class":"n","Attested":"behest; (Torah) teachings","Unattested":"bodeword, mustsaying"}
+{"Chancery":"commence","Class":"vb","Attested":"begin, start","Unattested":"-"}
+{"Chancery":"commensurate","Class":"adj","Attested":"fitting","Unattested":"-"}
+{"Chancery":"comment","Class":"n","Attested":"-","Unattested":"bemark"}
+{"Chancery":"commentary","Class":"n","Attested":"input, feedback","Unattested":"upmarking (cf. Du opmerking)"}
+{"Chancery":"commenting","Class":"n","Attested":"-","Unattested":"bemarking"}
+{"Chancery":"commerce","Class":"n","Attested":"business, trade; dealings","Unattested":"chapstow"}
+{"Chancery":"commercial","Class":"n","Attested":"businesswise","Unattested":"tradewise"}
+{"Chancery":"commit","Class":"vb","Attested":"do, betake, plight","Unattested":"theen (<OE ġeþēon)"}
+{"Chancery":"common","Class":"adj","Attested":"household: cut-and-fry, workaday; broad-brush, overall; shared; middling; lowbrow; everyday, wonted,peasants: churlish","Unattested":"mean (<OE gemæne, NHG. Gemein 2nd ety.),wonesome (<OE wune 'custom')"}
+{"Chancery":"commonly","Class":"adv","Attested":"meanly","Unattested":"-"}
+{"Chancery":"commonwealth","Class":"n","Attested":"-","Unattested":"meanwealth"}
+{"Chancery":"commotion","Class":"n","Attested":"-","Unattested":"stirness (<OE styrenes)"}
+{"Chancery":"communicate","Class":"adj","Attested":"spread; brainstorm; bespeak","Unattested":"-"}
+{"Chancery":"communicative","Class":"adj","Attested":"chatty","Unattested":"speakle (<OE sprecol)"}
+{"Chancery":"communion","Class":"n","Attested":"fellowship"}
+{"Chancery":"communism","Class":"n","Attested":"-","Unattested":"fellowdom, folkwield"}
+{"Chancery":"communist","Class":"adj","Attested":"red","Unattested":"fellowdomish fellowdommer,folkwieldly folkwielder"}
+{"Chancery":"community","Class":"n","Attested":"fellowship","Unattested":"meanship (calque NHG Gemeinschaft), borough-weren"}
+{"Chancery":"compact","Class":"adj","Attested":"hard, stiff, unyielding;crowded, packed, thick,tight; thumbnail (expression)","Unattested":"withfasted, withfied"}
+{"Chancery":"companion","Class":"n","Attested":"fellow, mate, mone","Unattested":"samedsithe (<OE samodġesīð),,eveninglutter (<OE æfenhlytta)\nfeer (<OE ġefēre)"}
+{"Chancery":"company","Class":"n","Attested":"business, outfit;brotherhood, fellowship"}
+{"Chancery":"comparative","Class":"n","Attested":"-","Unattested":"overlikening (e.g. bodylore 'anatomy')"}
+{"Chancery":"compare","Class":"vb","Attested":"liken, stack up","Unattested":"aliken (OE anlician),  withmete"}
+{"Chancery":"comparable","Class":"adj","Attested":"alike","Unattested":"akind, samekind"}
+{"Chancery":"compassion","Class":"n","Attested":"feeling; kindness,ruth; goodwill","Unattested":"milts (<OE)"}
+{"Chancery":"compassionate","Class":"adj","Attested":"kind, feeling, ruthful","Unattested":"-"}
+{"Chancery":"compatible","Class":"adj","Attested":"kindred","Unattested":"samehaft (cf. Ic. samhæft)"}
+{"Chancery":"compatriot","Class":"n","Attested":"kinsman","Unattested":"landsman (<OE landesmann),fellow-land(wo)man"}
+{"Chancery":"compel","Class":"vb","Attested":"-","Unattested":"thring, bede (<OE ġebædan)"}
+{"Chancery":"compensation","Class":"n","Attested":"meed","Unattested":"forgooding (cf. Du. vergoeding), frover  (<OE frōfor)"}
+{"Chancery":"competent","Class":"adj","Attested":"fit, good; fair, right","Unattested":"-"}
+{"Chancery":"compete","Class":"v","Attested":"-","Unattested":"wedbewharve (grounded on NHG. wettbewerb stehen)"}
+{"Chancery":"competition","Class":"n","Attested":"-","Unattested":"wedbewharve (<NHG wettbewerb),more new: wedbestriding (the wedding of bestriding) see bestride"}
+{"Chancery":"compile","Class":"vb","Attested":"put together","Unattested":"-"}
+{"Chancery":"complain","Class":"vb","Attested":"whine, bitch, caterwaul,moan, gripe, whinge","Unattested":"-"}
+{"Chancery":"complete","Class":"adj","Attested":"full, whole; done,over, through, up; in depth,thorough; all-ou-, downright,flat-out, sheer,stark, stone, straight-out,thorough, utter;out-and-out; skillful,full-standing,thoroughgoing","Unattested":"-"}
+{"Chancery":"complete","Class":"vb","Attested":"fulfill, end, overcome","Unattested":"full-do, full-end"}
+{"Chancery":"completely","Class":"adv","Attested":"outright, fully,utterly, thoroughly,through and through,inside-out, to the hilt,altogether, deeply. soundly,","Unattested":"throughgroundy (cf. Du. doorgrondig )"}
+{"Chancery":"complex","Class":"adj","Attested":"manifold, knotted, snarled","Unattested":"-"}
+{"Chancery":"complexion","Class":"n","Attested":"hue, look, blee, ilk, kind,suchness, way, outlook","Unattested":"skin-look, skin-hue"}
+{"Chancery":"compliant","Class":"adj","Attested":"toward, abiding","Unattested":"followsome"}
+{"Chancery":"complicate","Class":"vb/adj","Attested":"-","Unattested":"maze, intangle, manifold"}
+{"Chancery":"complicated","Class":"adj","Attested":"knotty, tangled","Unattested":"manifold (<OE)"}
+{"Chancery":"compliment","Class":"n/vb","Attested":"-","Unattested":"n: sweaseness (<OE geswæsnys),vb: swease (<OE swæs)\nn/vb: love (<OE lof, cf. NHG Lob) (rhymes with stove)"}
+{"Chancery":"complimentary","Class":"adj","Attested":"-","Unattested":"sweasely (<OE swæs + -lic),loving (rhymes with roving)"}
+{"Chancery":"compline","Class":"n","Attested":"-","Unattested":"nightsong (<OE nihtsang, akin to \"Evensong\")"}
+{"Chancery":"compose","Class":"vb","Attested":"to make","Unattested":"-"}
+{"Chancery":"composer","Class":"n","Attested":"-","Unattested":"swinsmith, leethwriter"}
+{"Chancery":"composition","Class":"n","Attested":"layout","Unattested":"swincraft"}
+{"Chancery":"compound","Class":"n","Attested":"cocktail, meld, mix","Unattested":"word: forbinding (cf. NHG Verbindung)"}
+{"Chancery":"comprehensive","Class":"adj","Attested":"all-in, thorough,whole; all-outadv: fully, inside-out,throough and through","Unattested":"begriping (calque),invatting (OE fæt 'vessel'; calque)"}
+{"Chancery":"comprise","Class":"vb","Attested":"make up","Unattested":"inhold, invat (cf. Du. omvatten)"}
+{"Chancery":"compromise","Class":"vb/n","Attested":"tradeoff, deal,vb: meet halfway","Unattested":"-"}
+{"Chancery":"compunction","Class":"n","Attested":"qualm, misgiving","Unattested":"-"}
+{"Chancery":"computation","Class":"n","Attested":"reckoning","Unattested":"-"}
+{"Chancery":"compute(r)","Class":"n/vb","Attested":"-","Unattested":"reckoner"}
+{"Chancery":"comrade","Class":"n","Attested":"fellow","Unattested":"gade (<OE gada),sithe (<OE ġe​sīð)\nfaithful: trewpoft (<OE trēowġepofta)"}
+{"Chancery":"concatenat","Class":"","Attested":"-","Unattested":"therbinding"}
+{"Chancery":"conceal","Class":"vb","Attested":"hide, shroud","Unattested":"mithe"}
+{"Chancery":"concealment","Class":"n","Attested":"hiding; hideaway,lair, nest","Unattested":"dern, hidlock"}
+{"Chancery":"conceivable","Class":"adj","Attested":"thoughtworthy","Unattested":"-"}
+{"Chancery":"conceive","Class":"vb","Attested":"dream; make out, twig","Unattested":"knit, forseed,ken (<OE cennan)"}
+{"Chancery":"concentrate","Class":"vb","Attested":"meet, cluster, gather; fasten; lump; build up, strengthen","Unattested":"-"}
+{"Chancery":"concentrated","Class":"adj","Attested":"crammed, clustered, gathered, lumped together, built up","Unattested":"-"}
+{"Chancery":"concentration camp","Class":"n","Attested":"-","Unattested":"shandstead"}
+{"Chancery":"concentric","Class":"adj","Attested":"-","Unattested":"middlesharing"}
+{"Chancery":"concern","Class":"n","Attested":"care, worry, reck","Unattested":"-"}
+{"Chancery":"concerning","Class":"prep","Attested":"as for, as far as,on, toward","Unattested":"-"}
+{"Chancery":"concept","Class":"n","Attested":"mind's eye","Unattested":"begripe (<ME begripen <OE begrīpan,cf. Du begrip, NHG Begriff )"}
+{"Chancery":"conception","Class":"n","Attested":"mind's eye, thought","Unattested":"bilth; of child: beseeding"}
+{"Chancery":"conclude","Class":"vb","Attested":"end, wind up, wrap up; break up, leave off, let up, wind up, wink out; name, settle upon; gather, make out","Unattested":"-"}
+{"Chancery":"conclusion","Class":"n","Attested":"ending, finding(s)","Unattested":"endsay"}
+{"Chancery":"concrete","Class":"n","Attested":"beton","Unattested":"gainstandly (NHG. gegenständlich)"}
+{"Chancery":"concurrently","Class":"prep","Attested":"meanwhile, all-the-while,all along","Unattested":"-"}
+{"Chancery":"concussion","Class":"n","Attested":"shell shock","Unattested":"-"}
+{"Chancery":"condemn","Class":"vb","Attested":"-","Unattested":"fordeem, forordeal (cf. Du. veroordelen)"}
+{"Chancery":"condemned, the","Class":"n","Attested":"-","Unattested":"beforeordealt (from forordeal, via Du. veroordeel)"}
+{"Chancery":"condemner, the","Class":"n","Attested":"-","Unattested":"forordealer (from forordeal, via Du. veroordeel)"}
+{"Chancery":"condescend","Class":"vb","Attested":"belittle, stoop,talk down, lower","Unattested":"-"}
+{"Chancery":"condition","Class":"n","Attested":"onlay, fettle","Unattested":"foreworth (cf. Du. voorwaarde)"}
+{"Chancery":"condom","Class":"n","Attested":"warding, rubber, scumbag","Unattested":"-"}
+{"Chancery":"condominium","Class":"n","Attested":"housetown","Unattested":"political entity: wholelordship/whole-lordship (cf. NHG Gesamtherrschaft)"}
+{"Chancery":"conduct","Class":"vb","Attested":"lead, drive","Unattested":"-"}
+{"Chancery":"cone","Class":"n","Attested":"-","Unattested":"keggle (cf. Du. kegel, NHG Kegel, Dan. kegle)"}
+{"Chancery":"confectionary","Class":"n","Attested":"sweets, sweet-shop","Unattested":"-"}
+{"Chancery":"confederacy","Class":"n","Attested":"-","Unattested":"shireship, rickship, loosebind"}
+{"Chancery":"confederate","Class":"adjn","Attested":"henchman","Unattested":"agade (<OE gegada)"}
+{"Chancery":"confederation","Class":"n","Attested":"-","Unattested":"shireship, rickship, loosebind"}
+{"Chancery":"confer","Class":"vb","Attested":"bestow, lend, give over"}
+{"Chancery":"conference","Class":"n","Attested":"meeting","Unattested":"instelling (W. Fris. ynstelling, Du. instelling, Eng. in + Eng. stell + -ing)"}
+{"Chancery":"confess","Class":"vb","Attested":"acknowledge, own up","Unattested":"shrive,beken (Eng., cf. NHG/Du. bekennen) andet (<ME andetten), det"}
+{"Chancery":"confession","Class":"n","Attested":"acknowledging, shrift","Unattested":"andetness (<OE andetnes)"}
+{"Chancery":"confidence","Class":"n","Attested":"belief, hope","Unattested":"-"}
+{"Chancery":"configuration","Class":"n","Attested":"setting, set up,of elements layout","Unattested":"installing (cf. Du instelling )"}
+{"Chancery":"confine","Class":"vb","Attested":"lock in, keep, trap, fetter,bind, latch, grasp,abed (by illness), bedrid"}
+{"Chancery":"confirm","Class":"vb","Attested":"strengthen,starken, acknowledge","Unattested":"besteady (cf. NHG bestätigen)"}
+{"Chancery":"confirmation","Class":"n","Attested":"strengthening, starkening","Unattested":"besteadying (cf. NHG bestätigung)"}
+{"Chancery":"confiscate","Class":"vb","Attested":"filch","Unattested":"beslay (cf. Du. beslag)"}
+{"Chancery":"conflagration","Class":"n","Attested":"fire","Unattested":"-"}
+{"Chancery":"conflict","Class":"vb/n","Attested":"fight","Unattested":"-"}
+{"Chancery":"confluence","Class":"n","Attested":"-","Unattested":"eameet"}
+{"Chancery":"conform","Class":"vb","Attested":"dovetail; blendgroove; key","Unattested":"evenlike (<OE efenlician)"}
+{"Chancery":"conformism","Class":"n","Attested":"-","Unattested":"evenlyinghood"}
+{"Chancery":"conformity","Class":"n","Attested":"-","Unattested":"evenlying"}
+{"Chancery":"confound","Class":"vb","Attested":"befuddle, bewilder, addle","Unattested":"-"}
+{"Chancery":"confront","Class":"vb","Attested":"take on, come at, be up against","Unattested":"-"}
+{"Chancery":"confuse","Class":"vb","Attested":"befuddel, mistake, ravel, bewilder, muddel, mangel, addel","Unattested":"ablend, forwrixle (cf. NHG verwechseln)"}
+{"Chancery":"confusing","Class":"adj","Attested":"manifold, bewildering, muddlesome, misleading"}
+{"Chancery":"confusion","Class":"n","Attested":"muddling, bewildering, mishmash","Unattested":"ablending"}
+{"Chancery":"congregate","Class":"v","Attested":"forgather"}
+{"Chancery":"congress","Class":"n","Attested":"gathering, moot, lawmaker body","Unattested":"gathercoming"}
+{"Chancery":"conics","Class":"n","Attested":"-","Unattested":"kegglelore"}
+{"Chancery":"conjugate","Class":"vb","Attested":"bend","Unattested":"forbow (cf. Du. verbuigen, NHG. verbeugen)"}
+{"Chancery":"conjunction","Class":"n","Attested":"linking word","Unattested":"linkword, bindword, yokeword"}
+{"Chancery":"connect","Class":"vb","Attested":"link, fit, tie-in, bind","Unattested":"-"}
+{"Chancery":"conquer","Class":"vb","Attested":"do down, overcome,upend, worst","Unattested":"aover (calque of many germanic languages)"}
+{"Chancery":"conquest","Class":"n","Attested":"overwin","Unattested":"-"}
+{"Chancery":"consanguinity","Class":"n","Attested":"kinship","Unattested":"-"}
+{"Chancery":"conscience","Class":"n","Attested":"-","Unattested":"thewing, inwit"}
+{"Chancery":"conscious","Class":"adj","Attested":"aware, mindful,heedful, waken","Unattested":"-"}
+{"Chancery":"consciousness","Class":"n","Attested":"awareness, mindfulness,heedfulness, wake","Unattested":"inwit"}
+{"Chancery":"conscript","Class":"vb","Attested":"draft, call-up","Unattested":"-"}
+{"Chancery":"consecrate","Class":"vb","Attested":"bless, hallow, bename","Unattested":"-"}
+{"Chancery":"consent","Class":"n/vb","Attested":"leave","Unattested":"thaving, thwaring,vb: thwarelalk (<OE þwærlælcan)"}
+{"Chancery":"conservation","Class":"n","Attested":"-","Unattested":"orholding (cf. NHG Erhaltung),bewaring (cf. Du. bewaren)"}
+{"Chancery":"conserve","Class":"n","Attested":"-","Unattested":"orhold,beware"}
+{"Chancery":"consequence","Class":"n","Attested":"aftermath, backwash,outcome, upshot;wightiness","Unattested":"offleading (cf. Ic. af-leiðing)"}
+{"Chancery":"consequently","Class":"adv","Attested":"hence, thereby, thereupon,thus, wherefore,sithence (obsolete)","Unattested":"forfollowingly"}
+{"Chancery":"consider","Class":"vb","Attested":"heed, bethink, think about,reckon, set down","Unattested":"hie, hedge (<OE hycgan 'bear in mind, confide, trust'; compare lie < OE licgan, buy < OE bycgan),awene (<OE awenan)\nbehawe (<OE behawian 'to see clearly, take care')\nrase (<OE ræswan 'to think suppose suspect consider conjecture')\nsmigh (<OE smēagan 'consider think about mediate examine scrutinize')\nyondthink (<OE geondþencan 'to reflect upon')\nhiler (<OE aheolorian 'weigh, balance'\nLatin equivalent: librare, trutinare)\nbeshow (cf. Du. beschouwen) \numbthink (<OE ymbþencan)"}
+{"Chancery":"consideration","Class":"n","Attested":"thought","Unattested":"-"}
+{"Chancery":"consist of","Class":"vb","Attested":"be made up of","Unattested":"bestand of (cf. NHG bestehen aus)"}
+{"Chancery":"consistency","Class":"n","Attested":"-","Unattested":"weenness,withspeakfreedom (NHG. widerspruchsfreiheit)"}
+{"Chancery":"consistent","Class":"adj","Attested":"-","Unattested":"weenly (<OE wénlic),withspeakless (NHG. widerspruchslos)"}
+{"Chancery":"console","Class":"vb","Attested":"frover, soothe,allay sorrow,share grief,give strength and hope","Unattested":"befreefern"}
+{"Chancery":"consolation","Class":"n","Attested":"-","Unattested":"froverness, freefernes (<OE fréfernes), frover (<OE frōfor)"}
+{"Chancery":"consonant","Class":"n","Attested":"-","Unattested":"withlide, midlide (<NHG Mitlaut),midclinker (Du. medeklinker),samedswaying, sameswaying(<Ælfric's OE samodswegend)"}
+{"Chancery":"conspicuous","Class":"adj","Attested":"-","Unattested":"forthsighly (<OE forþgesýne),kenspeckle"}
+{"Chancery":"conspiracy","Class":"n","Attested":"plot","Unattested":"-"}
+{"Chancery":"conspiracy theorist","Class":"n","Attested":"-","Unattested":"plotbeholder"}
+{"Chancery":"conspiracy theory","Class":"n","Attested":"-","Unattested":"plotbeholding"}
+{"Chancery":"conspire","Class":"vb","Attested":"plot","Unattested":"-"}
+{"Chancery":"constant","Class":"adj","Attested":"ongoing, abiding,steadfast, steady,","Unattested":"onwherft, simble (<OE simbel),resistant: bestandy/bestanding (NHG. beständig)"}
+{"Chancery":"constitution","Class":"n","Attested":"clay, self; build,frame, shape; law","Unattested":"forfastening (cf. NHG Verfassung), writlaw"}
+{"Chancery":"constraint","Class":"n","Attested":"-","Unattested":"thwing (<OE geþwing)"}
+{"Chancery":"constrict","Class":"vb","Attested":"tighten","Unattested":"intighten, betighten"}
+{"Chancery":"consulation","Class":"n","Attested":"-","Unattested":"bereding (cf. NHG Beratung)"}
+{"Chancery":"consult","Class":"vb","Attested":"see with","Unattested":"-"}
+{"Chancery":"consume","Class":"vb","Attested":"eat (up), drain, spend, intake","Unattested":"forbrook (calque)"}
+{"Chancery":"consumerism","Class":"n","Attested":"-","Unattested":"intakerhood"}
+{"Chancery":"consummate","Class":"adj","Attested":"crack, good, great, skilled; blooming, straight-out; utmost","Unattested":"-"}
+{"Chancery":"consumption","Class":"n","Attested":"intaking","Unattested":"-"}
+{"Chancery":"contact","Class":"vb","Attested":"get, reach","Unattested":"fay, rine"}
+{"Chancery":"contain","Class":"vb","Attested":"hold, inhold, have in itself","Unattested":"-"}
+{"Chancery":"contaminate","Class":"vb","Attested":"befoul","Unattested":"smittle"}
+{"Chancery":"contemplate","Class":"vb","Attested":"-","Unattested":"yondthink (<OE geondþencan)"}
+{"Chancery":"contemplation","Class":"n","Attested":"thought","Unattested":"yondthinking (<OE geondþencan + -ing)"}
+{"Chancery":"contemporary","Class":"adj","Attested":"today's","Unattested":"tidely, fellow-timed, like-timed"}
+{"Chancery":"contempt","Class":"n","Attested":"loathing, hatred","Unattested":"-"}
+{"Chancery":"contemptuous","Class":"adj","Attested":"-","Unattested":"shanding"}
+{"Chancery":"contend","Class":"n","Attested":"set to","Unattested":"-"}
+{"Chancery":"contend (argue)","Class":"vb","Attested":"flite, hold","Unattested":"-"}
+{"Chancery":"content","Class":"n/vb","Attested":"vb: gladden","Unattested":"inning (<OE innung), inhold (calque from NHG 'Inhalt'),of one's character: inwit of one's moodstathel"}
+{"Chancery":"content","Class":"adj","Attested":"happy, gladdened, gruntled","Unattested":"fained, list"}
+{"Chancery":"contention","Class":"n","Attested":"wrangling","Unattested":"-"}
+{"Chancery":"contest","Class":"n","Attested":"match","Unattested":"witherwin (<OE wiðerwinn)"}
+{"Chancery":"context","Class":"n","Attested":"light, framework,ins and outs, layout,basis: underlay","Unattested":"umrealm, underlyings"}
+{"Chancery":"contiguous","Class":"adj","Attested":"abutting","Unattested":"-"}
+{"Chancery":"continent","Class":"n","Attested":"mainland","Unattested":"worlddeal (<OE worulddǣl), greatland, landstretch, fastland"}
+{"Chancery":"continue","Class":"vb","Attested":"go on, abide, keep on,keep at, wendg,","Unattested":"ongo,forthgo (NHG fortgehen)\nforthset (cf. Du. voortzetten) , throughgo (cf. Du. doorgaan), singal (<OE ġesingalian)"}
+{"Chancery":"continuous","Class":"adj","Attested":"unbroken, ongoing","Unattested":"forthgoing/ forthset,simble (<OE)"}
+{"Chancery":"contort","Class":"vb","Attested":"writhe","Unattested":"-"}
+{"Chancery":"contract","Class":"n","Attested":"bond, deal, settlement","Unattested":"handfast, writdeal"}
+{"Chancery":"contradict","Class":"vb","Attested":"gainsay, withsay, withspeak","Unattested":"witherspeak (cf. NHG widersprechen), andwitness (cf. Ic. and-vitni), witherqued, anspeak (<OE ġēansprecan)"}
+{"Chancery":"contradiction","Class":"n","Attested":"gainsaying","Unattested":"withspeech (NHG. Widerspruch)witherquedding (<OE wiðercwedung),anspeech"}
+{"Chancery":"contrary","Class":"adv","Attested":"against","Unattested":"witherward (<OE wiðerweard), witherto, withershins"}
+{"Chancery":"contrast","Class":"vb/n","Attested":"","Unattested":"shedspan,vb differ: undershed (calque of many Ger. Speeches)"}
+{"Chancery":"controversy","Class":"n","Attested":"-","Unattested":"gainwending (lone translation from Latin)"}
+{"Chancery":"contribute","Class":"vb","Attested":"pitch in","Unattested":"bypull, bydraw/drag (cf. Du bijdragen )"}
+{"Chancery":"contribution","Class":"n","Attested":"input, giving","Unattested":"-"}
+{"Chancery":"contrition","Class":"n","Attested":"sorrow, guilt, ruth","Unattested":"-"}
+{"Chancery":"control","Class":"n","Attested":"hands; oversight, running,stewardship; arm, grip,hold, sway, steering","Unattested":"bridling"}
+{"Chancery":"control","Class":"vb","Attested":"bridle, hold, steer,keep, tame; steward","Unattested":"sway"}
+{"Chancery":"conundrum","Class":"n","Attested":"riddle","Unattested":"-"}
+{"Chancery":"conurbation","Class":"n","Attested":"-","Unattested":"towncluster(ing)"}
+{"Chancery":"convergence","Class":"n","Attested":"meeting","Unattested":"-"}
+{"Chancery":"conversation","Class":"n","Attested":"talk, mailing","Unattested":"underholding (cf. NHG Unterhaltung)"}
+{"Chancery":"converse","Class":"vb","Attested":"speak, talk","Unattested":"-"}
+{"Chancery":"conversely","Class":"adv/interj","Attested":"on the other hand, otherwise","Unattested":"-"}
+{"Chancery":"convert","Class":"vb","Attested":"wend, make over","Unattested":"turn over: bewharve (<OE behwierfan, behweorfan),,turn around: bewend (<OE bewendan), forwandle"}
+{"Chancery":"convey","Class":"vb","Attested":"give, spread; bear, ferry;deed, make over","Unattested":"inway"}
+{"Chancery":"convict","Class":"n","Attested":"lag","Unattested":"haftling (<OE hæftling, cf. NHG Häftling),overstell"}
+{"Chancery":"convince","Class":"vb","Attested":"wheedle, talk round, talk into","Unattested":"overtalk (<OE oferreccan, cf. NHG. überreden)"}
+{"Chancery":"convoy","Class":"n","Attested":"-","Unattested":"wain row"}
+{"Chancery":"cooperate","Class":"vb","Attested":"work together","Unattested":"evenwork (<OE efenweorcan),getherwork (<Fr gearwurkje)"}
+{"Chancery":"cop","Class":"vb","Attested":"nab","Unattested":"-"}
+{"Chancery":"cop","Class":"n","Attested":"hound,pig (slang, slightly vulgar)","Unattested":"frith wike (peace officer)"}
+{"Chancery":"cope","Class":"vb","Attested":"deal","Unattested":"-"}
+{"Chancery":"copious","Class":"adj","Attested":"beteeming","Unattested":"-"}
+{"Chancery":"copper","Class":"n","Attested":"-","Unattested":"ar (<OE ar)"}
+{"Chancery":"copse","Class":"n","Attested":"thicket, shaw","Unattested":"-"}
+{"Chancery":"copy","Class":"n","Attested":"-","Unattested":"twin"}
+{"Chancery":"copy","Class":"vb","Attested":"imitate: ape","Unattested":"twin, eftyield, andwrite,imitate: evenledge (<OE efenlæcan)"}
+{"Chancery":"copy & paste","Class":"vb","Attested":"-","Unattested":"twin & tack"}
+{"Chancery":"coral","Class":"n/adj","Attested":"-","Unattested":"limeshaft; yellowpink"}
+{"Chancery":"cord","Class":"n","Attested":"line, rope,string, wire","Unattested":"tew, rib-cloth"}
+{"Chancery":"cord","Class":"vb","Attested":"fasten","Unattested":"-"}
+{"Chancery":"cordial","Class":"adj","Attested":"friendly, hearty, warm","Unattested":"-"}
+{"Chancery":"cords","Class":"n","Attested":"-","Unattested":"manstows"}
+{"Chancery":"corduroy","Class":"n","Attested":"ribbed cloth","Unattested":"rib-cloth, manstow (manchester)"}
+{"Chancery":"core","Class":"n","Attested":"kernel, heart, yolk, innermost being","Unattested":"-"}
+{"Chancery":"cormorant","Class":"n","Attested":"sea raven","Unattested":"shrab (<OE scræb),coal-goose"}
+{"Chancery":"cornea","Class":"n","Attested":"-","Unattested":"hornweb,hornflesh"}
+{"Chancery":"corner","Class":"n","Attested":"nook, winkle, hirn, edge","Unattested":"-"}
+{"Chancery":"coronation","Class":"n","Attested":"-","Unattested":"kinehelming (<OE cynehelmung), wreathing"}
+{"Chancery":"corpor(e)al","Class":"adj","Attested":"bodily","Unattested":"bodisome"}
+{"Chancery":"corporation","Class":"n","Attested":"-","Unattested":"businessbody"}
+{"Chancery":"corpse","Class":"n","Attested":"body, dead body,","Unattested":"lich, nee (<OE nēo)"}
+{"Chancery":"corpus","Class":"n","Attested":"body","Unattested":"lichem (<OE lichama, cf. Du. lichaam, NHG. Leichnam)"}
+{"Chancery":"Corpus Christi","Class":"pn","Attested":"-","Unattested":"Wistforwandering Day"}
+{"Chancery":"correct","Class":"adv/adj","Attested":"right, aright, befitting","Unattested":"-"}
+{"Chancery":"correct","Class":"vb","Attested":"right, righten, (acad) mark","Unattested":"berighten (cf. NHG. berichtigen)"}
+{"Chancery":"correction","Class":"n","Attested":"righting","Unattested":"punishment: threal (<OE þrēal),berightening (NHG. berichtigung)"}
+{"Chancery":"correction fluid","Class":"n","Attested":"white out","Unattested":"-"}
+{"Chancery":"corridor","Class":"n","Attested":"hallway","Unattested":"-"}
+{"Chancery":"corroborate","Class":"vb","Attested":"bear out","Unattested":"-"}
+{"Chancery":"corrode","Class":"vb","Attested":"gnaw","Unattested":"forrot (<OE forrotian)begnaw (<OE begnagan)"}
+{"Chancery":"corrugated","Class":"adj","Attested":"-","Unattested":"wrizzled"}
+{"Chancery":"corrupt","Class":"adj/adv","Attested":"crooked, bent, rot","Unattested":"forrot"}
+{"Chancery":"corslet","Class":"n","Attested":"byrnie","Unattested":""}
+{"Chancery":"corvée-work","Class":"n","Attested":"-","Unattested":"workreden (<OE weorcræden)"}
+{"Chancery":"cosmetics","Class":"n","Attested":"fard","Unattested":""}
+{"Chancery":"cosmolabe","Class":"n","Attested":"-","Unattested":"tungleheight meter"}
+{"Chancery":"cosmopolitan","Class":"n","Attested":"-","Unattested":"worldsman"}
+{"Chancery":"cosmopolitan","Class":"adj","Attested":"worldly","Unattested":"-"}
+{"Chancery":"cost","Class":"n","Attested":"outlay, worth","Unattested":"-"}
+{"Chancery":"costly","Class":"adj","Attested":"dear","Unattested":"-"}
+{"Chancery":"Costa Rica","Class":"pn","Attested":"-","Unattested":"Rich Shore"}
+{"Chancery":"costume","Class":"n","Attested":"outfit, get-up, fake dress","Unattested":"derning"}
+{"Chancery":"Côte d'Ivoire","Class":"n","Attested":"-","Unattested":"Windward Shore,Tusk Shore, Elpbone Shore"}
+{"Chancery":"cottage","Class":"n","Attested":"hut, cote","Unattested":"sheel"}
+{"Chancery":"cottager","Class":"n","Attested":"-","Unattested":"cotsettle"}
+{"Chancery":"cotton","Class":"n","Attested":"-","Unattested":"seedwool, treewool (calque)"}
+{"Chancery":"council","Class":"n","Attested":"gathering, huddle; board,brotherhood, fellowship,thingstead (<OE þingstede),thingstow (<OE þingstōw)","Unattested":"redemoot, redebody"}
+{"Chancery":"counsel","Class":"n/vb","Attested":"lead, shepherd","Unattested":"rede,law-ern (legal-eagle)"}
+{"Chancery":"counsel(l)or","Class":"n","Attested":"alder(wo)man","Unattested":"rede(wo)man,redegivertheagher (<OE þeahere/ġeþeahere)"}
+{"Chancery":"count","Class":"vb","Attested":"tell, reckon","Unattested":"arime"}
+{"Chancery":"count","Class":"n","Attested":"earl","Unattested":"-"}
+{"Chancery":"countenance","Class":"n","Attested":"cast","Unattested":"-"}
+{"Chancery":"counter-","Class":"prefix","Attested":"with-, gain-wither-","Unattested":"-"}
+{"Chancery":"counterbalance","Class":"n","Attested":"offset","Unattested":"-"}
+{"Chancery":"counter-clockwise","Class":"adj","Attested":"withershins","Unattested":"withersunwise"}
+{"Chancery":"counterculture","Class":"n","Attested":"-","Unattested":"witherkithship"}
+{"Chancery":"counterfeit goods","Class":"n","Attested":"-","Unattested":"openware"}
+{"Chancery":"counterpart","Class":"n","Attested":"match","Unattested":"witherdeal,evenbilth (cf. NHG Ebenbild)\nequivalent: gainsteck/ gainshtick (cf. NHG gegenstück)"}
+{"Chancery":"countersign","Class":"n","Attested":"-","Unattested":"gaintoken/ gaintokening(cf. NHG. gegenziechnung)"}
+{"Chancery":"countersign","Class":"v","Attested":"-","Unattested":"gaintoken (cf. NHG gegenziechnen)"}
+{"Chancery":"counterstroke","Class":"n","Attested":"-","Unattested":"witherclap"}
+{"Chancery":"country","Class":"n","Attested":"land, weald,upland (rural, as in countryside),kith, fatherland, homeland,motherland, rike,","Unattested":"native: ethel (<OE æþel), folkland, erd (<ME)"}
+{"Chancery":"county","Class":"n","Attested":"shire, ethel, earldom,wapentake, erd, fold","Unattested":"reveship"}
+{"Chancery":"county council","Class":"n","Attested":"thing (<ON þing),folkmoot (<OE folcgemōt),folkesmoot(<ME folkesmōt/folkesmot)","Unattested":"shiremoot"}
+{"Chancery":"coup","Class":"vb","Attested":"strike","Unattested":"-"}
+{"Chancery":"coup de grâce","Class":"n","Attested":"topper","Unattested":"lithing, miltstroke"}
+{"Chancery":"coupling,train/carriage","Class":"n","Attested":"thill","Unattested":"-"}
+{"Chancery":"coupon","Class":"n","Attested":"-","Unattested":"deemslip"}
+{"Chancery":"courage","Class":"n","Attested":"mettle, boldness, fearlessness,heart, heartiness,daring, mood","Unattested":"beld/bield (<OE bieldu)"}
+{"Chancery":"courageous","Class":"adj","Attested":"bold, daring, doughty,fearless,full-hearted,unfrightened, stouthearted","Unattested":"moody (cf. NHG mutig)"}
+{"Chancery":"course","Class":"n","Attested":"line, pathway","Unattested":"-"}
+{"Chancery":"course (academic)","Class":"n","Attested":"-","Unattested":"learnset"}
+{"Chancery":"court","Class":"n/vb","Attested":"-","Unattested":"hove (<OE hof),vb: splunt (<Scots)"}
+{"Chancery":"courteous","Class":"adj","Attested":"fairspoken","Unattested":"hovely"}
+{"Chancery":"courtyard","Class":"n","Attested":"-","Unattested":"hallyard, boroughyard (<OE burggeard)"}
+{"Chancery":"cousin","Class":"n","Attested":"kins(wo)man","Unattested":"nearkin, farsib"}
+{"Chancery":"covenant","Class":"n","Attested":"oath, deal, bond, binding","Unattested":"-"}
+{"Chancery":"cover","Class":"n","Attested":"holster, sheath","Unattested":"heling, helm,thacking\ntaching\ndecking"}
+{"Chancery":"cover","Class":"vb","Attested":"thatch/thack, overlay,hide, deck, overspread","Unattested":"hele (Eng. dialectal), helm"}
+{"Chancery":"covered area","Class":"n","Attested":"deck, roofed deck","Unattested":"heling (ME hillet), helm (<OE helmian)"}
+{"Chancery":"covering","Class":"n","Attested":"skin, feathers, hackles","Unattested":"heling, overwrigels (<OE oferwrigels)"}
+{"Chancery":"cover with","Class":"vb","Attested":"lay on","Unattested":"-"}
+{"Chancery":"covert","Class":"adj","Attested":"hidden, shrouded,stealthy, under wraps,","Unattested":"heled"}
+{"Chancery":"cover-up","Class":"n","Attested":"whitewash, hush-work","Unattested":"shroudening"}
+{"Chancery":"covet","Class":"vb","Attested":"crave, want, hunger after, thirst after, cast greedy eyes upon","Unattested":"-"}
+{"Chancery":"covetous","Class":"adj","Attested":"greedy, graspy, grabby,hoggish, wanting","Unattested":"-"}
+{"Chancery":"coward","Class":"n","Attested":"wimp, woos, fearer","Unattested":"arg, flytail,feyling (cf. NHG Feigling)"}
+{"Chancery":"cowardly","Class":"adj","Attested":"gutless, thewless,woosy, fearful","Unattested":"fey/fay (<OE fæge, cf. NHG feige)"}
+{"Chancery":"co-worker","Class":"n","Attested":"by-worker, fellow worker,workmate","Unattested":"-"}
+{"Chancery":"cranium","Class":"n","Attested":"skull","Unattested":"head-bowl (OE heafod - bolla)"}
+{"Chancery":"crater","Class":"n","Attested":"-","Unattested":"bowl (calque), barrowbowl"}
+{"Chancery":"cravat","Class":"n","Attested":"necktie, neckcloth","Unattested":"-"}
+{"Chancery":"crayon","Class":"n","Attested":"-","Unattested":"waxlimestone"}
+{"Chancery":"cream","Class":"n","Attested":"salve, ream, milk's head","Unattested":"-"}
+{"Chancery":"crease","Class":"n/vb","Attested":"wrinkle, rumple, rimple, runkle","Unattested":"-"}
+{"Chancery":"create","Class":"vb","Attested":"beget, build, craft,make, set up, shape, hatch","Unattested":"ashapen"}
+{"Chancery":"creation","Class":"n","Attested":"brainchild, wrinke; world, rise","Unattested":"shaping, ashapenning, fromship"}
+{"Chancery":"creative","Class":"adj","Attested":"-","Unattested":"shaperly / makerly (calque from german schöpferisch), thoughtrich"}
+{"Chancery":"creature","Class":"n","Attested":"wight","Unattested":"making"}
+{"Chancery":"credence","Class":"n","Attested":"belief","Unattested":"-"}
+{"Chancery":"credibility","Class":"n","Attested":"-","Unattested":"liefworthiness, beliefworthiness, beliefworthihood (cf. NHG glaubtwürdigkeit)"}
+{"Chancery":"credible","Class":"adj","Attested":"-","Unattested":"liefworthy, beliefworthy (cf. NHG glaubtwürdig)"}
+{"Chancery":"credit","Class":"n","Attested":"hail, acknowledgement","Unattested":"-"}
+{"Chancery":"creed","Class":"n","Attested":"belief","Unattested":"-"}
+{"Chancery":"cremate","Class":"vb","Attested":"bale","Unattested":"-"}
+{"Chancery":"creme de la creme","Class":"n","Attested":"bee's knees, dog's bollocks,best of the best,fat of the land, best","Unattested":"-"}
+{"Chancery":"crepuscular","Class":"adj","Attested":"twilighty","Unattested":"-"}
+{"Chancery":"crepuscule","Class":"n","Attested":"twilight, darkfall, dusk, nightfall, gloaming, evenfall, eventide, sundown","Unattested":"downset"}
+{"Chancery":"crescent","Class":"n","Attested":"moonsickle","Unattested":"-"}
+{"Chancery":"crest","Class":"n","Attested":"ridge, noon, top;high-water mark","Unattested":"ris, comb"}
+{"Chancery":"cretaceous","Class":"adj","Attested":"-","Unattested":"chalken, chalkish, chalky,limestonish, limestony"}
+{"Chancery":"cretin","Class":"n","Attested":"blighter; nit","Unattested":"-"}
+{"Chancery":"crevasse","Class":"n","Attested":"cleft","Unattested":"-"}
+{"Chancery":"crevice","Class":"n","Attested":"cleft, gap, hole","Unattested":"-"}
+{"Chancery":"crime","Class":"n","Attested":"lawbreaking; shame, sin;wrongdoing, misdeed","Unattested":"shild (<OE scyld), gilt (<OE ġylt)"}
+{"Chancery":"criminal","Class":"n","Attested":"crook, outlaw, lawbreaker","Unattested":"sinner: gilter (<OE ġyltend)"}
+{"Chancery":"crimson","Class":"n","Attested":"-","Unattested":"deepred"}
+{"Chancery":"crisis","Class":"n","Attested":"-","Unattested":"needtime"}
+{"Chancery":"criterion","Class":"n","Attested":"yardstick; hallmark, need","Unattested":"deemrimmer"}
+{"Chancery":"critic","Class":"n","Attested":"scather","Unattested":"-"}
+{"Chancery":"critical","Class":"adj","Attested":"weighty, key, scathing","Unattested":"-"}
+{"Chancery":"criticise","Class":"vb","Attested":"slag, knock, brand, upbraid","Unattested":"-"}
+{"Chancery":"criticism","Class":"n","Attested":"scathing","Unattested":"-"}
+{"Chancery":"crocodile","Class":"n","Attested":"-","Unattested":"nix (cf. OHG nihhus),pebbleworm (calque)"}
+{"Chancery":"croissant","Class":"n","Attested":"-","Unattested":"moonbread"}
+{"Chancery":"cross","Class":"n","Attested":"-","Unattested":"rood,Cross, the: syebeam (<OE sigebēam)"}
+{"Chancery":"cross","Class":"vb","Attested":"-","Unattested":"thwarse, stride over"}
+{"Chancery":"crown","Class":"n","Attested":"kine-helm","Unattested":""}
+{"Chancery":"crown","Class":"vb","Attested":"-","Unattested":"kinehelm, wreathe"}
+{"Chancery":"crucifix","Class":"n","Attested":"-","Unattested":"rood, roodfastening, onrooding"}
+{"Chancery":"crucify","Class":"vb","Attested":"-","Unattested":"roodfasten, onrood"}
+{"Chancery":"crude","Class":"adj","Attested":"rough, raw","Unattested":"-"}
+{"Chancery":"cruel","Class":"adj","Attested":"harsh, mean,ruthless, cold, unfeeling","Unattested":"reethe (<OE réðe), slithen (<OE slīþene)"}
+{"Chancery":"cruelty","Class":"n","Attested":"meanness, harshness,ruthlessness","Unattested":"moanbale (<OE mānbealu), slithenness"}
+{"Chancery":"cruise","Class":"vb","Attested":"-","Unattested":"thwarse (lit. to cross)"}
+{"Chancery":"cruiser","Class":"n","Attested":"-","Unattested":"thwarser,thwarseship"}
+{"Chancery":"crusade","Class":"n","Attested":"krosscampagne","Unattested":"roodfirding"}
+{"Chancery":"crust","Class":"n","Attested":"-","Unattested":"rind (<OE rind)"}
+{"Chancery":"cry","Class":"n","Attested":"roop, yell, shout, whine,wail, moan","Unattested":"lide, liding (<OE ge-hlȳd; cf. NHG Lied)"}
+{"Chancery":"cry","Class":"vb","Attested":"weep, shout, wail, yell,howl, sob, roup, cleep, wail","Unattested":"kye (<OE cigan)"}
+{"Chancery":"cryogenic","Class":"adj","Attested":"-","Unattested":"coldly"}
+{"Chancery":"cryotherapy","Class":"n","Attested":"-","Unattested":"coldbehandling"}
+{"Chancery":"crypt","Class":"n","Attested":"-","Unattested":"thesterlock, thestercove, lich-keep"}
+{"Chancery":"cryptocurrency","Class":"n","Attested":"-","Unattested":"keepminthood"}
+{"Chancery":"crystal","Class":"n","Attested":"-","Unattested":"hurst (<OE hyrst)"}
+{"Chancery":"crystal","Class":"adj","Attested":"-","Unattested":"hursten (cf. Eng. golden)"}
+{"Chancery":"crystalline","Class":"adj","Attested":"-","Unattested":"hursty"}
+{"Chancery":"cub","Class":"n","Attested":"-","Unattested":"whelp"}
+{"Chancery":"cube","Class":"n","Attested":"-","Unattested":"worfle (cf. NHG Würfel)"}
+{"Chancery":"cuckoo","Class":"n","Attested":"-","Unattested":"yeke, gawk"}
+{"Chancery":"cucumber","Class":"n","Attested":"-","Unattested":"greenpod, earthapple (<OE eorþæppel)"}
+{"Chancery":"cuisine","Class":"n","Attested":"cooking","Unattested":"foodcraft"}
+{"Chancery":"cull","Class":"vb","Attested":"choose, pick, pick out,pitch on, pitch upon,sift, winnow, gather,pluck, pickup","Unattested":"-"}
+{"Chancery":"cull","Class":"n","Attested":"pickings, siftings","Unattested":"-"}
+{"Chancery":"cul de sac","Class":"n","Attested":"dead end","Unattested":"-"}
+{"Chancery":"culminate","Class":"vb","Attested":"-","Unattested":"nib"}
+{"Chancery":"cultivate","Class":"vb","Attested":"till, harvest, work","Unattested":"-"}
+{"Chancery":"culture","Class":"n","Attested":"couth, folklore, way of life","Unattested":"menning (cf. Ic. menning), kithship"}
+{"Chancery":"culvert","Class":"n","Attested":"-","Unattested":"leat, ditch"}
+{"Chancery":"cuneiform bones","Class":"n","Attested":"-","Unattested":"wedgebones"}
+{"Chancery":"cure","Class":"vb","Attested":"heal","Unattested":"-"}
+{"Chancery":"curiosity","Class":"n","Attested":"witfire","Unattested":"newsgreed, newsgreediness (cf. Du. nieuwsgierigheid)"}
+{"Chancery":"curious","Class":"adj","Attested":"-","Unattested":"newsyearny, newsgreedy (cf. Du. nieuwsgierig)"}
+{"Chancery":"curious","Class":"vb","Attested":"funny","Unattested":"frimdy (<OE frymdig)"}
+{"Chancery":"curlew","Class":"n","Attested":"whaup"}
+{"Chancery":"currency","Class":"n","Attested":"-","Unattested":"minthood,unit: mintwhit, minonehood (cf. Du. munteenheid"}
+{"Chancery":"current","Class":"adj","Attested":"nowaday, today's, now's,nowadays', running, nowen"}
+{"Chancery":"current","Class":"n","Attested":"run, drift, leaning,tide, wind, now"}
+{"Chancery":"currently","Class":"adv","Attested":"as of yet, now, nowenly"}
+{"Chancery":"curriculum","Class":"n","Attested":"-","Unattested":"learnplot"}
+{"Chancery":"curriculum vitae","Class":"n","Attested":"-","Unattested":"smithsyore"}
+{"Chancery":"cursive","Class":"adj","Attested":"handwritten","Unattested":"flow-staved"}
+{"Chancery":"cursor","Class":"n","Attested":"runner","Unattested":"-"}
+{"Chancery":"curtail","Class":"vb","Attested":"cut back, foreshorten, clip","Unattested":"-"}
+{"Chancery":"curtain","Class":"n","Attested":"-","Unattested":"hanger, hangcloth"}
+{"Chancery":"curve","Class":"n","Attested":"bow, bend, wind","Unattested":"-"}
+{"Chancery":"custody","Class":"n","Attested":"hold, hands","Unattested":"warding"}
+{"Chancery":"custom","Class":"adj","Attested":"bespoken","Unattested":"thew, folkway"}
+{"Chancery":"custom","Class":"n","Attested":"wone, wont, business, trade","Unattested":"side, toln (<OE)"}
+{"Chancery":"customary","Class":"adj","Attested":"-","Unattested":"wonely"}
+{"Chancery":"cutaneous","Class":"adj","Attested":"skin, hide","Unattested":"hidish, hidely"}
+{"Chancery":"cutaneous disease","Class":"n","Attested":"tetter, scurf, scurvy","Unattested":"-"}
+{"Chancery":"cute","Class":"adj","Attested":"pretty, sweet, lief","Unattested":"goldy (cf. NHG goldig),sooth"}
+{"Chancery":"cutlass","Class":"n","Attested":"backsword"}
+{"Chancery":"cutlery","Class":"n","Attested":"silverware","Unattested":"-"}
+{"Chancery":"cycad","Class":"n","Attested":"-","Unattested":"firtapfolm (cf. Sw. kottepalmer)"}
+{"Chancery":"cyclist","Class":"n","Attested":"-","Unattested":"wheeler"}
+{"Chancery":"cyclone","Class":"n","Attested":"-","Unattested":"whirlwind"}
+{"Chancery":"cygnet","Class":"n","Attested":"swanling","Unattested":"-"}
+{"Chancery":"cylinder","Class":"n","Attested":"-","Unattested":"rollshape"}
+{"Chancery":"cynical","Class":"adj","Attested":"sneering","Unattested":"-"}
+{"Chancery":"cynosure","Class":"n","Attested":"-","Unattested":"hoardvat (<OE hordfæt)"}
+{"Chancery":"czar","Class":"n","Attested":"-","Unattested":"Russlander king/highking"}

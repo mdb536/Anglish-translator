@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/mdb536/Anglish-translator#readme",
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.2"
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "request": "^2.83.0"
   }
 }
