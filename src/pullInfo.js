@@ -7,7 +7,7 @@ var cheerioParser = require('cheerio-tableparser');
 //https://www.gitbook.com/book/kevinchisholm/basic-web-scraping-with-node-js-and-cheerio-js/details
 
 const dir = "texts/English_Wordbook/";
-const aDir = "texts/Anglish_Wordbook"; 
+const aDir = "texts/Anglish_Wordbook/"; 
 
 const engTemplate = {
 	Chancery:"",
@@ -23,7 +23,7 @@ const angTemplate = {
 	Origin:"",
 }
 
-function retrieveHTML(url, fileName, dir){
+function retrieveEngHTML(url, fileName, dir){
 	request(url, function(err, response, body){
 		if(!err && response.statusCode == 200){
 			const loading = cheerio.load(body);
@@ -56,6 +56,41 @@ function retrieveHTML(url, fileName, dir){
 	});
 }
 
+
+//https://stackoverflow.com/questions/45603346/node-js-parsing-a-specific-table-in-a-html-page-that-has-multiple-tables-using
+function retrieveAngHTML(url, fileName, dir){
+	request(url, function(err, response, body){
+		if(!err && response.statusCode == 200){
+			const loading = cheerio.load(body);
+
+			let tArr = [];
+			loading('table').each(function(i, elem){
+				const $ = cheerio.load(elem);
+				cheerioParser($);
+				let subTable = $("table").parsetable(true, true, true);
+				subTable = subTable.concat.apply([], subTable);
+				if(subTable.length >= 3){
+					tArr.push(elemToObj(subTable, angTemplate));
+				}
+			});
+
+			let str = ""
+			for(let i = 0; i < tArr.length; i++){
+				str += JSON.stringify(tArr[i]) + "\n";
+			}
+			fs.writeFile((aDir+fileName+".json"), str, (err) => { 
+				if (err) throw err;
+			});
+
+			return tArr;
+
+		}
+		else{
+			console.log(err);
+			return [];
+		}
+	});
+}
 
 
 function createTemplate(arr){
@@ -92,6 +127,22 @@ function arrToObj(arr, bInd, template){
 	return parseData;
 }
 
+function elemToObj(elem, template){
+	let nObj = Object.assign({}, template);
+	// let subArr = elem[elem.length-1].split("[");
+	let substr = elem[elem.length-1];
+	let subArr = substr.split("[");
+	elem[elem.length-1] = subArr[0];
+	elem.push("[" + subArr[1]);
+
+	let i = 0;
+	for(const prop in nObj){
+		nObj[prop] = elem[i];
+		i++;
+	}
+	return nObj;
+}
+
 function cleanString(str){
 	let retStr = str;
 	if(retStr.includes("\\")){
@@ -108,13 +159,14 @@ function cleanString(str){
 
 for(let i = 65; i <= 90; i++){
 	const url = 'http://anglish.wikia.com/wiki/English_Wordbook/' + String.fromCharCode(i);
-	retrieveHTML(url, String.fromCharCode(i), dir);
+	retrieveEngHTML(url, String.fromCharCode(i), dir);
 }
+
 
 let alphArr = ["A", "B", "C", "D", "E", "F", "G", "H", 'IJ', "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "UV", "W", "XYZ"];
 for(let j = 0; j < alphArr.length; j++){
 	const nUrl = 'http://anglish.wikia.com/wiki/Anglish_wordbook/' + alphArr[j];
-	
+	retrieveAngHTML(nUrl, alphArr[j], aDir);
 }
 
 
