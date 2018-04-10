@@ -12,8 +12,8 @@ const aDir = "texts/Anglish_Wordbook/";
 const engTemplate = {
 	Chancery:"",
 	Class:"",
-	Attested:"", 
-	Unattested:""
+	Attested:[], 
+	Unattested:[]
 };
 
 const angTemplate = {
