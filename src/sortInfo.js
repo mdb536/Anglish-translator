@@ -2,7 +2,7 @@ var fs = require('fs');
 var request = require('request');
 
 const eDir = "texts/English_Wordbook/";
-
+const url = "https://raw.githubusercontent.com/mdb536/Anglish-translator/master/src/texts/English_Wordbook/";
 const engTemplate = {
 	Chancery:"",
 	Class:"",

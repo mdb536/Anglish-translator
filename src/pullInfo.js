@@ -23,6 +23,8 @@ const angTemplate = {
 	Origin:"",
 }
 
+
+
 function retrieveEngHTML(url, fileName, dir){
 	request(url, function(err, response, body){
 		if(!err && response.statusCode == 200){
@@ -109,6 +111,30 @@ function createTemplate(arr){
 	return template;
 }
 
+function cleanElem(str){
+	if(str.includes("(")){
+		str = str.substring(0, str.indexOf("("));
+	}
+	while(str.startsWith(" ")){
+		str = str.substring(1);
+	}
+	while(str.endsWith(" ")){
+		str=str.substring(0, str.length-1);
+	}
+	return str;
+}
+
+
+function stringToArr(str){
+	const strArr = str.split(",");
+	let nArr = strArr.map(cleanElem);
+	while(nArr.indexOf("-") !== -1){
+		nArr.splice(nArr.indexOf("-"), 1);
+	}
+	return nArr;
+}
+
+
 function arrToObj(arr, bInd, template){
 	let parseData = [];
 	for(let j = bInd; j < arr[0].length; j++){
@@ -116,7 +142,13 @@ function arrToObj(arr, bInd, template){
 		let subTemp = Object.assign({}, template);
 		for(const prop in template){
 			if(arr[i][j] !== undefined){
-				subTemp[prop] = (arr[i][j]);
+				if(prop === "Attested" || prop === "Unattested"){
+					let sub = cleanString(arr[i][j]);
+					subTemp[prop] = stringToArr(sub);
+				}
+				else{
+					subTemp[prop] = (arr[i][j]);
+				}
 			}
 			i++;
 			
@@ -145,14 +177,32 @@ function elemToObj(elem, template){
 
 function cleanString(str){
 	let retStr = str;
+	if(retStr.includes("(") && retStr.includes(")")){
+		retStr = retStr.replace(/ *\([^)]*\) */g, ",");
+	}
 	if(retStr.includes("\\")){
 		retStr = retStr.replace("\\", "");
 	}
-	if(retStr.includes(",\n")){
-		retStr = retStr.replace(",\n", ", ");
-	}
 	if(retStr.includes("\n")){
 		retStr = retStr.replace("\n", ",");
+	}
+	if(retStr.includes("/")){
+		retStr = retStr.replace("/", ",");
+	}
+	if(retStr.includes(",,")){
+		retStr = retStr.replace(",,", ",");
+	}
+	if(retStr.includes(";")){
+		retStr = retStr.replace(";", ",");
+	}
+	if(retStr.endsWith(",")){
+		retStr = retStr.substr(0, retStr.length-1);
+	}
+	if(retStr.includes("(")){
+		retStr = retStr.substr(0, retStr.indexOf("("));
+	}
+	if(retStr.includes("\n")){
+		retStr = retStr.replace("\n", "");
 	}
 	return retStr;
 }
