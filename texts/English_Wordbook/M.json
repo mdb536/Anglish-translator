@@ -1,6 +1,6 @@
 {"Chancery":"macabre","Class":"adj","Attested":["gruesome","grisly"],"Unattested":[]}
 {"Chancery":"macerate","Class":"vb","Attested":["soak","steep"],"Unattested":[]}
-{"Chancery":"machine","Class":"n","Attested":["vehicle: horseless","wheels slang"],"Unattested":["gearware","searshaft","workware","workrig"]}
+{"Chancery":"machine","Class":"n","Attested":["vehicle: horseless","wheels"],"Unattested":["gearware","searshaft","workware","workrig"]}
 {"Chancery":"machine gun","Class":"n","Attested":[],"Unattested":["shacklegun"]}
 {"Chancery":"magazine","Class":"n","Attested":["daily","weekly","","slick"],"Unattested":["timewrit"]}
 {"Chancery":"magic","Class":"n/adj","Attested":["bad: spellcraft","witchcraft"],"Unattested":["dwimmer","galder","galder","chanting magicspell a chantgale to do galder\nseethe","","seith","","or seeth","magic concerning changing fate","seen in the Weird Sisters where it is depicted as actually boiling","in a cauldron\nspae seer magic"]}
@@ -11,7 +11,7 @@
 {"Chancery":"magnate","Class":"n","Attested":[],"Unattested":["mickman"]}
 {"Chancery":"magnet","Class":"n","Attested":["loadstone","lodestone","+ stone)"],"Unattested":["sailstone"]}
 {"Chancery":"magnify","Class":"n","Attested":["blow up","make bigger"],"Unattested":["bemickel","in wonderment: wonderleak","glorify: dome"]}
-{"Chancery":"magnitude","Class":"n","Attested":["weight","greatness","micklehood."],"Unattested":[""]}
+{"Chancery":"magnitude","Class":"n","Attested":["weight","greatness","micklehood"],"Unattested":[""]}
 {"Chancery":"magnolia","Class":"n","Attested":[],"Unattested":["beaverbloom"]}
 {"Chancery":"maggot","Class":"n","Attested":["worm","grub"],"Unattested":["maddock","mathe"]}
 {"Chancery":"mail (armor)","Class":"n","Attested":[],"Unattested":["mesh","burne"]}

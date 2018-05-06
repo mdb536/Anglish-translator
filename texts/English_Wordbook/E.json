@@ -2,16 +2,14 @@
 {"Chancery":"earphone(s)","Class":"n","Attested":["headset","earspeaker"],"Unattested":["earset","earswan"]}
 {"Chancery":"ease","Class":"n","Attested":["lightheartedness"],"Unattested":["eath"]}
 {"Chancery":"ease","Class":"vb","Attested":["allay","unburden","unlade","smoothen","sooth","quell"],"Unattested":[]}
-{"Chancery":"easy","Class":"adj","Attested":["smooth","downhill","hands-down","light","not hard","eath","eathy","struggleless*","unburdensome","unwearisome"],"Unattested":["onefold"]}
+{"Chancery":"easy","Class":"adj","Attested":["smooth","downhill","hands-down","light","not hard","eath","eathy","struggleless","unburdensome","unwearisome"],"Unattested":["onefold"]}
 {"Chancery":"eau de toilette","Class":"n","Attested":[],"Unattested":["duft","cride water"]}
 {"Chancery":"ebony","Class":"adj/n","Attested":["blackwood"],"Unattested":[]}
 {"Chancery":"ebullition","Class":"n","Attested":["outburst","flare-up","blowup","frothing"],"Unattested":[]}
 {"Chancery":"eccentric","Class":"adj","Attested":["far-out","crazy","kooky","offbeat","off-the-wall","outlandish","queer","way-out","weird","wild"],"Unattested":["sparky"]}
 {"Chancery":"eccentric","Class":"n","Attested":[],"Unattested":["sunderling"]}
-{"Chancery":"Ecclesiastes","Class":"n","Attested":[],"Unattested":["The Preacher"," ??preach < FR prêcher !!"]}
 {"Chancery":"ecclesiastical","Class":"adj","Attested":["churchly","church"],"Unattested":[]}
-{"Chancery":"echo (1)","Class":"n","Attested":[],"Unattested":["witherclank","backwave","witherwave","woodmare","windmare","verb: wave back"]}
-{"Chancery":"echo \n(2)","Class":"n","Attested":["wannabe","shadow"],"Unattested":[]}
+{"Chancery":"echo","Class":"n","Attested":[],"Unattested":["witherclank","backwave","witherwave","woodmare","windmare","lesser saying","doing again: wannabe","shadowverb: send back","wave back"]}
 {"Chancery":"eclipse","Class":"vb/n","Attested":["outshine"],"Unattested":["overshadowing","forshadowing"]}
 {"Chancery":"economics","Class":"n","Attested":["trade","dealing","husbandry"],"Unattested":["wealthlore","houselore","householdlore","housekeeping"]}
 {"Chancery":"economy","Class":"n","Attested":["wealthdom","cutback"],"Unattested":["householding","","","of a nation: landwealth"]}
@@ -25,11 +23,11 @@
 {"Chancery":"edifice","Class":"n","Attested":["building","house"],"Unattested":["outwork"]}
 {"Chancery":"edify","Class":"vb","Attested":[],"Unattested":["intimber"]}
 {"Chancery":"edifying","Class":"adj","Attested":["teaching","uplifting","mindworthy"],"Unattested":[]}
-{"Chancery":"edit","Class":"vb","Attested":[],"Unattested":["bework","by-draft","write","work through"]}
-{"Chancery":"edition","Class":"n","Attested":["output"],"Unattested":["outlaying","issue: begivingpublication: foropening","forlaying"]}
-{"Chancery":"educate","Class":"vb","Attested":["teach","lere","","learn"],"Unattested":["tee","belearn"]}
-{"Chancery":"educated","Class":"adj","Attested":["learned","well-read"],"Unattested":[]}
-{"Chancery":"education","Class":"n","Attested":["learning","teaching","book-learning"],"Unattested":["lorecraft","lore","bilding"]}
+{"Chancery":"edit","Class":"vb","Attested":["work"],"Unattested":["bework","by-draft","write","work through","wend"]}
+{"Chancery":"edition","Class":"n","Attested":["output"],"Unattested":["outlayingissue: begivingpublication: foropening","forlaying"]}
+{"Chancery":"educate","Class":"vb","Attested":["teach","lere","","learn"],"Unattested":["atee","tee","belearn"]}
+{"Chancery":"educated","Class":"adj","Attested":["learned","well read","well taught"],"Unattested":[]}
+{"Chancery":"education","Class":"n","Attested":["learning","teaching","book-learning"],"Unattested":["lorecraft","lore","bilthing"]}
 {"Chancery":"educator","Class":"n","Attested":["teacher"],"Unattested":["teer","lorer"]}
 {"Chancery":"educe","Class":"vb","Attested":["outbring","outdraw","draw out","bring out"],"Unattested":["bespell"]}
 {"Chancery":"-ee","Class":"sfx","Attested":["-end","-ling","-ed"],"Unattested":[]}
@@ -40,11 +38,11 @@
 {"Chancery":"effervescent","Class":"adv","Attested":["bubbling","bubbly","lively","frothing"],"Unattested":[]}
 {"Chancery":"efficacious","Class":"adj","Attested":["handy","working"],"Unattested":[]}
 {"Chancery":"efficacy","Class":"n","Attested":["handiness"],"Unattested":[]}
-{"Chancery":"effort","Class":"n","Attested":["sweat","while","work"],"Unattested":["onstronging","elbow fat"]}
+{"Chancery":"effort","Class":"n","Attested":["sweat","while","work"],"Unattested":["onstrength","onstronging","elbow fat"]}
 {"Chancery":"effrontery","Class":"n","Attested":["shamelessness","brazenness"],"Unattested":[]}
 {"Chancery":"e.g.","Class":"abbr.","Attested":[],"Unattested":["f.b.","'for busen' or 'for byspel'"]}
 {"Chancery":"egalitarianism","Class":"n","Attested":[],"Unattested":["evenhood","flackhood"]}
-{"Chancery":"egg (only overset if getting rid of ON words too)","Class":"n","Attested":["ey"],"Unattested":[]}
+{"Chancery":"egg (<ON)","Class":"n","Attested":["ey"],"Unattested":[]}
 {"Chancery":"ego","Class":"n","Attested":["bighead","pride","psychology: self","I",")"],"Unattested":[]}
 {"Chancery":"egocentric","Class":"adj","Attested":["selfish"],"Unattested":[]}
 {"Chancery":"egoïsm","Class":"n","Attested":["selfishness"],"Unattested":["self-mindedness"]}
@@ -59,7 +57,7 @@
 {"Chancery":"elate","Class":"vb","Attested":["uplift","stir up"],"Unattested":[]}
 {"Chancery":"elect","Class":"vb","Attested":["choose","wale"],"Unattested":[]}
 {"Chancery":"election","Class":"n","Attested":["choosing"],"Unattested":["corenness","chosenness"]}
-{"Chancery":"electric","Class":"adj","Attested":[],"Unattested":["sparkwork","glarum","thundery\nstream-","streamfed"]}
+{"Chancery":"electric","Class":"adj","Attested":[],"Unattested":["sparkly","sparkwork","glarum","","thundery","stream-","streamfed"]}
 {"Chancery":"electrician","Class":"n","Attested":[],"Unattested":["sparksmith"]}
 {"Chancery":"electricity","Class":"n","Attested":[],"Unattested":["streamwork","streaming","sparkflow","lightflow","wattflow","thunderflow","thundermight","thundersprack","ghostfire","faraday's candle."]}
 {"Chancery":"electrocution","Class":"n","Attested":[],"Unattested":["sparkdeath","joltdeath"]}
@@ -77,10 +75,10 @@
 {"Chancery":"elite","Class":"n","Attested":["best"],"Unattested":["","swelldom"]}
 {"Chancery":"elite","Class":"adj","Attested":["picky"],"Unattested":[]}
 {"Chancery":"ellipse","Class":"n","Attested":[],"Unattested":["ringshadow","wheelshadow"]}
-{"Chancery":"ellipsis","Class":"n","Attested":[],"Unattested":["outlettingtoken","belettelsetoken","throughdots","\nthridots"]}
+{"Chancery":"ellipsis","Class":"n","Attested":[],"Unattested":["outlettingtoken","belettelsetoken","","throughdots","","threedot"]}
 {"Chancery":"elocution","Class":"n","Attested":[],"Unattested":["talecraft"]}
 {"Chancery":"elongate","Class":"vb","Attested":["lengthen","stretch"],"Unattested":[]}
-{"Chancery":"eloquent","Class":"adj","Attested":["silver-tongued","well-spoken"],"Unattested":["cwethel","wordskilled"]}
+{"Chancery":"eloquent","Class":"adj","Attested":["silver-tongued","well-spoken"],"Unattested":["quethel","wordskilled"]}
 {"Chancery":"eloquence","Class":"n","Attested":[],"Unattested":["wordskillness","wellspokenness"]}
 {"Chancery":"email (but mail is from a Germanic source)","Class":"n/vb","Attested":[],"Unattested":["wirewrit"]}
 {"Chancery":"emanate","Class":"vb","Attested":["cast","give out","send out"],"Unattested":["outstreal"]}
@@ -113,7 +111,7 @@
 {"Chancery":"empress","Class":"n","Attested":[],"Unattested":["highqueen"]}
 {"Chancery":"emulate","Class":"vb","Attested":["ape","underfollow"],"Unattested":[]}
 {"Chancery":"emulsion","Class":"n","Attested":["forblending"],"Unattested":[]}
-{"Chancery":"en-","Class":"pref","Attested":["in-"," on-"," be-"],"Unattested":["um-"]}
+{"Chancery":"en-","Class":"pref","Attested":["in-"," on-"," be-"],"Unattested":["umb-","um-"]}
 {"Chancery":"enable","Class":"vb","Attested":["let"],"Unattested":["indow"]}
 {"Chancery":"enact","Class":"vb","Attested":[],"Unattested":["umdo"]}
 {"Chancery":"en masse","Class":"adv","Attested":["in bulk"],"Unattested":[]}
@@ -121,7 +119,7 @@
 {"Chancery":"enchant","Class":"vb","Attested":["spellbind","wile"," bewitch","hex"],"Unattested":[]}
 {"Chancery":"enchantment","Class":"n","Attested":["bliss","spell","witchcraft","hex"],"Unattested":[]}
 {"Chancery":"enchantress","Class":"n","Attested":["witch"],"Unattested":[]}
-{"Chancery":"encircle","Class":"vb","Attested":["begird","beclip","beset","gird"],"Unattested":["umwreathe","umring","","set aring","bering"]}
+{"Chancery":"encircle","Class":"vb","Attested":["begird","beclip","beset","gird","enring","inring"],"Unattested":["umwreathe","umring","","set aring","bering"]}
 {"Chancery":"enclose","Class":"vb","Attested":["bound","wrap","pound","pen","hedge","hem in","wall in"],"Unattested":["umfold"]}
 {"Chancery":"enclosure","Class":"n","Attested":["haw","pen","paddock","field","yard"],"Unattested":[]}
 {"Chancery":"encompass","Class":"vb","Attested":["hold","deal with","take in","ring","girdle"],"Unattested":["inwreath","umhold","bethring"]}
@@ -140,9 +138,9 @@
 {"Chancery":"endorse","Class":"vb","Attested":["back up"],"Unattested":[""]}
 {"Chancery":"endow","Class":"vb","Attested":["gift","underwrite","give"],"Unattested":[]}
 {"Chancery":"endowment","Class":"n","Attested":["knack"],"Unattested":[]}
-{"Chancery":"endure","Class":"vb","Attested":["hold out","thole","dree","abear","withstand","undergo","bear","keep on","put up with","hold through","stand through","bear through"],"Unattested":["dree","thole","raven"]}
+{"Chancery":"endure","Class":"vb","Attested":["hold out","abear","withstand","undergo","bear","keep on","put up with","hold through","stand through","bear through"],"Unattested":["dree","thole","raven"]}
 {"Chancery":"endurance","Class":"n","Attested":["strength","doggedness","lastingness"],"Unattested":["dreeing","tholing","throughholding","throughbearing","throughstanding"]}
-{"Chancery":"enemy","Class":"n","Attested":["foe","fiend","the other side"],"Unattested":["fiendsheathe","scathe ","boastful: yelpsheathe"]}
+{"Chancery":"enemy","Class":"n","Attested":["foe","fiend","the other side"],"Unattested":["fiendsheathe","scathe","boastful: yelpsheathe"]}
 {"Chancery":"energy","Class":"n","Attested":["work","flow","beans","drive","feel energetic: feel one's oats"],"Unattested":["coveness","dodrive","inwork","","spring","go","might","workfire"]}
 {"Chancery":"enervate","Class":"vb","Attested":["unman","weaken","unsettle","faze"],"Unattested":[]}
 {"Chancery":"enforce","Class":"vb","Attested":["helmstand"],"Unattested":[]}
@@ -153,51 +151,54 @@
 {"Chancery":"enjoy","Class":"n","Attested":["","gladden oneself","have lust","","belove"],"Unattested":[]}
 {"Chancery":"enjoyment","Class":"n","Attested":["fun","gladness","happiness","use"],"Unattested":["brooking","neeting"]}
 {"Chancery":"enlarge","Class":"vb","Attested":["swell","greaten"],"Unattested":["forgreaten"]}
-{"Chancery":"enmity","Class":"n","Attested":["hatred","bitterness","ill will"],"Unattested":["feaghth","feaght/faught"," pl: feaghthe","fiendship"]}
+{"Chancery":"enmity","Class":"n","Attested":["hatred","bitterness","ill will"],"Unattested":["feaghth","feaght/faught","fiendship"]}
 {"Chancery":"ennui","Class":"n","Attested":["boredom","tiredness","listlessness"],"Unattested":["wanfeeling"]}
 {"Chancery":"enrich","Class":"vb","Attested":["make wealthy","richen"],"Unattested":["wealy"]}
 {"Chancery":"enrichment","Class":"n","Attested":[],"Unattested":["wealying"]}
 {"Chancery":"ensnare","Class":"vb","Attested":["grin"],"Unattested":["swarl"]}
 {"Chancery":"ensue","Class":"vb","Attested":["follow","come after"],"Unattested":[]}
-{"Chancery":"ensure","Class":"vb","Attested":["see to it"],"Unattested":["sicker","sickerstell",""]}
-{"Chancery":"enter","Class":"vb","Attested":["go into","come into","step into","begin","in faredata entry: key in","input"],"Unattested":["feed","betread"]}
-{"Chancery":"entrance","Class":"n","Attested":["ingang"],"Unattested":[]}
-{"Chancery":"enterprise","Class":"n","Attested":["business","undertaking","readiness","get-up-and-go"],"Unattested":["underniming"]}
+{"Chancery":"ensure","Class":"vb","Attested":["see to it"],"Unattested":["sicker","sickerstell","sickerput","sickermake",""]}
+{"Chancery":"enter","Class":"vb","Attested":["go into","come into","step into","begin","in faredata entry: key in","input"],"Unattested":["ingo","intread","betread"]}
+{"Chancery":"entrance","Class":"n","Attested":["ingang"],"Unattested":["inway"]}
+{"Chancery":"enterprise","Class":"n","Attested":["business","undertaking","readiness","get-up-and-go"],"Unattested":["undernimming"]}
 {"Chancery":"entheogen","Class":"n","Attested":["holyspring"],"Unattested":[""]}
-{"Chancery":"enthusiasm","Class":"n","Attested":["white heat","keenness","warmth","thrill"],"Unattested":["bedrivenness","listfulness","lustfulness","fele"]}
+{"Chancery":"enthusiasm","Class":"n","Attested":["white heat","keenness","warmth","thrill"],"Unattested":["bedrivenness","listfulness","lustfulness","felelust","felelist"]}
 {"Chancery":"entice","Class":"vb","Attested":["draw to","spur","goad","wheedle","sweet talk"],"Unattested":["forlead"]}
 {"Chancery":"entire","Class":"adj","Attested":["whole","full","sound","unharmed","without a scratch"],"Unattested":[]}
 {"Chancery":"entirely","Class":"adv","Attested":["fully","thoroughly","outright","wholly","altogether"],"Unattested":[]}
 {"Chancery":"entirety","Class":"n","Attested":["whole","fullness"],"Unattested":["all-hood","alhood"]}
+{"Chancery":"entitle","Class":"vb","Attested":["let","brook","give right","have right"],"Unattested":["bid","aleave","","bename"]}
+{"Chancery":"entitled","Class":"adj","Attested":["upstart","highbrow","overbearing","high-handed","full of oneself","above oneself","stuck-up"," snooty"," hoity-toity"," uppity"," uppish"," big-headed"," high and mighty"," la-di-da"],"Unattested":[""]}
+{"Chancery":"entitled","Class":"adj (p.p.)","Attested":["named","called","yclept","ycleped","deemed"],"Unattested":["hight"]}
 {"Chancery":"entrail","Class":"n","Attested":["innard"],"Unattested":[]}
 {"Chancery":"entrance","Class":"n","Attested":["key","doorway","in faring"],"Unattested":[]}
 {"Chancery":"entrance","Class":"vb","Attested":["bewitch","spellbind"],"Unattested":[]}
 {"Chancery":"entreat","Class":"vb","Attested":[],"Unattested":[""]}
 {"Chancery":"entreaty","Class":"n","Attested":[],"Unattested":[""]}
 {"Chancery":"entrepreneur","Class":"n","Attested":["business","man","undertaker"],"Unattested":[]}
-{"Chancery":"entry","Class":"n","Attested":["threshold","way in","gateway"," infaring"],"Unattested":[]}
+{"Chancery":"entry","Class":"n","Attested":["threshold","way in","gateway"," infaring"],"Unattested":["inway"]}
 {"Chancery":"enumerate","Class":"vb","Attested":[],"Unattested":["tell out","sum up"]}
-{"Chancery":"enunciate","Class":"vb","Attested":[],"Unattested":["outdeal"]}
+{"Chancery":"enunciate","Class":"vb","Attested":["say sharply","speak sharply","utter sharply"],"Unattested":["outspeak","outdeal"]}
 {"Chancery":"envelop","Class":"vb","Attested":["shroud","wrap","hide","swaddle"],"Unattested":["bewrap","inshroud","inwomb","overfathom"]}
-{"Chancery":"envelope","Class":"n","Attested":[],"Unattested":["kite <US prison slang","wrapper"]}
+{"Chancery":"envelope","Class":"n","Attested":[],"Unattested":["kite","wrapper","wordholder","mailholder"]}
 {"Chancery":"envious","Class":"adj","Attested":[],"Unattested":["evestful","andy jealous"]}
-{"Chancery":"environment","Class":"n","Attested":["setting"],"Unattested":["umworld","umsettingumwerve","lifeworld"]}
+{"Chancery":"environment","Class":"n","Attested":["setting"],"Unattested":["umworld","umsetting","umwerve","lifeworld"]}
 {"Chancery":"envision","Class":"vb","Attested":["foretell","foresee"],"Unattested":["mindsee"]}
-{"Chancery":"envoy","Class":"n","Attested":[],"Unattested":["gesend","offgesend"]}
-{"Chancery":"envy","Class":"vb","Attested":[],"Unattested":["evest","ondy jealous","nithe hatred"]}
-{"Chancery":"envy","Class":"n","Attested":[],"Unattested":["nithe","onde"]}
+{"Chancery":"envoy","Class":"n","Attested":["sent one","spokes","man"],"Unattested":["sent","offsent","sent off"]}
+{"Chancery":"envy","Class":"vb","Attested":["want"],"Unattested":["evest","ondy","","benithe","nithe"]}
+{"Chancery":"envy","Class":"n","Attested":[],"Unattested":["nithe","onde","havelust","seething for"]}
 {"Chancery":"enzyme","Class":"n","Attested":[],"Unattested":["yeaster","yeastuff"]}
 {"Chancery":"ephemeral","Class":"adj","Attested":["fleeting","short-lived"],"Unattested":["dwimmerly","dwimmerlike"]}
 {"Chancery":"ephemeris","Class":"n","Attested":[],"Unattested":["tunglebook","starbook"]}
-{"Chancery":"epic","Class":"n/adj","Attested":["adj:lofty","high-flown"],"Unattested":["held"]}
+{"Chancery":"epic","Class":"n/adj","Attested":["adj: lofty","high-flown"],"Unattested":["held"]}
 {"Chancery":"epicentrum","Class":"n","Attested":[],"Unattested":["heart","middleord"]}
-{"Chancery":"epiglottis","Class":"n","Attested":[],"Unattested":["Over-tongue"]}
+{"Chancery":"epiglottis","Class":"n","Attested":[],"Unattested":["overtongue"]}
 {"Chancery":"epilepsy","Class":"n","Attested":["falling sickness"],"Unattested":[]}
-{"Chancery":"epilogue","Class":"n","Attested":["afterword"],"Unattested":["end-speech","endwrit","afterthought","aftertale","last words","end tale"]}
-{"Chancery":"epiphany","Class":"n","Attested":[],"Unattested":["sweetling","atewing","","heavensight","heaventhought;to have an",": to be heavenstruck"]}
+{"Chancery":"epilogue","Class":"n","Attested":["afterword","afterthought"],"Unattested":["endspeech","endwrit","aftertale","last words","end tale"]}
+{"Chancery":"epiphany","Class":"n","Attested":[],"Unattested":["sweetling","atewing","heavensight","heaventhoughtto have an",": to be heavenstruck"]}
 {"Chancery":"Epiphany","Class":"n","Attested":[],"Unattested":["Sweetlingday","Atewmas"]}
 {"Chancery":"episode","Class":"n","Attested":[""],"Unattested":["follow"]}
-{"Chancery":"epistemology","Class":"n","Attested":[],"Unattested":["Knowledgelore"]}
+{"Chancery":"epistemology","Class":"n","Attested":[],"Unattested":["knowledgelore","knowlore"]}
 {"Chancery":"epistle","Class":"n","Attested":[],"Unattested":["errandwrit","pl: errandwriotu"]}
 {"Chancery":"epithet","Class":"n","Attested":["byname","handle"],"Unattested":[]}
 {"Chancery":"equal","Class":"adj","Attested":["even","alike","same","evenworthy","sameworthy"],"Unattested":[]}
@@ -210,33 +211,34 @@
 {"Chancery":"equatorium","Class":"n","Attested":[],"Unattested":["stargirdler","starlengthreckoner"]}
 {"Chancery":"equidistant","Class":"adj","Attested":["midway","evenfar"],"Unattested":[]}
 {"Chancery":"Equestria","Class":"n","Attested":[],"Unattested":["Perdland"]}
-{"Chancery":"Equestrian","Class":"adj/n","Attested":["- horsemanship","horse-riding","on-horseback."],"Unattested":["Perdlandish","Perden","horsenn:  perdlander pl: perdlandren?"]}
+{"Chancery":"Equestrian","Class":"adj/n","Attested":["horsemanship","horse-riding","on-horseback."],"Unattested":["horselandish","horselanding"]}
 {"Chancery":"equine","Class":"n/adj","Attested":["steed","horse","stot"],"Unattested":["adj: horsely"]}
 {"Chancery":"equinox","Class":"n","Attested":[],"Unattested":["evennight"]}
 {"Chancery":"equip","Class":"vb","Attested":["graith","gear","fit","","gear up","outfit","rig up","beweapon"],"Unattested":["ryst","rist"]}
 {"Chancery":"equipment","Class":"n","Attested":["gear","graith"],"Unattested":["outrysting"]}
 {"Chancery":"equitable","Class":"adj","Attested":["evenhanded"],"Unattested":[]}
-{"Chancery":"equivalent","Class":"adj","Attested":[],"Unattested":["samewise","evenworth"]}
-{"Chancery":"equivalent","Class":"n","Attested":["fellow","like","match","withstander"],"Unattested":["Gainsteck NHG","Gainshtick from English [gain- + steck]Gain- means \"against","again towards\" Steck means \"piece","part\".\nSo it means \"One who is against my part\" \nGainstander"]}
+{"Chancery":"equivalent","Class":"adj","Attested":[],"Unattested":["likeworthy","samewise","evenworth"]}
+{"Chancery":"equivalent","Class":"n","Attested":["fellow","like","match","withstander"],"Unattested":["withersteck","witherbit","gainbit","gainsteck","gainshtick"]}
 {"Chancery":"era","Class":"n","Attested":["timespan","time","world","eld"],"Unattested":[]}
 {"Chancery":"eradicate","Class":"vb","Attested":["wipe out"],"Unattested":["forspill","naughten","uplock","uproot","wipe out"]}
-{"Chancery":"erase","Class":"vb","Attested":["rub out","root out","wipe out"],"Unattested":[]}
+{"Chancery":"erase","Class":"vb","Attested":["rub out","root out","wipe out"],"Unattested":["unmark"]}
 {"Chancery":"eraser","Class":"n","Attested":["rubber"],"Unattested":[]}
-{"Chancery":"erect","Class":"n/vb","Attested":["uprightrear","set up","lift up"],"Unattested":["aheave"]}
+{"Chancery":"erect","Class":"n/vb","Attested":["upright","rear","set up","lift up"],"Unattested":["aheave"]}
 {"Chancery":"erection","Class":"n","Attested":["1. building 2. hardon","boner"],"Unattested":["1. uprighting"]}
-{"Chancery":"ergo","Class":"conj/adv","Attested":["therefore","thusforthy"],"Unattested":[]}
+{"Chancery":"ergo","Class":"conj/adv","Attested":["therefore","thus","forthy"],"Unattested":[]}
 {"Chancery":"erinacine","Class":"n","Attested":["hedgehog"],"Unattested":[]}
 {"Chancery":"eritrocyte","Class":"n","Attested":[],"Unattested":["red bloodmote"]}
 {"Chancery":"ermine","Class":"n","Attested":["stoat","short-tailed weasel"],"Unattested":["northern weasel"]}
 {"Chancery":"erotic","Class":"adj","Attested":["lovely","lewd","kinky","teasing"],"Unattested":[]}
 {"Chancery":"err","Class":"vb","Attested":["wander"],"Unattested":["dwole"]}
-{"Chancery":"error","Class":"n","Attested":["dwale","wrong","slip","slip-up","mistake"],"Unattested":["dwole","dwoleship"]}
+{"Chancery":"error","Class":"n","Attested":["dwale","wrong","slip","slip-up","mistake","blunder","flop"],"Unattested":["dwole","dwoleship"]}
 {"Chancery":"erupt","Class":"vb","Attested":["flare up","blow up","break out","burst out"],"Unattested":[]}
 {"Chancery":"eruption","Class":"n","Attested":["outburst","outbreak"],"Unattested":[]}
 {"Chancery":"escalator","Class":"n","Attested":[],"Unattested":["ridestairs","smart-stairs"]}
-{"Chancery":"escape","Class":"vb/n","Attested":["vb: break out","flee","run off","shun","weasel out of","n: breakout","flight","getaway","slip; dodging","ducking","shunning"],"Unattested":["withfare","othshake","lose","othshoot","othrun","aturn","by rowing: outrow","by swimming: outswim","\natlimp"," \noutleap <span style=\"background-color:transparent","font-size:95%;\">","\natfare "]}
+{"Chancery":"escape","Class":"n","Attested":["breakout","flight","getaway","slip","dodging","ducking","shunning"],"Unattested":["leaping out","outleaping","other -ing from below"]}
+{"Chancery":"escape","Class":"vb","Attested":["break out","flee","run off","shun","weasel out of"],"Unattested":["withfare","othshake","","","","othshoot","","othrun","","aturn","","atlimp","","outleap","","atfare","","by rowing: outrow","by swimming: outswim"]}
 {"Chancery":"escape pod","Class":"n","Attested":[],"Unattested":["fleepod"]}
-{"Chancery":"especially","Class":"adv","Attested":["namely","moreso","above all"],"Unattested":["hure","sundrily","","besunders"]}
+{"Chancery":"especially","Class":"adv","Attested":["namely","moreso","above all"],"Unattested":["hure","sundrily","","besunderly"]}
 {"Chancery":"espionage","Class":"n","Attested":[],"Unattested":["sleuthcraft"]}
 {"Chancery":"essay","Class":"n","Attested":[],"Unattested":["spellwrit","lorewriting","lorewise writing"]}
 {"Chancery":"essence","Class":"n","Attested":["nub","heart","kernel","pith","being","whatness","broth","selfhood"],"Unattested":["wist","selfship"]}
@@ -261,21 +263,21 @@
 {"Chancery":"ethmoid bone","Class":"n","Attested":[],"Unattested":["sievebone"]}
 {"Chancery":"ethnic group","Class":"n","Attested":["folkstock"],"Unattested":[]}
 {"Chancery":"ethnic minority","Class":"n","Attested":[],"Unattested":["outlandish fellowship"]}
-{"Chancery":"Ethnologie","Class":"n","Attested":[],"Unattested":["Folkken","Folklore"]}
-{"Chancery":"etymology","Class":"n","Attested":["wordlore"],"Unattested":["brickwordlore"]}
-{"Chancery":"eu-","Class":"n","Attested":[],"Unattested":["bet-","well-"]}
-{"Chancery":"eukaryote","Class":"n","Attested":[],"Unattested":["wholekerneling"]}
+{"Chancery":"ethnology","Class":"n","Attested":[],"Unattested":["folkken","folklore"]}
+{"Chancery":"etymology","Class":"n","Attested":["wordlore"],"Unattested":["brickwordlore","wordbuildlore","wordyorelore"]}
+{"Chancery":"eu-","Class":"n","Attested":[],"Unattested":["good-","bet-","well-"]}
+{"Chancery":"eukaryote","Class":"n","Attested":[],"Unattested":["wholelifebit","wholekerneling"]}
 {"Chancery":"euphemism","Class":"n","Attested":[],"Unattested":["mellowword","welltalk"]}
-{"Chancery":"euphonic","Class":"","Attested":[""],"Unattested":["wellclang"]}
+{"Chancery":"euphonic","Class":"adj","Attested":[""],"Unattested":["wellclinking","wellclang"]}
 {"Chancery":"euphoria","Class":"n","Attested":["good-feeling"],"Unattested":["well-at-burden"]}
 {"Chancery":"Europe","Class":"n","Attested":[],"Unattested":["Eveland","Quildland","+ land","cf. H Ic. Kvöldland and NHG Abendland \"Occident\")"]}
-{"Chancery":"euthanasia","Class":"n","Attested":[],"Unattested":["death-choosing","wilful death","smoothdeath"]}
-{"Chancery":"evacuate","Class":"vb","Attested":["empty"],"Unattested":[]}
+{"Chancery":"euthanasia","Class":"n","Attested":[],"Unattested":["death-choosing","willful death","smoothdeath"]}
+{"Chancery":"evacuate","Class":"vb","Attested":["empty","empty out","drain"],"Unattested":[]}
 {"Chancery":"evade","Class":"vb","Attested":["dodge","sidestep"],"Unattested":[]}
 {"Chancery":"evaluate","Class":"vb","Attested":[],"Unattested":["bedeem","bereckon","beworthen","think over","weigh up","look carefully at","sift through"]}
-{"Chancery":"evaluation","Class":"n","Attested":["reckoning"],"Unattested":["bedeeming","bereckoning","beworthening worthreckoning","worthening"]}
+{"Chancery":"evaluation","Class":"n","Attested":["reckoning"],"Unattested":["bedeeming","bereckoning","beworthening","worthreckoning","worthening"]}
 {"Chancery":"evangelism","Class":"n","Attested":["holy errand"],"Unattested":[]}
-{"Chancery":"evaporate","Class":"n","Attested":[],"Unattested":["yeäthem"]}
+{"Chancery":"evaporate","Class":"vb","Attested":["dry up","become wind","become loft"],"Unattested":["outsteam","forsteam","","forfly","","yeathem"]}
 {"Chancery":"evangelist","Class":"n","Attested":["sendling"],"Unattested":[]}
 {"Chancery":"event","Class":"n","Attested":["happening","hap","befall","show"],"Unattested":[]}
 {"Chancery":"eventually","Class":"adv","Attested":["in time","in the end","at last"],"Unattested":["outendly","endly"]}
@@ -291,17 +293,17 @@
 {"Chancery":"exact","Class":"adj","Attested":[],"Unattested":["narrowkiry ","ynauw"]}
 {"Chancery":"exactly","Class":"adv","Attested":["rightly"],"Unattested":["narrowkirily"]}
 {"Chancery":"exaggerate","Class":"vb","Attested":["overplay","overdo"],"Unattested":["overdrive"]}
-{"Chancery":"exaggeration","Class":"n","Attested":[],"Unattested":["overblowing","whid","overdriving"]}
-{"Chancery":"exalt","Class":"vb","Attested":["uplift","heighten"],"Unattested":["upraid","aheave","hee <span style=\"background-color:transparent","font-size:95%;\">"]}
-{"Chancery":"examine","Class":"vb","Attested":["go over","con"],"Unattested":["underseek","underseech","undersecan","cf. NHG untersuchen and Du. onderzoeken)"]}
-{"Chancery":"example","Class":"n","Attested":[],"Unattested":["busen","pronounced 'bisen'","byspel","","[even though byspel is not attested","it has been seen in some writing off and on.]\nbispel","\nmodel: forebeeld","\n[beeld","]\nshowing","showdeal","showoff"]}
-{"Chancery":"example (for)","Class":"n","Attested":["thus"],"Unattested":["for byspel","for bisen","for showing"]}
+{"Chancery":"exaggeration","Class":"n","Attested":[],"Unattested":["overblowing","whid","overdriving","overplay","overdoing"]}
+{"Chancery":"exalt","Class":"vb","Attested":["uplift","heighten"],"Unattested":["aheave","hee "]}
+{"Chancery":"examine","Class":"vb","Attested":["go over","con"],"Unattested":["underseek","underseech"]}
+{"Chancery":"example","Class":"n","Attested":[],"Unattested":["bisen","bispel","byspel","model: forebilthe","bilthe","","showing","showdeal","showoff"]}
+{"Chancery":"example (for)","Class":"n","Attested":["thus"],"Unattested":["for byspel","for bilthe","for bisen","for showing"]}
 {"Chancery":"exaptation","Class":"n","Attested":["kludging"],"Unattested":[]}
 {"Chancery":"exasperate","Class":"vb","Attested":["imbitter"],"Unattested":["tire"]}
 {"Chancery":"excavate","Class":"n","Attested":["delve","unearth","hollow out","dig up"],"Unattested":[]}
 {"Chancery":"excavation","Class":"n","Attested":["delving","unearthing","digging up"],"Unattested":[]}
 {"Chancery":"exceed","Class":"vb","Attested":["outreach","outrun","overrun","overstep","outdo","outshine","overtop"],"Unattested":[]}
-{"Chancery":"excel","Class":"vb","Attested":["outdo","outshine","overtop"],"Unattested":["in brightness: overlight ","in stature: overlyve [pronounced overlaɪv]\n"]}
+{"Chancery":"excel","Class":"vb","Attested":["outdo","shine","outshine","overtop"],"Unattested":["in brightness: overlight ","in stature: overlyve [pronounced overlaɪv]"]}
 {"Chancery":"excellent","Class":"adj","Attested":["outstanding","gilt-edged","swell","topping","wonderful"],"Unattested":["highcraft"]}
 {"Chancery":"except","Class":"prep","Attested":["but","other than"],"Unattested":[]}
 {"Chancery":"exception","Class":"n","Attested":["standout","outstander","outtake"],"Unattested":[]}
@@ -309,40 +311,41 @@
 {"Chancery":"excerpt","Class":"n","Attested":[],"Unattested":["outpull","offcut","snippet"]}
 {"Chancery":"excessive","Class":"adj","Attested":["overmuch","steep","sharp","rank","overdone","too much"],"Unattested":["overdeedy"]}
 {"Chancery":"excessively","Class":"adv","Attested":["overly","too much","too"],"Unattested":[]}
-{"Chancery":"exchange","Class":"vb","Attested":["swap","wrixle"],"Unattested":["bewrixle "]}
+{"Chancery":"exchange","Class":"vb","Attested":["swap","wrixle"],"Unattested":["bewrixle"]}
 {"Chancery":"excise","Class":"vb","Attested":["snithe","cut out"],"Unattested":[]}
 {"Chancery":"excite","Class":"vb","Attested":["upedge","thrill","key up"],"Unattested":["upwake","upwind"]}
 {"Chancery":"exciting","Class":"adj","Attested":["thrilling","gripping","spellbinding"],"Unattested":[]}
-{"Chancery":"exclamation mark","Class":"n","Attested":[""],"Unattested":["outrooptoken","loudtoken"]}
-{"Chancery":"exclude","Class":"vb","Attested":["outshut"],"Unattested":[]}
+{"Chancery":"exclamation mark","Class":"n","Attested":[""],"Unattested":["outrooptoken","outtoken"]}
+{"Chancery":"exclude","Class":"vb","Attested":["outshut"],"Unattested":["yout"]}
 {"Chancery":"excommunication","Class":"vb","Attested":[],"Unattested":["amonsuming"]}
 {"Chancery":"excoriate","Class":"vb","Attested":["chide","flay"],"Unattested":["threap"]}
 {"Chancery":"excrement","Class":"n","Attested":["shit"],"Unattested":["shittle"]}
 {"Chancery":"excursion","Class":"n","Attested":["outing"],"Unattested":[]}
-{"Chancery":"excuse","Class":"vb","Attested":["forgive"],"Unattested":["offsake","Unshild","see shild"]}
+{"Chancery":"excuse","Class":"vb","Attested":["forgive","unguilt","let off the hook","let leave","unburden","free"],"Unattested":["offsake","unshild","","unwite","","load","","beload"]}
+{"Chancery":"excuse","Class":"n","Attested":["grounds","sake","shield","ward","out"],"Unattested":["offsake","offsaking","guiltshifting","unguilting","unwiting","unshilding","","outspeech","","fortwisting","outtwisting","","outflight","outfleeing","","load","","beloading"]}
 {"Chancery":"ex-directory","Class":"adj","Attested":["unlisted"],"Unattested":[]}
-{"Chancery":"execute","Class":"vb","Attested":["kill","quell","slay","put to death"],"Unattested":["carry out: affen"," past'  subjunctive: affnen"]}
+{"Chancery":"execute","Class":"vb","Attested":["kill","quell","slay","put to death"],"Unattested":["carry out: affen","lead out","lead through"]}
 {"Chancery":"executioner","Class":"n","Attested":["halseman"],"Unattested":["hangman","deathman","headsman","headman"]}
-{"Chancery":"exemplar","Class":"n","Attested":[""],"Unattested":["template:","forelay","forebeeld"]}
-{"Chancery":"exempt","Class":"vb","Attested":[],"Unattested":["outnim","outtake"]}
+{"Chancery":"exemplar","Class":"n","Attested":[],"Unattested":["template: forelay","foreblithe"]}
+{"Chancery":"exempt","Class":"vb","Attested":["let out","let off"],"Unattested":["outnim","outtake"]}
 {"Chancery":"exercise","Class":"vb/n","Attested":["work out"],"Unattested":["vb: ove","n: oving"]}
 {"Chancery":"exert","Class":"vb","Attested":["put forth","bestir"],"Unattested":[]}
 {"Chancery":"exhale","Class":"vb","Attested":["breathe out"],"Unattested":["athem"]}
-{"Chancery":"exhaust","Class":"vb","Attested":["overwork","wear out","forspend","tire"],"Unattested":[]}
-{"Chancery":"exhausted","Class":"adj","Attested":["tired","weary","worn out","drained","overtired","work-wearied","fordone","windless"],"Unattested":[]}
+{"Chancery":"exhaust","Class":"vb","Attested":["overwork","wear out","forspend","tire","drain"],"Unattested":[]}
+{"Chancery":"exhausted","Class":"adj","Attested":["tired","weary","worn out","drained","overtired","work-wearied","fordone","windless","overcome"],"Unattested":[]}
 {"Chancery":"exhaustive","Class":"adj","Attested":["all-out"],"Unattested":[]}
-{"Chancery":"exhaustive","Class":"adj","Attested":["thoroughgoing"],"Unattested":["groundly"]}
+{"Chancery":"exhaustive","Class":"adj","Attested":["thorough","thoroughgoing"],"Unattested":["groundly"]}
 {"Chancery":"exhibit","Class":"vb","Attested":["show"],"Unattested":[]}
 {"Chancery":"exhume","Class":"vb","Attested":["dig up","unearth"],"Unattested":[]}
 {"Chancery":"exile","Class":"vb","Attested":["send away","outlaw","blackball","blacklist"],"Unattested":[]}
 {"Chancery":"exile","Class":"n","Attested":["outcast","outlaw","castaway"],"Unattested":["wraxlithe"]}
-{"Chancery":"exist","Class":"vb","Attested":["be","live"],"Unattested":["bestand","","forelie"]}
+{"Chancery":"exist","Class":"vb","Attested":["be","live","stand"],"Unattested":["bestand","forelie"]}
 {"Chancery":"existence","Class":"n","Attested":["thingness"],"Unattested":["therehood","wist","being","therebeing","therestanding","worldliness"]}
-{"Chancery":"existent","Class":"adj","Attested":["living"],"Unattested":["wesand","forelying"]}
+{"Chancery":"existent","Class":"adj","Attested":["living","standing"],"Unattested":["bestanding","wistsome","forelying"]}
 {"Chancery":"exit","Class":"n","Attested":["way out","outway"],"Unattested":["outgang"]}
-{"Chancery":"exit","Class":"vb","Attested":["leave","move out of","go out"],"Unattested":["abandon: forlet"]}
+{"Chancery":"exit","Class":"vb","Attested":["leave","move out of","go out","forsake"],"Unattested":["abandon: forlet"]}
 {"Chancery":"exotic","Class":"vb","Attested":["outlandish"],"Unattested":["elthedish","farlandish"]}
-{"Chancery":"expand","Class":"vb","Attested":["broaden","greaten","spread","unfold","widen"],"Unattested":["theen","then","braid out"]}
+{"Chancery":"expand","Class":"vb","Attested":["broaden","greaten","spread","unfold","widen","stretch"],"Unattested":["theen","then","outbraid","braid out"]}
 {"Chancery":"expanse","Class":"n","Attested":["spread","reach","broadening"],"Unattested":["outstretching"]}
 {"Chancery":"expect","Class":"vb","Attested":["hope for","watch for","foresee"],"Unattested":["ween","awatch","forwatch"]}
 {"Chancery":"expectation","Class":"n","Attested":[],"Unattested":["waiting-for","weening"]}
@@ -351,21 +354,21 @@
 {"Chancery":"expedite","Class":"vb","Attested":["hurry","quicken"],"Unattested":[]}
 {"Chancery":"expedition","Class":"n","Attested":["outing"],"Unattested":["outfooting"]}
 {"Chancery":"expeditious","Class":"adj","Attested":["fast","quick","swift","speedy"],"Unattested":[]}
-{"Chancery":"expel","Class":"vb","Attested":["drive out","throw out"],"Unattested":["fordrive"]}
+{"Chancery":"expel","Class":"vb","Attested":["drive out","throw out","cast out"],"Unattested":["fordrive"]}
 {"Chancery":"expenditure(s)","Class":"n","Attested":["outgoing","dole out"],"Unattested":[]}
 {"Chancery":"expenses","Class":"n","Attested":["overheads","dole outs"],"Unattested":[]}
 {"Chancery":"expensive","Class":"adj","Attested":["dear","dearbought","unthrifty"],"Unattested":[]}
 {"Chancery":"experience","Class":"vb","Attested":["undergo","go through","uplive"],"Unattested":["afand","afare"]}
 {"Chancery":"experience","Class":"n","Attested":["bad: ordeal"],"Unattested":["afanding","afaring"]}
 {"Chancery":"experienced","Class":"adj","Attested":["wise","learned","well-read"],"Unattested":["afanded","hired","afared"]}
-{"Chancery":"experiment","Class":"vb","Attested":["fand","bid"],"Unattested":["fanding"]}
-{"Chancery":"experiment","Class":"n","Attested":["fanding","bidding"],"Unattested":[""]}
-{"Chancery":"experimental","Class":"adj","Attested":["fanding","bidding"],"Unattested":[""]}
-{"Chancery":"expert","Class":"n","Attested":["dab"],"Unattested":["fieldknowers"]}
+{"Chancery":"experiment","Class":"vb","Attested":["fand","bid","seek"],"Unattested":["forseek"]}
+{"Chancery":"experiment","Class":"n","Attested":["fanding","bidding","seeking"],"Unattested":["fanding","forseeking"]}
+{"Chancery":"experimental","Class":"adj","Attested":["fanding","bidding","seeking"],"Unattested":["fandly","bidly","seekly","forseeking","forseekly"]}
+{"Chancery":"expert","Class":"n","Attested":["dab"],"Unattested":["fieldknower"]}
 {"Chancery":"expertise","Class":"n","Attested":["know-how","skill"],"Unattested":[]}
 {"Chancery":"expiate","Class":"vb","Attested":["atone"],"Unattested":[]}
 {"Chancery":"expiration date","Class":"n","Attested":["sell-by"],"Unattested":[]}
-{"Chancery":"explain","Class":"vb","Attested":["spell out","unriddle","unfold"],"Unattested":["sweetle"]}
+{"Chancery":"explain","Class":"vb","Attested":["spell out","unriddle","unfold"],"Unattested":["swuttle","outlay"]}
 {"Chancery":"explanation","Class":"n","Attested":["atelling"],"Unattested":["sweetling"]}
 {"Chancery":"explicit","Class":"n","Attested":["outfold"],"Unattested":[]}
 {"Chancery":"explode","Class":"vb","Attested":["burst","toburst","blow up"],"Unattested":[""]}
@@ -376,13 +379,13 @@
 {"Chancery":"explosive","Class":"n","Attested":[],"Unattested":["fireshot","tinderstuff","blasttinder","springstuff","firespringer","burster"]}
 {"Chancery":"exponent(iate)","Class":"n/vb","Attested":[],"Unattested":["mightsfold"]}
 {"Chancery":"export","Class":"vb","Attested":["outsend"],"Unattested":[]}
-{"Chancery":"expose","Class":"vb","Attested":["nail","show up","bare: lay out"],"Unattested":[]}
+{"Chancery":"expose","Class":"vb","Attested":["nail","show upbare: lay out"],"Unattested":[]}
 {"Chancery":"exposé","Class":"n","Attested":[],"Unattested":["shendful outlaying"]}
 {"Chancery":"exposition","Class":"n","Attested":[],"Unattested":["outstelling"]}
 {"Chancery":"expound","Class":"vb","Attested":["flesh out"],"Unattested":[]}
-{"Chancery":"express","Class":"vb","Attested":["utter","say","word","outspeak"],"Unattested":["one's feelings: thrutch out","outthrutch"]}
+{"Chancery":"express","Class":"vb","Attested":["utter","say","word","outspeak"],"Unattested":["one's feelings: thrutch out","outthrutch","put out","lay out"]}
 {"Chancery":"expression","Class":"n","Attested":[],"Unattested":["uttering","swettling; sainess","sayness"]}
-{"Chancery":"expressive","Class":"adj","Attested":["outspoken"],"Unattested":[""]}
+{"Chancery":"expressive","Class":"adj","Attested":["well spoken","thoughtful","outspoken"],"Unattested":[""]}
 {"Chancery":"expulsion","Class":"n","Attested":["outcast","driving out","throwing out","banning"],"Unattested":[]}
 {"Chancery":"extant","Class":"adj","Attested":["lasting","still-living","still being","still going","keeping on"],"Unattested":[]}
 {"Chancery":"extend","Class":"vb","Attested":["lengthen","outstretch"],"Unattested":["outbraid","braid out","awiden"]}
@@ -394,9 +397,9 @@
 {"Chancery":"exterior","Class":"n/adj","Attested":["adj: outer"," n: shell","outside"],"Unattested":[]}
 {"Chancery":"exterminate","Class":"vb","Attested":["wipe out","kill all"],"Unattested":[]}
 {"Chancery":"external","Class":"adj","Attested":["outward","outer"],"Unattested":[]}
-{"Chancery":"extinct","Class":"adj","Attested":["dead","gone","lost"],"Unattested":["outdead","outstarve"]}
+{"Chancery":"extinct","Class":"adj","Attested":["dead","gone","lost","died out"],"Unattested":["outdead","outstarved","starved out"]}
 {"Chancery":"extinction","Class":"n","Attested":["death","doom","knell","wiping out","dying out"],"Unattested":["outdying","outstarving"]}
-{"Chancery":"extinguish","Class":"vb","Attested":["douse","dout","put out","quench"],"Unattested":["acwench","adrech"]}
+{"Chancery":"extinguish","Class":"vb","Attested":["douse","dout","put out","quench"],"Unattested":["aquench","adretch"]}
 {"Chancery":"extra","Class":"adj","Attested":["spare","more","more other","more else","othermore"],"Unattested":[]}
 {"Chancery":"extra time","Class":"n","Attested":["overtime"],"Unattested":[]}
 {"Chancery":"extract","Class":"vb","Attested":["take out","draw out","pull out","pluck","unearth","harvest","worm out"],"Unattested":[]}

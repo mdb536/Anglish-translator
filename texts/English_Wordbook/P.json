@@ -4,8 +4,8 @@
 {"Chancery":"pacifist","Class":"n","Attested":["dove"],"Unattested":["frithweaver"]}
 {"Chancery":"package","Class":"n","Attested":["wrapping"],"Unattested":[]}
 {"Chancery":"paddle","Class":"n","Attested":["oar"],"Unattested":[]}
-{"Chancery":"pædophile","Class":"n","Attested":[],"Unattested":["childluster"]}
-{"Chancery":"pædophilia","Class":"n","Attested":[],"Unattested":["childlust"]}
+{"Chancery":"pædophile/pedophile","Class":"n","Attested":[],"Unattested":["childluster"]}
+{"Chancery":"pædophilia/pedophilia","Class":"n","Attested":[],"Unattested":["childlust"]}
 {"Chancery":"pagan","Class":"n","Attested":["heathen"],"Unattested":[]}
 {"Chancery":"page","Class":"n","Attested":["side","sheet","leaf"],"Unattested":["trammet","leafsideservant: theen"]}
 {"Chancery":"pacify","Class":"vb","Attested":["allay"],"Unattested":["smolten","befrith"]}
@@ -123,8 +123,8 @@
 {"Chancery":"pay","Class":"vb","Attested":["yield","buy","set back"],"Unattested":["betale"]}
 {"Chancery":"payment","Class":"n","Attested":["fee"],"Unattested":["betaling"," scot"]}
 {"Chancery":"PDA","Class":"n","Attested":["handheld"],"Unattested":["handheld reckoner"]}
-{"Chancery":"peace","Class":"n","Attested":["frith","bliss"],"Unattested":["sib"]}
-{"Chancery":"peaceful","Class":"adj","Attested":["dovish"],"Unattested":["frithsome"]}
+{"Chancery":"peace","Class":"n","Attested":["frith","bliss"],"Unattested":["sib","grith"]}
+{"Chancery":"peaceful","Class":"adj","Attested":["dovish"],"Unattested":["frithsome","grithful"]}
 {"Chancery":"peach","Class":"n","Attested":[],"Unattested":["perseapple"]}
 {"Chancery":"peal","Class":"vb","Attested":["ring","toll"],"Unattested":[]}
 {"Chancery":"peanut (OE from Latin)","Class":"n","Attested":["earthnut","groundnut"],"Unattested":[]}
@@ -228,10 +228,8 @@
 {"Chancery":"phenomenon","Class":"n","Attested":["happening"],"Unattested":[]}
 {"Chancery":"-philia","Class":"sfx","Attested":["-lust"],"Unattested":[]}
 {"Chancery":"philistine","Class":"adj","Attested":["uncouth"],"Unattested":[]}
-{"Chancery":"philological","Class":"adj","Attested":[],"Unattested":[]}
-{"Chancery":"speechwritlorish","Class":"","Attested":[],"Unattested":[]}
-{"Chancery":"philology","Class":"n","Attested":[],"Unattested":[]}
-{"Chancery":"speechwritlore","Class":"","Attested":[],"Unattested":[]}
+{"Chancery":"philological","Class":"adj","Attested":[],"Unattested":["speechwritlorish"]}
+{"Chancery":"philology","Class":"n","Attested":[],"Unattested":["speechwritlore"]}
 {"Chancery":"philosophy","Class":"n","Attested":["wisdom","world outlook"],"Unattested":["witlore","lorelief","wittinglove"]}
 {"Chancery":"phimosis","Class":"n","Attested":[],"Unattested":["throttling"]}
 {"Chancery":"phlebotomy","Class":"n","Attested":["bloodletting"],"Unattested":[]}
@@ -246,7 +244,7 @@
 {"Chancery":"phonology","Class":"n","Attested":[],"Unattested":["reardwork","reardlore","loudlore","","clanglore"]}
 {"Chancery":"phosphorescent","Class":"adj","Attested":[],"Unattested":["lightshedding"]}
 {"Chancery":"phosphorus","Class":"n","Attested":[],"Unattested":["lightstuff"]}
-{"Chancery":"photograph","Class":"n","Attested":["shot","lightshot"],"Unattested":["lightbilth","lightwrit","lightdrawing"]}
+{"Chancery":"photograph","Class":"n","Attested":["shot","lightshot","frame"],"Unattested":["lightbilth","lightwrit","lightdrawing"]}
 {"Chancery":"photography","Class":"n","Attested":["lightshooting"],"Unattested":["lightbilthwrit","lightwritcraft","lightdrawingcraft"]}
 {"Chancery":"photon","Class":"n","Attested":[],"Unattested":["lightmote","lightbit","lightgang"]}
 {"Chancery":"phrasal","Class":"adj","Attested":["","bound","having many words but being one"],"Unattested":["wordstringly","quide"]}
@@ -257,7 +255,7 @@
 {"Chancery":"physician","Class":"n","Attested":["leech"],"Unattested":[]}
 {"Chancery":"piano(forte)","Class":"n","Attested":[],"Unattested":["beatharp","beat-harp","","keyharp"]}
 {"Chancery":"pickaxe","Class":"n","Attested":["pike"],"Unattested":[]}
-{"Chancery":"picture","Class":"n","Attested":["likeness","drawing"],"Unattested":["bilth","","lightdrawing"]}
+{"Chancery":"picture","Class":"n","Attested":["likeness","drawing","frame"],"Unattested":["bilth","","lightdrawing"]}
 {"Chancery":"picturesque","Class":"adj","Attested":["fair"],"Unattested":["wlitty","elfsheen"]}
 {"Chancery":"pie","Class":"n","Attested":[],"Unattested":["rindcake"]}
 {"Chancery":"piece","Class":"n","Attested":["bit","snead","shtick","piece of art","music work"],"Unattested":["of silver: silverling pl:silverlingen ","steck"]}
@@ -423,10 +421,11 @@
 {"Chancery":"pour","Class":"vb","Attested":["teem","skink","shink","sie","yote"],"Unattested":["yeat","birle drink"]}
 {"Chancery":"poverty","Class":"n","Attested":["need","want","dearth","drought"],"Unattested":["armth","armhood"]}
 {"Chancery":"powder","Class":"n/vb","Attested":["dust","beat","crush","grind"],"Unattested":[""]}
-{"Chancery":"power","Class":"n","Attested":["grip","sway","strength","brawn","might"],"Unattested":["thrith","wield","wold/wald","special: sundercraft","supreme: douthmight"]}
+{"Chancery":"power","Class":"n","Attested":["grip","sway","strength","brawn","might","mains"],"Unattested":["thrith","wield","wold/wald","special: sundercraft","supreme: douthmight"]}
 {"Chancery":"power","Class":"vb","Attested":["drive","feed"],"Unattested":[]}
-{"Chancery":"power line","Class":"n","Attested":[],"Unattested":["spark rope"]}
+{"Chancery":"power line","Class":"n","Attested":["mains line"],"Unattested":["spark rope"]}
 {"Chancery":"powerful","Class":"adj","Attested":["heavy","mighty","strong"],"Unattested":["thrythswythe "]}
+{"Chancery":"power supply","Class":"n","Attested":["mains brick"],"Unattested":[]}
 {"Chancery":"practical","Class":"adj","Attested":["working","earthy","down-to-earth"],"Unattested":[]}
 {"Chancery":"practically","Class":"adv","Attested":["about","all-but","fair","fairly","more or less","nearly","well-nigh"],"Unattested":[]}
 {"Chancery":"practice","Class":"vb/n","Attested":[],"Unattested":["n: oving","vb: ove"]}
@@ -509,6 +508,7 @@
 {"Chancery":"presumably","Class":"adv","Attested":["likely","seemingly"],"Unattested":[""]}
 {"Chancery":"presumptuous","Class":"adj","Attested":["uppity","overweening","daring"],"Unattested":[]}
 {"Chancery":"presuppose","Class":"vb","Attested":[],"Unattested":["forettle","forise"]}
+{"Chancery":"pretend","Class":"vb","Attested":["do as if","play as if","sham","put on"],"Unattested":["bebraid","braid","","hue","","let","","fordo","formake"]}
 {"Chancery":"pretender","Class":"n","Attested":["would-be"],"Unattested":[]}
 {"Chancery":"pretense","Class":"n","Attested":["put-on","show"," high horse"],"Unattested":[]}
 {"Chancery":"pretentious","Class":"adj","Attested":["showy","hoity-toity","over the top","kitsch"],"Unattested":[]}
@@ -587,7 +587,7 @@
 {"Chancery":"prolific","Class":"adj","Attested":["fat","lush","rich"],"Unattested":["birthy","broodful","birthful"]}
 {"Chancery":"prologue","Class":"n","Attested":["foretale"],"Unattested":[]}
 {"Chancery":"promise","Class":"n","Attested":["behight","oath","troth","foreword"],"Unattested":[]}
-{"Chancery":"promise","Class":"vb","Attested":["behight","swear","forebode"],"Unattested":["forspeak"]}
+{"Chancery":"promise","Class":"vb","Attested":["behight","swear","forebode"],"Unattested":["forspeak","forhight"]}
 {"Chancery":"promontary","Class":"n","Attested":["headland","foreland","ness","hoe"],"Unattested":[]}
 {"Chancery":"promote","Class":"vb","Attested":["uprear","further","boost"],"Unattested":[]}
 {"Chancery":"prone","Class":"adj","Attested":["given","open","helpless"],"Unattested":["alout","v. forthlout","","","onfally",""]}
@@ -602,8 +602,8 @@
 {"Chancery":"prophesy","Class":"vb","Attested":["foretell","foresee","soothsay"],"Unattested":[]}
 {"Chancery":"prophesy","Class":"n","Attested":["foresight","boding","foretelling","soothsaying"],"Unattested":[]}
 {"Chancery":"prophet","Class":"n","Attested":["seer","soothsayer","foresayer"],"Unattested":[]}
-{"Chancery":"proposal","Class":"n","Attested":["forthput"],"Unattested":[]}
-{"Chancery":"propose","Class":"vb","Attested":["put forth","forthsay"],"Unattested":[]}
+{"Chancery":"proposal","Class":"n","Attested":[],"Unattested":["forthput","forthputting"]}
+{"Chancery":"propose","Class":"vb","Attested":["put forth","say"],"Unattested":["forthput","forthsay"]}
 {"Chancery":"propriëtor","Class":"n","Attested":["householder","owner","landlord","lady"],"Unattested":[]}
 {"Chancery":"propulsion","Class":"n","Attested":["thrust"],"Unattested":[]}
 {"Chancery":"proscribe","Class":"vb","Attested":["forbid"],"Unattested":[]}

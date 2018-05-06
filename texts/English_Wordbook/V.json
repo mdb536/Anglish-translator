@@ -25,7 +25,7 @@
 {"Chancery":"vampire","Class":"n","Attested":["bloodsucker","shark","wolf"],"Unattested":["dreigh","bloodfiend","bloodnicker"]}
 {"Chancery":"vanguard","Class":"n","Attested":[],"Unattested":["andward"]}
 {"Chancery":"vanir","Class":"n","Attested":[],"Unattested":["wanes"]}
-{"Chancery":"vanish","Class":"vb","Attested":["fade","wither","melt","sink"],"Unattested":["fordwine","quink"]}
+{"Chancery":"vanish","Class":"vb","Attested":["fade","wither","melt","sink"],"Unattested":["fordwine","quink","swinden","swind"]}
 {"Chancery":"vanity","Class":"n","Attested":["pride","idleness"],"Unattested":["idle","renk"]}
 {"Chancery":"vanquish","Class":"vb","Attested":[],"Unattested":["besye"]}
 {"Chancery":"vapour","Class":"n","Attested":[],"Unattested":["athom","damp","","breath","watersmoke"]}
@@ -118,7 +118,7 @@
 {"Chancery":"villain","Class":"n","Attested":["black hat"],"Unattested":["nithing"]}
 {"Chancery":"vine","Class":"n","Attested":[],"Unattested":["droovebeam"]}
 {"Chancery":"viola","Class":"n","Attested":[],"Unattested":["midfiddle"]}
-{"Chancery":"violate","Class":"vb","Attested":["breach"],"Unattested":["overnim","sorthe"]}
+{"Chancery":"violate","Class":"vb","Attested":["breach"],"Unattested":["overnim","sorthe","forbreak"]}
 {"Chancery":"violence","Class":"n","Attested":["foul play","bloodshed","recklessness"],"Unattested":["threat","hest","hattleness","nid","strack","strength","swithness","unreck"]}
 {"Chancery":"violent","Class":"adj","Attested":["stormy","dreadful; mad; reckless; wrathful"],"Unattested":["hest","hattle","riff","tharl grimful"]}
 {"Chancery":"violet","Class":"adj","Attested":[],"Unattested":["tever","bawse"]}

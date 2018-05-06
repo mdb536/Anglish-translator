@@ -21,8 +21,8 @@
 {"Chancery":"igloo","Class":"n","Attested":[],"Unattested":["icehouse"]}
 {"Chancery":"ignis fatuus","Class":"n","Attested":["will-o-the-wisp"],"Unattested":["wander light"]}
 {"Chancery":"ignite","Class":"vb","Attested":["fire","tend","set alight"],"Unattested":["latch fire"]}
-{"Chancery":"ignorance","Class":"n","Attested":["benightedness","shunning","heedlessness","thoughtlessness","carelessness"],"Unattested":["shunhood","nitenness"]}
-{"Chancery":"ignorant","Class":"adj","Attested":["benighted","unaware","unlearned","unread","untaught"],"Unattested":[]}
+{"Chancery":"ignorance","Class":"n","Attested":["benightedness","shunning","heedlessness","thoughtlessness","carelessness"],"Unattested":["shunhood","nitenness"," unwit"]}
+{"Chancery":"ignorant","Class":"adj","Attested":["benighted","unaware","unlearned","unread","untaught"],"Unattested":["unwitty"]}
 {"Chancery":"ignore","Class":"vb","Attested":["unheed","forget","overlook","slight","slur over"],"Unattested":[]}
 {"Chancery":"iguana","Class":"n","Attested":[],"Unattested":["combask"]}
 {"Chancery":"ilium","Class":"n","Attested":[],"Unattested":["flankbone"]}
@@ -33,7 +33,7 @@
 {"Chancery":"illuminate","Class":"vb/n","Attested":["brighten","shed light on","bathe","beacon","inlighten; unriddle; foreground","highlight"],"Unattested":["belighten","onlight","forlighten"]}
 {"Chancery":"illusion","Class":"n","Attested":["daydream","misbelief","old wives' tale"],"Unattested":["dwild","dwimmer","brainshade"]}
 {"Chancery":"illustrious","Class":"n","Attested":[],"Unattested":["thrymfast","thrimfast"]}
-{"Chancery":"image","Class":"n","Attested":["look alike","ringer","twin: likeness","mind's eye"],"Unattested":["bilth","seen"]}
+{"Chancery":"image","Class":"n","Attested":["look alike","ringer","twin: likeness","mind's eye","frame"],"Unattested":["bilth","seen"]}
 {"Chancery":"imagination","Class":"n","Attested":["mind's eye","fathoming"],"Unattested":["moodseave","fathomhood","inbilthing"]}
 {"Chancery":"imaginative","Class":"adj","Attested":["thoughtful"],"Unattested":["weenful","infinding"]}
 {"Chancery":"imagine","Class":"vb","Attested":["fathom","see"],"Unattested":["reckon","ween"]}
@@ -53,6 +53,7 @@
 {"Chancery":"impact","Class":"n","Attested":["crash","strike","wallop: mark","sway. hit"],"Unattested":["thrack"]}
 {"Chancery":"impair","Class":"vb","Attested":["break","cripple","harm"],"Unattested":[]}
 {"Chancery":"impale","Class":"vb","Attested":["jab"],"Unattested":[]}
+{"Chancery":"impart","Class":"vb","Attested":["bequeath","bestow","give","share","make known","show","tell"],"Unattested":["formiddle","forlend","","inshare"]}
 {"Chancery":"impartial","Class":"adj","Attested":["evenhanded","fairminded"],"Unattested":["unswayed"]}
 {"Chancery":"impasse","Class":"n","Attested":["deadlock","halt","standstill"],"Unattested":[]}
 {"Chancery":"impassive","Class":"adj","Attested":["cold-blooded","deadpan","empty","numb"],"Unattested":[]}
@@ -108,7 +109,7 @@
 {"Chancery":"inclination","Class":"n","Attested":["leaning","tilt","bowing","desire: wish","need","craving","yearning"],"Unattested":[]}
 {"Chancery":"incline","Class":"vb","Attested":["sway","lower","bow","stoop","tip","lean"],"Unattested":[]}
 {"Chancery":"inclined","Class":"adj","Attested":["given","likely","willing","ready"],"Unattested":["swayed towards"]}
-{"Chancery":"include","Class":"vb","Attested":["inhold"],"Unattested":[""]}
+{"Chancery":"include","Class":"vb","Attested":["inhold"],"Unattested":["yin"]}
 {"Chancery":"incompassionate","Class":"adj","Attested":["ruthless","heartless","cold","hard-hearted","cold-hearted"],"Unattested":[]}
 {"Chancery":"incomplete","Class":"n","Attested":["underdone","less than whole","unwhole","underwhole","unfullworked"],"Unattested":[]}
 {"Chancery":"inconsiderate","Class":"adj","Attested":["thoughtless","uncaring","unthinking","careless","ruthless","reckless"],"Unattested":[]}

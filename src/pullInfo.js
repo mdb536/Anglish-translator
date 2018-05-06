@@ -6,7 +6,7 @@ var cheerioParser = require('cheerio-tableparser');
 
 //https://www.gitbook.com/book/kevinchisholm/basic-web-scraping-with-node-js-and-cheerio-js/details
 
-const dir = "texts/English_Wordbook/";
+const dir = "text/";
 const aDir = "texts/Anglish_Wordbook/"; 
 
 const engTemplate = {
@@ -38,11 +38,14 @@ function retrieveEngHTML(url, fileName, dir){
 			let arr = $("table").parsetable(true, true, true);
 
 			const data = arrToObj(arr, 2, engTemplate);
-
-			let str = ""
+			let bigObj = {};
 			for(let i = 0; i < data.length; i++){
-				str += JSON.stringify(data[i]) + "\n";
+				let currObj = data[i];
+				let name = currObj["Chancery"];
+				bigObj[name] = data[i];
 			}
+			const str = JSON.stringify(bigObj);
+
 			fs.writeFile((dir+fileName+".json"), str, (err) => { 
 				if (err) throw err;
 			});
@@ -72,7 +75,9 @@ function retrieveAngHTML(url, fileName, dir){
 				let subTable = $("table").parsetable(true, true, true);
 				subTable = subTable.concat.apply([], subTable);
 				if(subTable.length >= 3){
-					tArr.push(elemToObj(subTable, angTemplate));
+					const baseTemp = elemToObj(subTable, angTemplate);
+					const newObj = {anglish: baseTemp["Anglish"], definition: baseTemp["Meaning"], origin: baseTemp["Origin"], english: [], upvotes: 0, downvotes: 0, comments: [], slug:baseTemp["Anglish"]};
+					tArr.push(newObj);
 				}
 			});
 
@@ -213,10 +218,10 @@ for(let i = 65; i <= 90; i++){
 }
 
 
-let alphArr = ["A", "B", "C", "D", "E", "F", "G", "H", 'IJ', "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "UV", "W", "XYZ"];
-for(let j = 0; j < alphArr.length; j++){
-	const nUrl = 'http://anglish.wikia.com/wiki/Anglish_wordbook/' + alphArr[j];
-	retrieveAngHTML(nUrl, alphArr[j], aDir);
-}
+// let alphArr = ["A", "B", "C", "D", "E", "F", "G", "H", 'IJ', "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "UV", "W", "XYZ"];
+// for(let j = 0; j < alphArr.length; j++){
+// 	const nUrl = 'http://anglish.wikia.com/wiki/Anglish_wordbook/' + alphArr[j];
+// 	retrieveAngHTML(nUrl, alphArr[j], aDir);
+// }
 
 

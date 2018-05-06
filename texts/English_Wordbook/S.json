@@ -226,7 +226,7 @@
 {"Chancery":"sound","Class":"n","Attested":["reard","cling","ring","loudness"],"Unattested":["din","sough","yar","yer","loude","lidden"]}
 {"Chancery":"sound","Class":"v","Attested":["ring","clink","cling","sound like:to be heard like..."],"Unattested":["to sound like: onhear","hear on"]}
 {"Chancery":"soup (from a Germanic root, through F and L) (Proto-Germanic *sup)","Class":"n","Attested":["broth","gruel"],"Unattested":[]}
-{"Chancery":"source","Class":"n","Attested":["birthplace","root","begetter","dawn","onset","start"],"Unattested":[]}
+{"Chancery":"source","Class":"n","Attested":["birthplace","root","begetter","dawn","onset","start","spring","wellspring"],"Unattested":["ordfrom"]}
 {"Chancery":"sovereign","Class":"adj","Attested":[],"Unattested":["selfstanding"]}
 {"Chancery":"space","Class":"n","Attested":[],"Unattested":["room","astrology: roomth"]}
 {"Chancery":"spacious","Class":"adj","Attested":["roomy"],"Unattested":["roomy"]}
@@ -237,11 +237,12 @@
 {"Chancery":"specific","Class":"adj","Attested":[],"Unattested":["bestevened"]}
 {"Chancery":"specifically","Class":"adv","Attested":["just"],"Unattested":[""]}
 {"Chancery":"sphenoid bone","Class":"n","Attested":[],"Unattested":["wedgebone"]}
-{"Chancery":"sphere","Class":"n","Attested":[],"Unattested":["ball","kuggle*","*Kugel is of either semitic or germanic origin"]}
+{"Chancery":"sphere","Class":"n","Attested":["ball"],"Unattested":["kuggle*"]}
 {"Chancery":"sphincter","Class":"n","Attested":[],"Unattested":["closethew","closemoussock"]}
 {"Chancery":"sphinx","Class":"n","Attested":[],"Unattested":["wilibilth"]}
 {"Chancery":"spice","Class":"n","Attested":[],"Unattested":["croud"]}
 {"Chancery":"spine","Class":"n","Attested":["backbone"],"Unattested":["backridge"]}
+{"Chancery":"spirit","Class":"n","Attested":["gast","gost","ghost","breath","soul","mind"],"Unattested":[]}
 {"Chancery":"sponge","Class":"n","Attested":[],"Unattested":["swamb"]}
 {"Chancery":"sport","Class":"n","Attested":["lake"],"Unattested":[]}
 {"Chancery":"spy","Class":"n/vb","Attested":["sleuth: very late borrowing into Old English","from The Orrmulum."],"Unattested":["speer","loosesheerwere"]}
@@ -254,20 +255,20 @@
 {"Chancery":"standard","Class":"adj","Attested":["stock","mean"],"Unattested":[]}
 {"Chancery":"stapes","Class":"n","Attested":["stirrup"],"Unattested":["earstirrup","stirrupbone"]}
 {"Chancery":"state","Class":"vb","Attested":["utter"],"Unattested":[]}
-{"Chancery":"state","Class":"n","Attested":["condition:shape","lay?","polity: moot"],"Unattested":[]}
+{"Chancery":"state","Class":"n","Attested":["condition: shape","lay","polity: moot"],"Unattested":[]}
 {"Chancery":"statue","Class":"n","Attested":[],"Unattested":["standbilth"]}
 {"Chancery":"status","Class":"n","Attested":["rank"],"Unattested":[]}
 {"Chancery":"statute","Class":"n","Attested":[],"Unattested":["setness"]}
-{"Chancery":"stay","Class":"vb","Attested":["belive"],"Unattested":[]}
+{"Chancery":"stay","Class":"vb","Attested":["belive","blive","keep"],"Unattested":[]}
 {"Chancery":"stellar","Class":"adj","Attested":["starly"],"Unattested":[]}
 {"Chancery":"sternum","Class":"n","Attested":["breastbone"],"Unattested":[]}
 {"Chancery":"stingray","Class":"n","Attested":[],"Unattested":[]}
 {"Chancery":"stomach","Class":"n","Attested":["maw"],"Unattested":[]}
 {"Chancery":"store","Class":"vb","Attested":["keep","hoard"],"Unattested":[]}
-{"Chancery":"story","Class":"n","Attested":["tale","yarn"],"Unattested":["ortelling"]}
+{"Chancery":"story","Class":"n","Attested":["tale","yarn"],"Unattested":["telling","atelling","ortelling"]}
 {"Chancery":"strange","Class":"adj","Attested":["outlandish","weird","unwonted","unknown","wild","odd","freakish","eerie"],"Unattested":["fremd"]}
 {"Chancery":"strategy","Class":"n","Attested":["plot"],"Unattested":["wyecraft"]}
-{"Chancery":"stray","Class":"vb","Attested":[],"Unattested":["dwale"]}
+{"Chancery":"stray","Class":"vb","Attested":["wander"],"Unattested":["dwale"]}
 {"Chancery":"street","Class":"n","Attested":["road","roadway"],"Unattested":["wainway","wagonway","and the faring path)"]}
 {"Chancery":"stress","Class":"n","Attested":["burden","weight","load"],"Unattested":["thrutch","belasting"]}
 {"Chancery":"strict","Class":"adj","Attested":["hash","hard","stern","forbidding"],"Unattested":[]}
@@ -289,15 +290,18 @@
 {"Chancery":"succeed","Class":"vb","Attested":["go after"],"Unattested":["spow"]}
 {"Chancery":"success","Class":"n","Attested":[],"Unattested":["spowing","afollowing"]}
 {"Chancery":"successful","Class":"adj","Attested":[],"Unattested":["spowful","afollowfull"]}
-{"Chancery":"succumb","Class":"vb","Attested":[],"Unattested":["alie <alying","alay;alain","undernick"]}
+{"Chancery":"succumb","Class":"vb","Attested":["fall to"],"Unattested":["alie","","undernick"]}
 {"Chancery":"sudden","Class":"adj","Attested":["swift","rushing","rash"],"Unattested":[]}
 {"Chancery":"suddenly","Class":"adv","Attested":["swiftly","rushingly","rashly","forthwith","straightaway"],"Unattested":[]}
-{"Chancery":"suffer","Class":"vb","Attested":[],"Unattested":["thole","undergo"]}
-{"Chancery":"suffering","Class":"n","Attested":["harm","ache","sorrow","woe","smarts"],"Unattested":[]}
-{"Chancery":"suffix","Class":"n","Attested":[],"Unattested":["word tail","endfastening"]}
+{"Chancery":"suffer","Class":"vb","Attested":[],"Unattested":["thole","undergo","","dree"]}
+{"Chancery":"suffering","Class":"n","Attested":["harm","ache","sorrow","woe","smarts"],"Unattested":["tholing","dreeing"]}
+{"Chancery":"suffice","Class":"vb","Attested":["do","be enough","reach","work","meet"],"Unattested":["outreach"]}
+{"Chancery":"sufficiency","Class":"n","Attested":["enoughness","fulth","fittingness"],"Unattested":[]}
+{"Chancery":"sufficient","Class":"adj","Attested":["enough","done","right","even","fair","fit","befitting","becoming"],"Unattested":["filling","outreaching"]}
+{"Chancery":"suffix","Class":"n","Attested":[],"Unattested":["word tail","endfastening","afterword"]}
 {"Chancery":"sugar","Class":"n","Attested":[],"Unattested":["sweethurst","molecule: sweetmote"]}
 {"Chancery":"sugar cane","Class":"n","Attested":[],"Unattested":["sweetreed"]}
-{"Chancery":"suggest","Class":"vb","Attested":["imply: hint","infoldoffer: bid"],"Unattested":["imply: ettle","bysay"]}
+{"Chancery":"suggest","Class":"vb","Attested":["imply: hint","infoldoffer: bid","put forth"],"Unattested":["imply: ettle","bysayoffer: forthput","rede"]}
 {"Chancery":"sulfur","Class":"n","Attested":["brimstone"],"Unattested":[]}
 {"Chancery":"sum (up)","Class":"vb","Attested":["cast up","tally up"],"Unattested":[]}
 {"Chancery":"sunflower","Class":"n","Attested":[],"Unattested":["sunbloom","sunblossom"]}
@@ -317,17 +321,17 @@
 {"Chancery":"supplement","Class":"n","Attested":[],"Unattested":["togive"]}
 {"Chancery":"supply","Class":"n","Attested":["yield","stock","spring"],"Unattested":[]}
 {"Chancery":"supply","Class":"vb","Attested":["yield","feed","fill","afford"],"Unattested":[]}
-{"Chancery":"support","Class":"vb","Attested":["back up","forward","foster","upbring","uphold","underprop","upstart","underset"],"Unattested":["bestaddle","understut","","","stut"]}
+{"Chancery":"support","Class":"vb","Attested":["back up","forward","foster","upbring","uphold","underprop","upstart","underset"],"Unattested":["bestaddle","understut","stut"]}
 {"Chancery":"support","Class":"n","Attested":["back up"],"Unattested":["fultum"]}
 {"Chancery":"suppose","Class":"vb","Attested":["ween","believe","guess","think","reckon"],"Unattested":["forethink"]}
 {"Chancery":"sure","Class":"adj","Attested":["wis"],"Unattested":[]}
 {"Chancery":"surface","Class":"n","Attested":["overlay","layer"],"Unattested":[]}
 {"Chancery":"surgeon","Class":"n","Attested":["sawbones"],"Unattested":[]}
 {"Chancery":"surname","Class":"n","Attested":["last name"],"Unattested":[]}
-{"Chancery":"surprise","Class":"vb","Attested":["stun","astound","overcome"],"Unattested":["overrrush"]}
+{"Chancery":"surprise","Class":"vb","Attested":["stun","astound","overcome"],"Unattested":["overrush"]}
 {"Chancery":"surrender","Class":"vb","Attested":["yield","hand over","give up"],"Unattested":["overgive"]}
-{"Chancery":"surround","Class":"vb","Attested":[],"Unattested":["umgive"]}
-{"Chancery":"survive","Class":"vb","Attested":["outlive"],"Unattested":["overlive"]}
+{"Chancery":"surround","Class":"vb","Attested":["hem in","enring","inring"],"Unattested":["umbgive","umbring"]}
+{"Chancery":"survive","Class":"vb","Attested":["outlive","live on"],"Unattested":["overlive"]}
 {"Chancery":"susceptibility","Class":"n","Attested":["openness","givenness","helplessness"],"Unattested":[]}
 {"Chancery":"susceptible","Class":"adj","Attested":["given","open","helpless"],"Unattested":["alout","v. forthlout","","onfally"]}
 {"Chancery":"suspect","Class":"vb","Attested":["mistrust","underlook"],"Unattested":["forthink"]}
@@ -340,3 +344,4 @@
 {"Chancery":"syllable","Class":"n","Attested":[],"Unattested":["staveset"]}
 {"Chancery":"synesthesia","Class":"n","Attested":[],"Unattested":["linked feeling"]}
 {"Chancery":"synonym","Class":"n","Attested":["likeword","selfsame"],"Unattested":["otherword"]}
+{"Chancery":"system","Class":"n","Attested":["layout","makeup"],"Unattested":["stellel","outlay","upmake"]}

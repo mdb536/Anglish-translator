@@ -14,7 +14,7 @@
 {"Chancery":"faculty","Class":"n","Attested":[],"Unattested":["lorehalldeal"]}
 {"Chancery":"fad","Class":"n","Attested":["hit","brainstorm"],"Unattested":[]}
 {"Chancery":"fade","Class":"vb","Attested":["dwindle","wane"],"Unattested":["sear"]}
-{"Chancery":"fæces","Class":"n","Attested":["shit","shite","stool","dirt","dung"],"Unattested":[]}
+{"Chancery":"feces","Class":"n","Attested":["shit","shite","stool","dirt","dung"],"Unattested":[]}
 {"Chancery":"faggot","Class":"n","Attested":[],"Unattested":["stickbind","stickfasten","stickbundle"]}
 {"Chancery":"faience","Class":"n","Attested":[],"Unattested":["tin-glazed earthenware"]}
 {"Chancery":"fail","Class":"vb","Attested":["fizzle","flop","flunk"],"Unattested":["trock","swether"]}
@@ -175,6 +175,7 @@
 {"Chancery":"flower","Class":"n","Attested":["bloom","blossom"],"Unattested":["bloostem"]}
 {"Chancery":"fluctuate","Class":"n","Attested":["swing"],"Unattested":[]}
 {"Chancery":"fluent","Class":"adj","Attested":["flowing","smoothspoken"],"Unattested":[]}
+{"Chancery":"fluid","Class":"adj","Attested":["runny","flowing"],"Unattested":[]}
 {"Chancery":"fluorescent","Class":"adj","Attested":["leaming"],"Unattested":["flowglowing"]}
 {"Chancery":"fluorine","Class":"n","Attested":[],"Unattested":["flowstuff"]}
 {"Chancery":"flux","Class":"n","Attested":["flowing"],"Unattested":["outierning","pl: outiernyga"]}
@@ -239,9 +240,6 @@
 {"Chancery":"frequent","Class":"vb/adj","Attested":["hang at","adj: everyday","household"],"Unattested":["simble"]}
 {"Chancery":"frequently","Class":"adv","Attested":["often","over and over"],"Unattested":[]}
 {"Chancery":"fresco","Class":"n","Attested":[],"Unattested":["chalkmealing"]}
-{"Chancery":"fresh","Class":"adj","Attested":["frim","new"],"Unattested":[]}
-{"Chancery":"freshwater","Class":"adj","Attested":[],"Unattested":["sweetwater"]}
-{"Chancery":"fresh water","Class":"n","Attested":[],"Unattested":["sweetwater"]}
 {"Chancery":"fricative","Class":"adj","Attested":["rubclank"],"Unattested":[]}
 {"Chancery":"friction","Class":"n","Attested":["rubbing"],"Unattested":[]}
 {"Chancery":"fringe","Class":"n","Attested":["edge","outskirt"],"Unattested":[]}

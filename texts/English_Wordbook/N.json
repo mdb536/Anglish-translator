@@ -119,4 +119,5 @@
 {"Chancery":"nurse","Class":"n","Attested":["carer","caregiver"],"Unattested":["berg-maid","ward sister","child-foster","sicksister"]}
 {"Chancery":"nursery","Class":"n","Attested":[],"Unattested":["kindergrove","childeryard"]}
 {"Chancery":"nurture","Class":"vb","Attested":["breed","rear","foster","bring up"],"Unattested":[]}
+{"Chancery":"nutritional value","Class":"n","Attested":["wholesome worth","healthful worth"],"Unattested":[]}
 {"Chancery":"nutritious","Class":"adj","Attested":["feeding","healthful","wholesome"],"Unattested":[]}

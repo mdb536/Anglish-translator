@@ -1,5 +1,3 @@
-{"Chancery":"babble","Class":"n","Attested":["clatter","drivel"],"Unattested":[]}
-{"Chancery":"baby","Class":"n","Attested":["bairn","newborn","suckling","chit"],"Unattested":[]}
 {"Chancery":"bacchanal","Class":"n","Attested":[],"Unattested":["beership"]}
 {"Chancery":"bacil","Class":"n","Attested":[],"Unattested":["rodling","rodmoss"]}
 {"Chancery":"bachelor","Class":"n","Attested":["stag"],"Unattested":[]}
@@ -92,10 +90,10 @@
 {"Chancery":"beau","Class":"n","Attested":["swain","ladfriend","fop"],"Unattested":[]}
 {"Chancery":"beautiful","Class":"adj","Attested":["sheen","comely","faire","good-looking","handsome","sightly","nifty","sterling"],"Unattested":["wlitty","Sheen","moy","\n"]}
 {"Chancery":"beauty","Class":"n","Attested":["sheen","comeliness","fairness","handsomeness","looks","loveliness","prettiness","sightliness","eyeful","knockout; bee's knees","standout"],"Unattested":["wlittiness","sheenhood","fayer","fairhood\nSchonhood"]}
-{"Chancery":"because","Class":"conj","Attested":["as","as long as","being as","being that","for","inasmuch as","now","seeing","whereas","by way","since","therefore","","in that","given that    ","because of owing to","by dint of","by sake ofFor-that","For-the","For-why","For-than"],"Unattested":["forwhy because"," forof because of","afteras","on grounds of","that","\nbeway"]}
+{"Chancery":"because","Class":"conj","Attested":["as","as long as","being as","being that","for","inasmuch as","now","seeing","whereas","by way","since","therefore","","in that","given that    ","because of owing to","by dint of","by sake ofFor-that","For-the","For-why","For-than"],"Unattested":["forwhy because"," forof because of","afteras","on grounds of","that","\nbeway"," \nfor that","","note that no hyphen is used \nforthy that"]}
 {"Chancery":"bedaub","Class":"vb","Attested":["besmear"],"Unattested":[]}
 {"Chancery":"beef","Class":"n","Attested":["cowflesh"],"Unattested":["rotherflesh"]}
-{"Chancery":"behavior","Class":"n","Attested":["bearing","ways"],"Unattested":["uptreading"]}
+{"Chancery":"behavior/behaviour","Class":"n","Attested":["bearing","ways"],"Unattested":["uptreading"]}
 {"Chancery":"beige","Class":"n","Attested":["dun","dusty","","sandy"],"Unattested":["yellowgray","yellowbrown"]}
 {"Chancery":"Belarus","Class":"n","Attested":[],"Unattested":["Whiterus","","","White Rusynland","White Ruthenland"]}
 {"Chancery":"belfry","Class":"n","Attested":[],"Unattested":["bergfrith"]}
@@ -163,7 +161,6 @@
 {"Chancery":"blond (Germanic)","Class":"adj","Attested":["fair","flaxen","golden-brown","light","snowy"],"Unattested":[]}
 {"Chancery":"blouse","Class":"n","Attested":["keel"],"Unattested":[]}
 {"Chancery":"bludgeon","Class":"vb","Attested":["club","cudgel"],"Unattested":[]}
-{"Chancery":"blue","Class":"n/adj","Attested":[],"Unattested":["hew","","light: bleahew","","beautifully: wellhequen","\nn: blee"]}
 {"Chancery":"blue titmouse","Class":"n","Attested":[],"Unattested":["hikemouse"]}
 {"Chancery":"bodyguard","Class":"n","Attested":[],"Unattested":["holdand"]}
 {"Chancery":"boffin","Class":"n","Attested":[],"Unattested":["witshipper"]}

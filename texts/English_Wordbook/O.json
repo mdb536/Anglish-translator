@@ -116,7 +116,7 @@
 {"Chancery":"organize","Class":"vb","Attested":["tidy","neaten","make up"],"Unattested":["stight","shiplay"]}
 {"Chancery":"oriental","Class":"adj","Attested":["eastern"],"Unattested":[]}
 {"Chancery":"orifice","Class":"n","Attested":["hole","mouth","opening"],"Unattested":[]}
-{"Chancery":"origin","Class":"n","Attested":["root","wellspring","beginning","birth","stem"],"Unattested":["ord","point: orspringupspring","andstanding","cause: frume"]}
+{"Chancery":"origin","Class":"n","Attested":["root","wellspring","beginning","birth","stem","upspring"],"Unattested":["point: ord","orspring","onstanding","cause: frume"]}
 {"Chancery":"original","Class":"adj","Attested":["first","new","fresh"],"Unattested":["ordly","orspringly","","firstmost"]}
 {"Chancery":"original","Class":"n","Attested":["firstling"],"Unattested":[]}
 {"Chancery":"originally","Class":"adv","Attested":["at first"],"Unattested":["orspringly"]}
@@ -125,6 +125,7 @@
 {"Chancery":"ornament","Class":"vb","Attested":["bedeck","deck","trim"],"Unattested":[]}
 {"Chancery":"ornamentation","Class":"n","Attested":["setoff","trim"],"Unattested":[]}
 {"Chancery":"ornithology","Class":"n","Attested":[],"Unattested":["birdlore"]}
+{"Chancery":"orphan","Class":"n","Attested":[],"Unattested":["sunderling","lonechild","lonegrower"]}
 {"Chancery":"orthodox","Class":"adj","Attested":["mainstream","by-the-book"],"Unattested":["liefful","bookly"]}
 {"Chancery":"osprey","Class":"n","Attested":["seahawk"],"Unattested":[]}
 {"Chancery":"ossicle","Class":"n","Attested":[],"Unattested":["earbone"]}

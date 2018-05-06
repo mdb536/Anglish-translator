@@ -23,5 +23,11 @@
     "cheerio": "^1.0.0-rc.2",
     "cheerio-tableparser": "^1.0.1",
     "request": "^2.85.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.0.17"
   }
 }

@@ -1,11 +1,11 @@
 {"Chancery":"wager","Class":"n/vb","Attested":["lay","bet","stake","pledge","flutter","put on","long shot"],"Unattested":[]}
 {"Chancery":"wallpaper","Class":"n","Attested":[],"Unattested":["wallleaf","wallbilth","waughleaf","waughbilth."]}
-{"Chancery":"walrus","Class":"n","Attested":[],"Unattested":["horsewhale","tuskseal"]}
+{"Chancery":"walrus","Class":"n","Attested":["sea horse"],"Unattested":["horsewhale","tuskseal"]}
 {"Chancery":"wapiti","Class":"n","Attested":["","elk"],"Unattested":[]}
-{"Chancery":"war ( this word is <late Old English <Old North French < Frankish *werra <PG)","Class":"n","Attested":["fight"],"Unattested":["wye","gouth","","crig","orlay"]}
+{"Chancery":"war (<late Old English <Old North French <Frankish *werra <PG)","Class":"n","Attested":["fight"],"Unattested":["wye","gouth","","crig","","orlay"]}
 {"Chancery":"War Minister","Class":"n","Attested":[],"Unattested":["wyeambighter","crigambighter"]}
-{"Chancery":"warrior","Class":"n","Attested":["fighter"],"Unattested":["wyeman","wyer","seg","harrier","","fyrdman","gouthledge","","hildthrim","","wyebern","youth: dreng","\n crigger","crigsman"]}
-{"Chancery":"waste","Class":"vb","Attested":["blow","fiddle away","lose","smash","wreck"],"Unattested":["reave","fornim"]}
+{"Chancery":"warrior","Class":"n","Attested":["fighter"],"Unattested":["wyeman","wyerseg","harrier","","fyrdman","gouthledge","","hildthrim","","wyebern","youth: dreng","crigger","crigsman"]}
+{"Chancery":"waste (<Old North French <Frankish *wosti <PG)","Class":"vb","Attested":["blow","fiddle away","lose","smash","wreck","squander","throw away"],"Unattested":["reave","fornim","fortake"]}
 {"Chancery":"waste","Class":"n","Attested":["chaff","dross","dust","barren","heath","no man's land","westen; dirt","dung","slops"],"Unattested":["money: feespilling"]}
 {"Chancery":"waste","Class":"adj","Attested":["bony","dead","stark"],"Unattested":[]}
 {"Chancery":"wasteland","Class":"n","Attested":["barren","dryland","heath","no-man's-land","westen"],"Unattested":[]}

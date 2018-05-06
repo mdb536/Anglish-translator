@@ -1,5 +1,5 @@
-{"Chancery":"Jack o'Lantern","Class":"n","Attested":[],"Unattested":["Jack o'Lightvat","marrowhead","Halloween-marrow"]}
-{"Chancery":"jaguar","Class":"n","Attested":[],"Unattested":["truenicker"]}
+{"Chancery":"Jack o'Lantern","Class":"n","Attested":["will-o-the-wisp","foxfire","wildfire","marshlight"],"Unattested":["Jack o'Lightvat","marrowhead","Halloween-marrow"]}
+{"Chancery":"jaguar","Class":"n","Attested":["tiger"],"Unattested":["truenicker"]}
 {"Chancery":"jail","Class":"n","Attested":["lockup"],"Unattested":["fanghouse","","carcern","dimhouse","fastern","wittern 2. slang terms: slough","blackhouse","iron-house"]}
 {"Chancery":"jam","Class":"n","Attested":["konfiture"],"Unattested":["-sweetspread","as strawberry","raspberry","quince","chokeberry sweetspread etc."]}
 {"Chancery":"janitor","Class":"n","Attested":["caretaker"],"Unattested":[]}
@@ -10,7 +10,7 @@
 {"Chancery":"jaundiced","Class":"adj","Attested":["sallow"],"Unattested":[]}
 {"Chancery":"jealous","Class":"adj","Attested":["green-eyed"],"Unattested":["andy","ellenhetten","nithy","","nitheful","","swartsick"]}
 {"Chancery":"jealous person","Class":"n","Attested":[],"Unattested":["andi","man","ellenhettenwere","ellenhetten","man","female: ellenhettenfraw","andifrawbenither","nither"]}
-{"Chancery":"jealousy","Class":"n","Attested":[],"Unattested":["andiness","ellenhette","nithe"]}
+{"Chancery":"jealousy","Class":"n","Attested":["heartburn"],"Unattested":["andiness","ellenhette","nithe"]}
 {"Chancery":"Jehovah","Class":"n","Attested":["Almighty","Everlasting","Father","Godhead","Lord"],"Unattested":["Allfather","Life's Weaver","Dryghten","Worldshaper"]}
 {"Chancery":"jellyfish","Class":"n","Attested":["namby-pamby","wimp"],"Unattested":["stingfish","brimfish"]}
 {"Chancery":"jester","Class":"n","Attested":["funniman","gleeman"],"Unattested":[]}
@@ -43,12 +43,12 @@
 {"Chancery":"July","Class":"n","Attested":[],"Unattested":["Meadowmonth","Meadmonth","","Afterlithe","Haymonth"]}
 {"Chancery":"jump","Class":"vb","Attested":["leap","spring"],"Unattested":[]}
 {"Chancery":"June","Class":"n","Attested":[],"Unattested":["Midsummermonth < OE","Erelith","Solmonth","Fallowmonth"]}
-{"Chancery":"jungle","Class":"n","Attested":[],"Unattested":["orweald"]}
+{"Chancery":"jungle","Class":"n","Attested":["whirlpool","madhouse","snaggle"],"Unattested":["orweald"]}
 {"Chancery":"junior","Class":"adj","Attested":["younger","youth","young","underling"],"Unattested":[]}
 {"Chancery":"jurisdiction","Class":"n","Attested":["law","lawhood"],"Unattested":["leedred"]}
 {"Chancery":"just","Class":"adj","Attested":["fair","straight","upright"],"Unattested":[]}
 {"Chancery":"just","Class":"adv","Attested":["barely","hardly","slightly","but","only; fully","rightly","sharply; nearly","lately","only now","anowly","benowly I just saw that"],"Unattested":["nar "]}
-{"Chancery":"just about","Class":"adj","Attested":[],"Unattested":["sowhat"]}
+{"Chancery":"just about","Class":"adj","Attested":["almost"],"Unattested":["sowhat"]}
 {"Chancery":"justice","Class":"n","Attested":["fair shake","fairness","rightfulness","rightness"],"Unattested":["righthood"]}
 {"Chancery":"justification","Class":"n","Attested":["grounds"],"Unattested":["begrounding"]}
 {"Chancery":"justified","Class":"adj","Attested":["well-grounded"],"Unattested":["begrounded"]}

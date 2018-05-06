@@ -1,4 +1,4 @@
-{"Chancery":"quadrilateral","Class":"n","Attested":[],"Unattested":["fourhook"]}
+{"Chancery":"quadrilateral","Class":"n","Attested":[],"Unattested":["fourhook","fithershite"]}
 {"Chancery":"quadrupedal","Class":"adj","Attested":["four-footed"],"Unattested":[]}
 {"Chancery":"quadruple","Class":"vb/adj","Attested":["fourfold"],"Unattested":[]}
 {"Chancery":"quadruplet","Class":"n","Attested":[],"Unattested":["fourfoldling"]}
@@ -7,7 +7,7 @@
 {"Chancery":"quality","Class":"n/adj","Attested":["n: standing","hallmark","kind","adj: worthy","blue-chip"," four-star"," gilt-edged","groovy","keen","lovely","sterling","tip-top","topping","wonderfulslang: cool","out-of-sight"],"Unattested":["suchness","ownship","","special: sunderkind"]}
 {"Chancery":"quantity","Class":"n","Attested":["boatload","bunch","bundle","deal","handful","heap","hundred","lashings","loads","sheaf","shipload","stack","wealth"],"Unattested":["yelm","mickleness","muchness"]}
 {"Chancery":"quarry","Class":"n","Attested":["stonepit","stone-bed"],"Unattested":["delvern"]}
-{"Chancery":"quarter","Class":"n","Attested":["fourth","farthing"],"Unattested":[]}
+{"Chancery":"quarter","Class":"n","Attested":["fourth","farthing"],"Unattested":["fourdeal"]}
 {"Chancery":"quartz","Class":"n","Attested":[],"Unattested":["hardstone"]}
 {"Chancery":"quasi-","Class":"pref","Attested":["almost","nearly","nigh-"],"Unattested":[]}
 {"Chancery":"quay","Class":"n","Attested":["wharf"],"Unattested":[]}
@@ -25,5 +25,5 @@
 {"Chancery":"quintessential","Class":"adj","Attested":[],"Unattested":["swotelsome"]}
 {"Chancery":"quit","Class":"vb","Attested":["step down","give up","knock off; forsake","allay","end"],"Unattested":[]}
 {"Chancery":"quite","Class":"adv","Attested":["altogether","wholly","kind of","more or less","much","fully","even","evenly","fairly"],"Unattested":[]}
-{"Chancery":"quote","Class":"vb","Attested":[],"Unattested":["twinspeak"]}
+{"Chancery":"quote","Class":"vb","Attested":["show"],"Unattested":["twinspeak"]}
 {"Chancery":"quotidian","Class":"adj","Attested":["daily"],"Unattested":[]}

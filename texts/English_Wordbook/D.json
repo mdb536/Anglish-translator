@@ -84,12 +84,12 @@
 {"Chancery":"Deism","Class":"n","Attested":[],"Unattested":["Godtroth"]}
 {"Chancery":"de jure","Class":"adj/adv","Attested":["lawfully","by law"],"Unattested":[]}
 {"Chancery":"delay","Class":"n","Attested":["lag","holdup","frist"],"Unattested":[]}
-{"Chancery":"delay","Class":"vb","Attested":["stall","forestall","tarry","frist"],"Unattested":[]}
-{"Chancery":"delete","Class":"vb/n","Attested":[],"Unattested":["unmark","forwipe"]}
+{"Chancery":"delay","Class":"vb","Attested":["stall","forestall","tarry","frist","belate"],"Unattested":[]}
+{"Chancery":"delete","Class":"vb/n","Attested":["get rid of"],"Unattested":["unmark","forwipe"]}
 {"Chancery":"deliberate","Class":"adj","Attested":["weighed","thought out","set","willed"],"Unattested":["hillered"]}
 {"Chancery":"deliberate","Class":"vb/n","Attested":["think about","think over"],"Unattested":["hiler"]}
 {"Chancery":"delicacy","Class":"n","Attested":[],"Unattested":[]}
-{"Chancery":"delicious","Class":"adj","Attested":["dainty","lush","toothsome","mouthwatering","lickerish"],"Unattested":[]}
+{"Chancery":"delicious","Class":"adj","Attested":["smakely","dainty","lush","toothsome","mouthwatering","lickerish"],"Unattested":[]}
 {"Chancery":"delight","Class":"n","Attested":["gladness","lust"],"Unattested":["fain","list","queemness","  itheness"]}
 {"Chancery":"delightful","Class":"adj","Attested":["sweet","darling","pleasing"," heavenly","winsome"],"Unattested":["faining","listing","queemful"]}
 {"Chancery":"delimit","Class":"vb","Attested":[],"Unattested":["mire"]}
@@ -189,7 +189,7 @@
 {"Chancery":"develop","Class":"vb","Attested":["grow","build","unfold","unwrap","foster"],"Unattested":["forblow"]}
 {"Chancery":"developed, poorly","Class":"adj","Attested":["wan-thriven"],"Unattested":[]}
 {"Chancery":"development(al)","Class":"n/adj","Attested":["growth","upshot; ripening","fostering"],"Unattested":["forblowing"]}
-{"Chancery":"device","Class":"n","Attested":["tool","hardware"],"Unattested":[]}
+{"Chancery":"device","Class":"n","Attested":["tool","hardware","gadget"],"Unattested":[]}
 {"Chancery":"devious","Class":"adj","Attested":["shrewd","wily"],"Unattested":[]}
 {"Chancery":"devise","Class":"vb","Attested":["think up","think of","leave in a will"],"Unattested":[]}
 {"Chancery":"devolve","Class":"vb","Attested":[],"Unattested":["netherwind"]}
@@ -255,7 +255,7 @@
 {"Chancery":"disabled","Class":"adj","Attested":["lame","halt"],"Unattested":[]}
 {"Chancery":"disadvantage","Class":"n","Attested":["afterdeal","drawback","downside"],"Unattested":[]}
 {"Chancery":"disadvantaged","Class":"adj","Attested":["hindered"],"Unattested":[]}
-{"Chancery":"disappear","Class":"vb","Attested":["flee","melt","sink"],"Unattested":["fordwine"]}
+{"Chancery":"disappear","Class":"vb","Attested":["flee","melt","sink"],"Unattested":["fordwine","forswind"]}
 {"Chancery":"disappoint","Class":"vb","Attested":["let down"],"Unattested":[]}
 {"Chancery":"disarm","Class":"vb","Attested":[],"Unattested":["andweapon"]}
 {"Chancery":"disarrange","Class":"vb","Attested":["rumple","tousle"],"Unattested":[]}
@@ -308,6 +308,7 @@
 {"Chancery":"dispute","Class":"vb","Attested":["bicker","brawl","tiff","wrangle"],"Unattested":["flit"]}
 {"Chancery":"disqualify","Class":"vb","Attested":["unfit"],"Unattested":[]}
 {"Chancery":"disregard","Class":"vb","Attested":["overlook","forheed"],"Unattested":["overgum"]}
+{"Chancery":"disrupt","Class":"vb","Attested":["upset","unsettle","break","break up","sunder","split","shatter","tear","rip","rattle","muddle"],"Unattested":[]}
 {"Chancery":"dissect","Class":"vb","Attested":["sithe","cut up"],"Unattested":[]}
 {"Chancery":"dissemble","Class":"vb","Attested":["bluff","sham","put on","let on","make out"],"Unattested":["aswike"]}
 {"Chancery":"dissolution","Class":"n","Attested":["breakup","split","sundering"],"Unattested":[]}

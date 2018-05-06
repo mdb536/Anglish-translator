@@ -13,14 +13,14 @@
 {"Chancery":"railroad","Class":"n","Attested":[],"Unattested":["ironroad","ironpath","sporroad"]}
 {"Chancery":"rancid","Class":"adj","Attested":["rotting","reeking","smelly","stale","foul","dank","rank","taff"],"Unattested":[]}
 {"Chancery":"random","Class":"adj/n","Attested":["hit-or-miss","slay","may-fall","pot shot."],"Unattested":["fallenly","tofally","willcury","see The word \"random\"."]}
-{"Chancery":"random page","Class":"n","Attested":[],"Unattested":["willcury trammet","may-fall leaf."]}
+{"Chancery":"random page","Class":"n","Attested":[],"Unattested":["willcury trammet","may-fall leaf"]}
 {"Chancery":"range","Class":"n","Attested":["reach","stretch"],"Unattested":[]}
 {"Chancery":"ranger","Class":"n","Attested":["keeper","warden","overseer"],"Unattested":["upseer"]}
 {"Chancery":"rank","Class":"n","Attested":["row","standing"],"Unattested":["hoad"]}
 {"Chancery":"rankle","Class":"vb","Attested":["gall","irk"],"Unattested":[]}
 {"Chancery":"rape","Class":"vb/n","Attested":[],"Unattested":["needheemed"]}
 {"Chancery":"rapid","Class":"adj","Attested":["fast","quick","speedy","swift"],"Unattested":["snell"]}
-{"Chancery":"rappel","Class":"vb","Attested":["abseil"],"Unattested":[]}
+{"Chancery":"rappel","Class":"vb","Attested":["abseil"],"Unattested":["downrope"]}
 {"Chancery":"rare","Class":"adj","Attested":["seldom","seldseen","unlikely","fewsome"],"Unattested":["seldsome","seldly"]}
 {"Chancery":"rarely","Class":"adv","Attested":["seldom"],"Unattested":[]}
 {"Chancery":"rarified","Class":"adj","Attested":["fewsome","thin"],"Unattested":[]}
@@ -43,14 +43,14 @@
 {"Chancery":"really","Class":"adv","Attested":["truly"],"Unattested":["soothly","sooth","echtly"]}
 {"Chancery":"realm (royal)","Class":"n","Attested":["kingdom"],"Unattested":[]}
 {"Chancery":"realm","Class":"n","Attested":["world","land"],"Unattested":[]}
-{"Chancery":"reason","Class":"n/vb","Attested":["grounds","wherefore","why","sake","vb: reckon","make out","work outfaculty:  mind","brains","understanding"],"Unattested":["frum","inthing","ontimber","\norsake","\nreðe","\nanget","\nrack","\nrightwiseness","\nshedwiseness","\nshed","\nwit","\nnift"]}
+{"Chancery":"reason","Class":"n/vb","Attested":["grounds","wherefore","why","sake","vb: reckon","make out","work outfaculty:  mind","brains","understanding"],"Unattested":["frum","inthing","ontimber","\norsake","\nrethe","\nanget","\nrack","\nrightwiseness","\nshedwiseness","\nshed","\nwit","\nnift"]}
 {"Chancery":"reasonable","Class":"adj","Attested":["well-grounded"],"Unattested":["shedwise","shedly"]}
-{"Chancery":"rebel","Class":"n","Attested":["withstander"],"Unattested":["withercor","pl: withercorren","","upstander","upstandling"]}
+{"Chancery":"rebel","Class":"n","Attested":["withstander"],"Unattested":["withercor","upstander","upstandling"]}
 {"Chancery":"rebel","Class":"vb","Attested":["rise up"],"Unattested":["withsee","withfight","","upstand"]}
 {"Chancery":"rebellion","Class":"n","Attested":["outbreak","uprising"],"Unattested":["upstand"]}
 {"Chancery":"rebellious","Class":"adj","Attested":[],"Unattested":["upstandy"]}
 {"Chancery":"rebuke","Class":"vb","Attested":["threap","chide","tick off","berate","call down"],"Unattested":["strife","threw","threaw","forquethe"]}
-{"Chancery":"recall","Class":"vb","Attested":["withcall","withdraw","bethink"],"Unattested":["withmind","call to mind","think back to"]}
+{"Chancery":"recall","Class":"vb","Attested":["withcall","withdraw","bethink"],"Unattested":["edcall","eftcall","withmind","call to mind","think back to"]}
 {"Chancery":"recapitulation","Class":"n","Attested":["going over again"],"Unattested":["withspelling","withhaul"]}
 {"Chancery":"receive","Class":"vb","Attested":["get","win","earn","take"],"Unattested":["beget","thedge"," fang"]}
 {"Chancery":"receipt","Class":"n","Attested":["sales slip","sales stub"],"Unattested":[""]}
@@ -59,7 +59,7 @@
 {"Chancery":"recite","Class":"vb","Attested":["yarn","reel off"],"Unattested":["reich"]}
 {"Chancery":"recline","Class":"vb","Attested":["lie back","lie down","stretch heel"],"Unattested":[]}
 {"Chancery":"recognise","Class":"vb","Attested":["acknow","acknowledge"],"Unattested":["yeme","onget"]}
-{"Chancery":"recommend","Class":"vb","Attested":[],"Unattested":["ettle","befeal"]}
+{"Chancery":"recommend","Class":"vb","Attested":[],"Unattested":["ettle","befeal","rede"]}
 {"Chancery":"recompense","Class":"n","Attested":[],"Unattested":["gainyield"]}
 {"Chancery":"reconsideration","Class":"n","Attested":["afterthought"],"Unattested":["edsmighing"]}
 {"Chancery":"reconcile","Class":"vb","Attested":["key"],"Unattested":["braid up"]}
@@ -145,13 +145,13 @@
 {"Chancery":"remainder","Class":"n","Attested":[],"Unattested":["lave","dross","orts"]}
 {"Chancery":"remains","Class":"n","Attested":["ashes","rubble","wreck","bones","stiff; leavings","leftovers","odds and ends"],"Unattested":["laves"]}
 {"Chancery":"remedy","Class":"n","Attested":["heeling","salve","boot"],"Unattested":[]}
-{"Chancery":"remember","Class":"vb","Attested":["hark back","mind","think of","call to mind","bethink","mark","withcall","beholdmemorize: bear in mind"],"Unattested":["edcall","amone","mind back","","umbethink","inmind","stockmind"]}
-{"Chancery":"remind","Class":"vb","Attested":["call to mind"],"Unattested":["mane"]}
-{"Chancery":"reminder","Class":"n","Attested":[],"Unattested":["eftminding","umbethinking"]}
+{"Chancery":"remember","Class":"vb","Attested":["hark back","mind","think of","call to mind","bethink","mark","withcall","beholdmemorize: bear in mind"],"Unattested":["edcall","eftcall","amone","mind back","umbethink","memorize: inmind","stockmind","inkeep"]}
+{"Chancery":"remind","Class":"vb","Attested":["call to mind"],"Unattested":["mane","edmind","eftmind","incall"]}
+{"Chancery":"reminder","Class":"n","Attested":[],"Unattested":["edminding","eftminding","umbethinking","incalling"]}
 {"Chancery":"reminisce","Class":"vb","Attested":[],"Unattested":["eftmind"]}
 {"Chancery":"remnant","Class":"n","Attested":["leftover"],"Unattested":[]}
 {"Chancery":"remote","Class":"adj","Attested":["slight","slim","small","cold-eyed","stadoffish; hidden; deep","far-flung"],"Unattested":[]}
-{"Chancery":"remove","Class":"vb","Attested":["foredo","unstay","take out","draw out"],"Unattested":["unshrithe"]}
+{"Chancery":"remove","Class":"vb","Attested":["foredo","unstay","","take out","draw out"],"Unattested":["unshrithe"]}
 {"Chancery":"renaissance","Class":"n","Attested":[],"Unattested":["andblowing","agenbirth","+birth)"]}
 {"Chancery":"renal","Class":"adj","Attested":["kidney"],"Unattested":[]}
 {"Chancery":"rename","Class":"vb","Attested":[],"Unattested":["edname","agenclepe","edclepe","ed-deem"]}
@@ -253,7 +253,7 @@
 {"Chancery":"retort","Class":"n","Attested":["yieldback","wisecrack","backlash"],"Unattested":[]}
 {"Chancery":"retract","Class":"vb","Attested":["take back","withdraw"],"Unattested":[]}
 {"Chancery":"retreat","Class":"vb","Attested":["withdraw"],"Unattested":[]}
-{"Chancery":"retrieve","Class":"vb","Attested":[],"Unattested":["withfind"]}
+{"Chancery":"retrieve","Class":"vb","Attested":["fetch"],"Unattested":["withfind"]}
 {"Chancery":"retrograde","Class":"adj","Attested":["backward"],"Unattested":[]}
 {"Chancery":"return","Class":"n","Attested":["comeback","earnings","incoming"],"Unattested":["andcome","gainfare"]}
 {"Chancery":"return","Class":"vb","Attested":["come back"],"Unattested":["edwhirve","edwend","andgive"]}
@@ -298,7 +298,7 @@
 {"Chancery":"robbery","Class":"n","Attested":["sneaky filching","violent reaving"],"Unattested":[]}
 {"Chancery":"robin","Class":"n","Attested":["redbreast"],"Unattested":["ruddock"]}
 {"Chancery":"robust","Class":"adj","Attested":["fit","hale","hearty","sound","whole","flush","lusty"," ful-blooded: big","full","plush","rich; strong"],"Unattested":[]}
-{"Chancery":"robot","Class":"n","Attested":[],"Unattested":["wileman","sparkman"]}
+{"Chancery":"robot","Class":"n","Attested":[],"Unattested":["wileman","sparkman","sparkthrall"]}
 {"Chancery":"rocket","Class":"n","Attested":[],"Unattested":["rock","rocker"]}
 {"Chancery":"rodent","Class":"n","Attested":["gnawer"],"Unattested":["gnawdeer"]}
 {"Chancery":"rogue","Class":"n/adj","Attested":[],"Unattested":["shirk"]}

@@ -1,0 +1,18 @@
+<div class="center" id="index">
+<form method="POST" action="" id="translator">
+	<textarea name="english" form="translator" id="englishForm">{{this.original}}</textarea>
+	<input type="submit" name="translate" value="translate" id="submitForm">
+	<textarea readonly name="anglish" id="anglish">{{this.anglish}}</textarea>
+</form>
+<p id="warning" class="lead"></p>
+<div>
+
+<div class="hero-unit">
+  <h3>Currently there are some errors in the translator:</h3>
+	<ul>
+	<li>Homophones: unable to distinguish between certain homophones</li>
+	<li>Verb conjugation has some specific replacement erros</li>
+	<li>contractions are not yet accounted for</li>
+	</ul>
+  <h3>I am working towards fixing them!</h3>
+</div>
