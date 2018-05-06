@@ -6,6 +6,7 @@ const path = require('path');
 
 const app = express();
 const trans = require('./translate.js');
+const PORT = process.env.PORT || 3000
 
 app.set('view engine', 'hbs');
 
@@ -35,4 +36,4 @@ app.post('/', (req, res) =>{
 
 });
 
-app.listen(3000);
+app.listen(PORT);
