@@ -1100,7 +1100,6 @@ function find(arr){
 function checkVerbs(obj){
 	for(prop in obj){
 		if(prop === obj[prop]){
-			console.log(prop);
 			if(prop.endsWith("ing")){
 				const checkStr = prop.substring(0, prop.length - 3); 
 				let search = findWord(checkStr);
@@ -1181,7 +1180,6 @@ function threadBack(str, obj){
 
 	}
 	lowerStr = lowerStr.substring(0, lowerStr.length - 1); 
-	console.log(lowerStr);
 	return lowerStr;
 }
 

@@ -4,13 +4,13 @@ function validateForm(){
 	if(form !== null){
 		form.addEventListener('submit', function(event){
 			console.log(document.querySelector("#englishForm").value.length);
-			if(document.querySelector("#englishForm").value.length > 250){
+			if(document.querySelector("#englishForm").value.length > 750){
 				event.preventDefault();
 				const parent = document.querySelector("#index");
 				const message = document.createElement("p");
 				message.querySelector("#warning");
 				message.style.color = "red";
-				message.innerHTML = "Exceeds 250 character limit ✗";
+				message.innerHTML = "Exceeds 750 character limit ✗";
 				message.addEventListener('click', function(event){
 					message.innerHTML = "";
 				});
